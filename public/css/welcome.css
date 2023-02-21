@@ -1,0 +1,32 @@
+* {
+    font-family: "Roboto", sans-serif;
+}
+
+.main-container {
+    max-width: 1380px;
+    margin: auto;
+}
+
+body {
+    height: 100vh;
+}
+
+.bg-image {
+    background-image: url("https://images.unsplash.com/photo-1448375240586-882707db888b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 90vh;
+    filter: blur(3px);
+}
+
+body {
+    height: 100vh;
+}
+.nav-bgg {
+    height: 6vh;
+}
+
+footer {
+    height: 4vh;
+}

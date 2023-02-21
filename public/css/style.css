@@ -1,0 +1,11 @@
+* {
+    font-family: "Poppins", sans-serif;
+}
+
+#main {
+    background: url("https://iili.io/HGwFeRt.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 85vh;
+}
