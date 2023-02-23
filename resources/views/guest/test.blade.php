@@ -1,5 +1,0 @@
-@extends('layout.app')
-
-@section('content')
-    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aliquam ducimus voluptatum, a quam voluptatem atque. Deleniti at ducimus voluptas quaerat voluptatibus provident perferendis numquam quis quae! Architecto necessitatibus pariatur nesciunt maiores fugit provident eum, natus, illo voluptate assumenda odio beatae accusantium atque. Blanditiis officia quaerat eveniet sit? Quod unde, tenetur sapiente voluptas nisi culpa placeat magni reiciendis quam libero laboriosam nemo consectetur aspernatur, repellendus tempore earum sint error, omnis debitis commodi nesciunt exercitationem! Velit, cumque aut dolorem eligendi illum sequi deserunt ad consectetur eaque quam iure alias, dolores modi nemo architecto id vel cum tempora harum consequatur repellat. Officiis, doloribus.</p>
-@endsection

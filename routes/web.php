@@ -17,6 +17,6 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/test', function () {
-    return view('guest.test');
+Route::get('/KEOP_7.1.1.1', function () {
+    return view('guest.keop7111');
 });

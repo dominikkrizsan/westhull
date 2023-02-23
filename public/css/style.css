@@ -9,3 +9,7 @@
     background-size: cover;
     height: 85vh;
 }
+
+li {
+    list-style: none;
+}
