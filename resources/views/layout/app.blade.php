@@ -60,7 +60,7 @@
                         <p
                             class="text-white ml-3 hover:text-emerald-400 ease-in duration-200"
                         >
-                            +36-11-111-111
+                            +36/94 316 850
                         </p>
                     </a>
                     <a href="" class="flex items-center">
@@ -70,7 +70,7 @@
                         <p
                             class="text-white ml-3 hover:text-emerald-400 ease-in duration-200"
                         >
-                            westhull@gmail.com
+                            info@westhull.hu
                         </p>
                     </a>
                 </div>
@@ -219,13 +219,6 @@
                                 >Közbeszerzés</a
                             >
                         </li>
-                        <li>
-                            <a
-                                href="#"
-                                class="block py-2 pl-3 pr-4 text-gray-700 text-lg rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-gray-400 md:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent ease-in duration-200"
-                                >Aktuális</a
-                            >
-                        </li>
                     </ul>
                 </div>
             </div>
@@ -242,7 +235,7 @@
                 <div class="grid grid-cols-4 gap-20 text-zinc-400">
                     <div class="flex flex-col gap-2">
                         <p class="font-bold text-2xl mb-5">Westhull</p>
-                        <p>Szombathely fő utca 3. <br> 9700 Szombathely</p>
+                        <p>9700 Szombathely, <br> Kossuth Lajos utca 1-3.</p>
                     </div>
                     <div class="flex flex-col gap-2">
                         <p class="font-bold text-2xl mb-5">Cég</p>
@@ -254,14 +247,14 @@
                     <div class="flex flex-col gap-2">
                         <p class="font-bold text-2xl mb-5">Gyorslinkek</p>
                         <a href="">Kezdőlap</a>
-                        <a href="">Projektről</a>
-                        <a href="">Társulásról</a>
-                        <a href="">Aktuális</a>
+                        <a href="">Hírek</a>
+                        <a href="">Fotók - Fotótár</a>
+                        <a href="">Média</a>
                     </div>
                     <div class="flex flex-col gap-2">
                         <p class="font-bold text-2xl mb-5">Kapcsolat</p>
-                        <a href="">westhull@gmail.com</a>
-                        <a href="">+36-11-111-111</a>
+                        <a href="">info@westhull.hu</a>
+                        <a href="">+36/94 316 850</a>
                     </div>
                 </div>
             </div>

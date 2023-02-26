@@ -86,8 +86,21 @@
     {{-- team --}}
     <div class="px-2 py-3 bg-white dark:bg-zinc-200 pb-20">
         <div class="container w-4/6 flex flex-col gap-4 items-center justify-around mx-auto py-10 bg-zinc-200">
-            <p class="text-4xl font-bold my-5">Összetartó Csapat</p>
-            <div class="grid grid-cols-3 gap-20">
+            <p class="mt-5 text-xl text-emerald-500">Csapatunk</p>
+            <p class="text-4xl font-bold mb-5">Ismerd meg összetartó csapatunkat</p>
+            <div class="grid grid-cols-4 gap-20">
+                <div class="flex flex-col gap-4">
+                    <img class="rounded-lg w-96" src="{{ asset('./img/team-1.jpg') }}" alt="">
+                    <div class="flex flex-col">
+                        <p class="text-lg text-center">Beosztás</p>
+                        <p class="text-4xl font-bold text-center mt-2"> Kovács István</p>
+                        <div class="flex items-center justify-center gap-5 mt-4">
+                            <a href="" class="text-2xl text-zinc-700 hover:text-emerald-700 ease-in duration-200"><i class="fa-brands fa-facebook-f"></i></a>
+                            <a href="" class="text-2xl text-zinc-700 hover:text-emerald-700 ease-in duration-200"><i class="fa-brands fa-linkedin"></i></i></a>
+                            <a href="" class="text-2xl text-zinc-700 hover:text-emerald-700 ease-in duration-200"><i class="fa-solid fa-envelope"></i></a>
+                        </div>
+                    </div>
+                </div>
                 <div class="flex flex-col gap-4">
                     <img class="rounded-lg w-96" src="{{ asset('./img/team-1.jpg') }}" alt="">
                     <div class="flex flex-col">
@@ -127,13 +140,86 @@
             </div>
         </div>
     </div>
-    {{-- aktualis --}}
-    <h2>Aktuális</h2>
     {{-- hirek --}}
-    <h3>Hírek</h3>
-    {{-- fotok --}}
-    <h3>Fotók</h3>
-    {{-- media --}}
-    <h3>Média</h3>
+    <div class="news px-2 py-5">
+        <div
+                class="container w-4/5 flex flex-col items-center justify-center mx-auto mt-20 gap-3"
+            >
+                <div class="flex flex-col gap-6">
+                    <h3 class="text-xl text-center text-emerald-500">Legfrissebb</h3>
+                    <h3 class="text-6xl font-bold text-center text-zinc-100 mb-20">Hírek</h3>
+                </div>
+                <div class="grid grid-cols-3 gap-28 justify-items-center items-start text-lg text-zinc-100">
+                    <div class="flex flex-col justify-center gap-4">
+                        <img class="w-max rounded-xl" src="{{asset('./img/news-1.jpg')}}" alt="">
+                        <div class="flex items-center gap-6">
+                            <p class="text-zinc-400 text-lg">2015.12.09.</p>
+                            <p class="text-zinc-400 text-lg">/</p>
+                            <p class="text-zinc-400 text-lg">Sajtóközlemény</p>
+                        </div>
+                        <p class="text-2xl font-bold">Ünnepélyes keretek között zárult a Nyugat-dunántúli Regionális Hulladékgazdálkodási Program</p>
+                    </div>
+                    <div class="flex flex-col justify-center gap-4">
+                        <img class="w-max rounded-xl" src="{{asset('./img/news-2.jpg')}}" alt="">
+                        <div class="flex items-center gap-6">
+                            <p class="text-zinc-400 text-lg">2015.08.24.</p>
+                            <p class="text-zinc-400 text-lg">/</p>
+                            <p class="text-zinc-400 text-lg">Sajtóközlemény</p>
+                        </div>
+                        <p class="text-2xl font-bold">Egyedülálló projektbemutató nyílt napot tartottak Vas megyében</p>
+                    </div>
+                    <div class="flex flex-col justify-center gap-4">
+                        <img class="w-max rounded-xl" src="{{asset('./img/news-3.jpg')}}" alt="">
+                        <div class="flex items-center gap-6">
+                            <p class="text-zinc-400 text-lg">2015.08.07.</p>
+                            <p class="text-zinc-400 text-lg">/</p>
+                            <p class="text-zinc-400 text-lg">Sajtóközlemény</p>
+                        </div>
+                        <p class="text-2xl font-bold">Egyre népszerűbb a szelektív hulladékgyűjtés az Európai Unióban és Magyarországon</p>
+                    </div>
+                </div>
+                <a class="border-2 border-emerald-500 hover:bg-emerald-500 text-white font-bold py-4 px-5 rounded-full text-lg ease-in duration-200 my-16" href="#">További Hírek</a>
+        </div>
+    </div>
+    {{-- kapcsolat / szekhely --}}
 
+    <div class="bg-white dark:bg-zinc-200 pt-20">
+        <h2 class="text-xl text-center text-emerald-500 mb-3">Keress minket</h2>
+        <h1 class="text-6xl font-bold text-center mb-8">Kapcsolat</h1>
+        {{-- <div class="border-2 border-emerald-500 w-80 mx-auto"></div> --}}
+        <div class="px-2 py-3 bg-white border-zinc-200 border-b-2 py-6 mt-10 dark:bg-zinc-200">
+            <div class="container w-4/6 flex items-center justify-around mx-auto py-10">
+                <a class="hover:bg-emerald-100 rounded-2xl ease-in duration-200" href="">         
+                    <div class="flex flex-col items-center justify-center py-8 px-10 rounded-xl">
+                        <i class="fa-solid fa-map-location-dot text-6xl"></i>
+                        <p class="text-xl text-emerald-500 font-bold mt-5 mb-3">Székhely</p>
+                        <p class="text-2xl text-center">Kossuth Lajos utca 1-3.</p>
+                    </div>
+                </a>  
+                <a class="hover:bg-emerald-100 rounded-2xl ease-in duration-200" href="">
+                    <div class="flex flex-col items-center justify-center  py-8 px-10">
+                        <i class="fa-solid fa-envelope-circle-check text-6xl"></i>
+                        <p class="text-xl text-emerald-500 font-bold mt-5 mb-3">Email</p>
+                        <p class="text-2xl text-center">info@westhull.hu</p>
+                    </div>
+                </a>
+                <a class="hover:bg-emerald-100 rounded-2xl ease-in duration-200" href="">
+                    <div class="flex flex-col items-center justify-center  py-8 px-10">
+                        <i class="fa-solid fa-mobile text-6xl"></i>
+                        <p class="text-xl text-emerald-500 font-bold mt-5 mb-3">Telefon</p>
+                        <p class="text-2xl text-center">+36/94 316 850</p>
+                    </div>
+                </a>
+                <a class="hover:bg-emerald-100 rounded-2xl ease-in duration-200" href="">
+                    <div class="flex flex-col items-center justify-center  py-8 px-10">
+                        <i class="fa-brands fa-facebook-f text-6xl"></i>
+                        <p class="text-xl text-emerald-500 font-bold mt-5 mb-3">Facebook</p>
+                        <p class="text-2xl text-center">Hulladekgazdalkod</p>
+                    </div>
+                </a>
+            </div>
+        </div>
+        
+        <iframe id="iframe" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2709.315871148547!2d16.619175315617458!3d47.2299669791615!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476eb9b7c9497755%3A0xf7980fd3d9ff4b2a!2sSzombathely%2C%20Kossuth%20Lajos%20u.%201%2C%209700!5e0!3m2!1shu!2shu!4v1677451039395!5m2!1shu!2shu" class="w-full" height="550" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
 @endsection

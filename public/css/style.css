@@ -21,3 +21,11 @@ li {
     background-size: cover;
     height: 40vh;
 }
+
+.news {
+    background: url("https://iili.io/HMpokqN.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
