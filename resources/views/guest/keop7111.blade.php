@@ -4,7 +4,7 @@
         class="container w-4/5 flex flex-col items-start justify-center mx-auto min-h-8/12 mt-4 gap-3"
     >
         <!-- rovid bemutatas -->
-        <p class="text-emerald-700 font-bold text-2xl pt-5">
+        <p class="text-emerald-600 font-bold text-2xl pt-5">
             Projekt rövid bemutatása
         </p>
         <p class="text-lg">
@@ -170,7 +170,7 @@
         </p>
         <div class="border-b border-zinc-300 w-9/12 mt-4"></div>
         <!-- resztvevok -->
-        <p class="text-emerald-700 font-bold text-2xl pt-5">
+        <p class="text-emerald-600 font-bold text-2xl pt-5">
             Projekben résztvevők
         </p>
         <div class="grid grid-cols-2 justify-items-stretch items-center">
@@ -202,9 +202,12 @@
         </div>
         <div class="border-b border-zinc-300 w-9/12 mt-4"></div>
         <!-- dokumentumok -->
-        <p class="text-emerald-700 font-bold text-2xl pt-5">
-            Projekt dokumentumai
-        </p>
+        <div class="flex items-center gap-5">
+            <i class="fa-solid fa-file-pdf text-4xl text-emerald-600"></i>
+            <h1 class="text-2xl font-bold text-emerald-600 pt-5 mb-5">
+                Projekt dokumentumai
+            </h1>
+        </div>
         <p class="text-lg">
             A 2009. december 01.-én benyújtott KEOP 7.1.1.1. települési
             szilárdhulladék-gazdálkodási rendszerek fejlesztése <br />

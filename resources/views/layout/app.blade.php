@@ -170,14 +170,14 @@
                                     </li>
                                     <li>
                                         <a
-                                            href="#"
+                                            href="{{ url('KEOP_1.1.1_2F_09-11-2012-0001')}}"
                                             class="block px-4 py-2 hover:bg-emerald-500 dark:hover:bg-gray-600 dark:hover:text-white ease-in duration-200"
                                             >KEOP 1.1.1/2F/09-11-2012-0001</a
                                         >
                                     </li>
                                     <li>
                                         <a
-                                            href="#"
+                                            href="{{ url('KEOP-2.3.0_2008-0006')}}"
                                             class="block px-4 py-2 hover:bg-emerald-500 dark:hover:bg-gray-600 dark:hover:text-white ease-in duration-200"
                                             >KEOP-2.3.0/2008-0006</a
                                         >
