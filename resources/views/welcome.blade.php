@@ -1,6 +1,7 @@
 @extends('layout.app')
 
 @section('content')
+    {{-- main --}}
     <div id="main" class="px-2 py-3 bg-white border-zinc-400 border-b-2 dark:bg-zinc-800 dark:border-zinc-700 mb-6">
         <div class="container w-4/6 flex flex-col items-start justify-center mx-auto min-h-full gap-3">
             <p class="text-white text-2xl">Összefogás a tiszta környezetért</p>
@@ -8,6 +9,7 @@
             <a class="bg-emerald-600 hover:bg-emerald-500 text-white font-bold py-5 px-7 rounded-full text-xl ease-in duration-200 mt-6" href="#us">Olvass tovább</a>
         </div>
     </div>
+    {{-- rolunk --}}
     <div id="us" class="container w-4/6 mx-auto min-h-full gap-3 grid grid-cols-2 mt-10">
         <div class="flex flex-col justify-content-center gap-6">
             <div class="flex flex-col gap-2">
@@ -39,6 +41,7 @@
             <img class="w-44" src="{{ asset('./img/eu.png')}}" alt="">
         </div> 
     </div>
+    {{-- szamlalok --}}
     <div id="counter" class="px-2 py-3 bg-white border-zinc-400 border-b-2 dark:bg-zinc-800 dark:border-zinc-700 py-6 mt-10">
         <div class="container w-4/6 flex items-center justify-around mx-auto py-10">
             <div class="flex flex-col items-center justify-center">
@@ -63,6 +66,7 @@
             </div>
         </div>
     </div>
+    {{-- paragraph --}}
     <div id="paragraph" class="container w-4/6 flex flex-col gap-4 items-center justify-around mx-auto py-10">
         <p class="text-lg">Az 1. fordulós pályázat során megkezdődött a program teljes körű műszaki, pénzügyi, jogi előkészítése. Az előkészítő munka eredményeként a Társulás rendelkezésére állt minden olyan szükséges engedély, tanulmány, amelyek a kivitelezés elindításához szükségesek. A sikeres 2. fordulós pályázatot követően a több milliárdos beruházás eredményeként felépült a szombathelyi hulladékválogató mű, 7db hulladékudvar (Bük, Körmend, Pankasz, Rábahídvég, Répcelak, Szentgotthárd, Szombathely településeken), elkészült 80 db hulladékgyűjtő sziget, leszállítottak 497 db 1100 literes lapos fedelű szelektív hulladékgyűjtő konténert is, valamint a begyűjtéshez szükséges géppark is beszerzésre került. Mindezek mellett pedig 27 500 db házi komposztáló edényzet kiosztása is folyamatban van.</p>
         <p class="text-lg">A projekt során kiemelt figyelmet fordítunk arra, hogy a lakosság és a sajtó képviselői minden szükséges információt megkapjanak. A folyamatos tájékoztatás következő lépéseként 2015 nyarán nyílt napot szervezünk a lakosság, valamint a sajtó képviselői számára, melynek során az érdeklődők testközelből is megismerkedhetnek a hulladékudvarok működésével és a projekt eredményeivel. Ezt követően pedig lakossági fórumot tartunk, ahol az érdeklődők tájékozódhatnak az új hulladékgazdálkodási rendszerrel kapcsolatos legfontosabb tudnivalókról.</p>
@@ -79,6 +83,7 @@
             <br>
             a Társulási Tanács Elnöke
     </div>
+    {{-- team --}}
     <div class="px-2 py-3 bg-white dark:bg-zinc-200 pb-20">
         <div class="container w-4/6 flex flex-col gap-4 items-center justify-around mx-auto py-10 bg-zinc-200">
             <p class="text-4xl font-bold my-5">Összetartó Csapat</p>
@@ -122,4 +127,13 @@
             </div>
         </div>
     </div>
+    {{-- aktualis --}}
+    <h2>Aktuális</h2>
+    {{-- hirek --}}
+    <h3>Hírek</h3>
+    {{-- fotok --}}
+    <h3>Fotók</h3>
+    {{-- media --}}
+    <h3>Média</h3>
+
 @endsection

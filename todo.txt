@@ -1,11 +1,20 @@
 menuk
     projektrol
         //keop7111
-        keop111/2f...
-        keop23.......
+        //keop111/2f
+        //keop23
     tarsulasrol -------------> marad a vegere
+    sajtoszoba
+    --fototar
+    kozbeszerzes
+        tarsualas
+        keop7111
+        keop230/b
+        keop111
+        keop111dokletoltes
+    --aktualis
 
-
+fototar es aktulas mehet a fooldalra
 
 
 

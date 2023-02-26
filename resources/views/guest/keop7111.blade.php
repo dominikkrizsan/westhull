@@ -1,4 +1,18 @@
 @extends('layout.app') @section('content')
+{{-- inner --}}
+<div class="inner">
+    <div
+        class="flex flex-col items-center justify-center h-full gap-6"
+    >
+        <h2 class="text-zinc-300 text-xl">Projektről</h2>
+        <h1 class="text-zinc-300 text-6xl font-bold">KEOP 7.1.1.1</h1>
+        <div class="flex gap-4 text-xl">
+            <a class="text-zinc-300 hover:text-zinc-100 ease-all duration-200" href="{{ url('/')}}">Kezdőlap</a>
+            <p class="text-zinc-300">/</p>
+            <p class="text-zinc-400">KEOP 7.1.1.1</p>
+        </div>
+    </div>
+</div>
 <div class="px-2 py-5 bg-white dark:bg-zinc-200">
     <div
         class="container w-4/5 flex flex-col items-start justify-center mx-auto min-h-8/12 mt-4 gap-3"
