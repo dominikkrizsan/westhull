@@ -197,7 +197,7 @@
                                     <a href="#" class="block px-4 py-2 hover:bg-emerald-500 dark:hover:bg-gray-600 dark:hover:text-white ease-in duration-200">Társulási tanács ülések</a>
                                 </li>
                                 <li>
-                                    <a href="#" class="block px-4 py-2 hover:bg-emerald-500 dark:hover:bg-gray-600 dark:hover:text-white ease-in duration-200">Költségvetés</a>
+                                    <a href="{{ url('/tarsulas-koltsegvetes') }}" class="block px-4 py-2 hover:bg-emerald-500 dark:hover:bg-gray-600 dark:hover:text-white ease-in duration-200">Költségvetés</a>
                                 </li>
                                 </ul>
                             </div>
@@ -268,6 +268,10 @@
             </div>
         </footer>
 
+        {{-- flowbite --}}
         <script src="https://unpkg.com/flowbite@1.5.1/dist/flowbite.js"></script>
+        {{-- jquery --}}
+        <script src="https://code.jquery.com/jquery-3.6.3.js" integrity="sha256-nQLuAZGRRcILA+6dMBOvcRh5Pe310sBpanc6+QBmyVM=" crossorigin="anonymous"></script>
+        <script src="{{asset('./js/myscript.js')}}"></script>
     </body>
 </html>

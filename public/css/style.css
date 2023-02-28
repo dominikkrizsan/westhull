@@ -34,3 +34,8 @@ li {
     background-size: cover;
     background-attachment: fixed;
 }
+
+.container .content {
+    display: none;
+    padding: 5px;
+}

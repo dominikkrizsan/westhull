@@ -37,8 +37,12 @@ Route::get('/kozbeszerzes', function () {
     return view('guest.kozbeszerzes');
 });
 
-/* ------------------------kozbeszerzes----------------------- */
+/* ------------------------tarsulasrol----------------------- */
 
 Route::get('/tarsulas', function () {
     return view('guest.tarsulasrol.tarsulas');
+});
+
+Route::get('/tarsulas-koltsegvetes', function () {
+    return view('guest.tarsulasrol.koltsegvetes');
 });
