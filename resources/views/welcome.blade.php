@@ -5,7 +5,7 @@
     <div id="main" class="px-2 py-3 bg-white border-zinc-400 border-b-2 dark:bg-zinc-800 dark:border-zinc-700 mb-6">
         <div class="main-container flex flex-col items-start justify-center mx-auto min-h-full gap-3">
             <p class="text-white text-2xl">Összefogás a tiszta környezetért</p>
-            <h1 class="text-white text-6xl leading-snug font-bold">Nyugat-Dunántúli Regionális <br> Hulladékgazdálkodási <br> Önkormányzati Társulás</h1>
+            <h1 class="text-white text-5xl leading-snug font-bold">Nyugat-Dunántúli Regionális <br> Hulladékgazdálkodási <br> Önkormányzati Társulás</h1>
             <a class="bg-emerald-600 hover:bg-emerald-500 text-white font-bold py-5 px-7 rounded-full text-xl ease-in duration-200 mt-6" href="#us">Olvass tovább</a>
         </div>
     </div>
@@ -14,7 +14,7 @@
         <div class="flex flex-col justify-content-center gap-6">
             <div class="flex flex-col gap-2">
                 <p class="uppercase text-lg">Rólunk</p>
-                <h1 class="uppercase text-4xl font-bold">Ezzel foglalkozunk Lorem <br> ipsum dolor sit amet.</h1>
+                <h1 class="uppercase text-4xl font-bold">Ezzel foglalkozunk</h1>
                 <p class="text-lg my-4">Vas megye 127 társult településén újul meg a szelektív hulladékgyűjtés rendszere a Nyugat-dunántúli Regionális Hulladékgazdálkodási Önkormányzati Társulás munkájának eredményeként.</p>
             </div>
             <div class="grid grid-cols-2 justify-items-start">
