@@ -10,6 +10,11 @@
     height: 85vh;
 }
 
+.main-container {
+    width: 1280px;
+    margin: auto;
+}
+
 li {
     list-style: none;
 }

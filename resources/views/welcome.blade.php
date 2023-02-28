@@ -3,14 +3,14 @@
 @section('content')
     {{-- main --}}
     <div id="main" class="px-2 py-3 bg-white border-zinc-400 border-b-2 dark:bg-zinc-800 dark:border-zinc-700 mb-6">
-        <div class="container w-4/6 flex flex-col items-start justify-center mx-auto min-h-full gap-3">
+        <div class="main-container flex flex-col items-start justify-center mx-auto min-h-full gap-3">
             <p class="text-white text-2xl">Összefogás a tiszta környezetért</p>
             <h1 class="text-white text-6xl leading-snug font-bold">Nyugat-Dunántúli Regionális <br> Hulladékgazdálkodási <br> Önkormányzati Társulás</h1>
             <a class="bg-emerald-600 hover:bg-emerald-500 text-white font-bold py-5 px-7 rounded-full text-xl ease-in duration-200 mt-6" href="#us">Olvass tovább</a>
         </div>
     </div>
     {{-- rolunk --}}
-    <div id="us" class="container w-4/6 mx-auto min-h-full gap-3 grid grid-cols-2 mt-10">
+    <div id="us" class="main-container mx-auto min-h-full gap-3 grid grid-cols-2 mt-10">
         <div class="flex flex-col justify-content-center gap-6">
             <div class="flex flex-col gap-2">
                 <p class="uppercase text-lg">Rólunk</p>
@@ -43,7 +43,7 @@
     </div>
     {{-- szamlalok --}}
     <div id="counter" class="px-2 py-3 bg-white border-zinc-400 border-b-2 dark:bg-zinc-800 dark:border-zinc-700 py-6 mt-10">
-        <div class="container w-4/6 flex items-center justify-around mx-auto py-10">
+        <div class=" main-container flex items-center justify-around mx-auto py-10">
             <div class="flex flex-col items-center justify-center">
                 <i class="fa-solid fa-building-user text-7xl text-emerald-500"></i>
                 <p class="text-4xl text-white font-bold mt-5">177<span class="text-2xl">+</span></p>
@@ -67,7 +67,7 @@
         </div>
     </div>
     {{-- paragraph --}}
-    <div id="paragraph" class="container w-4/6 flex flex-col gap-4 items-center justify-around mx-auto py-10">
+    <div id="paragraph" class=" main-container flex flex-col gap-4 items-center justify-around mx-auto py-10">
         <p class="text-lg">Az 1. fordulós pályázat során megkezdődött a program teljes körű műszaki, pénzügyi, jogi előkészítése. Az előkészítő munka eredményeként a Társulás rendelkezésére állt minden olyan szükséges engedély, tanulmány, amelyek a kivitelezés elindításához szükségesek. A sikeres 2. fordulós pályázatot követően a több milliárdos beruházás eredményeként felépült a szombathelyi hulladékválogató mű, 7db hulladékudvar (Bük, Körmend, Pankasz, Rábahídvég, Répcelak, Szentgotthárd, Szombathely településeken), elkészült 80 db hulladékgyűjtő sziget, leszállítottak 497 db 1100 literes lapos fedelű szelektív hulladékgyűjtő konténert is, valamint a begyűjtéshez szükséges géppark is beszerzésre került. Mindezek mellett pedig 27 500 db házi komposztáló edényzet kiosztása is folyamatban van.</p>
         <p class="text-lg">A projekt során kiemelt figyelmet fordítunk arra, hogy a lakosság és a sajtó képviselői minden szükséges információt megkapjanak. A folyamatos tájékoztatás következő lépéseként 2015 nyarán nyílt napot szervezünk a lakosság, valamint a sajtó képviselői számára, melynek során az érdeklődők testközelből is megismerkedhetnek a hulladékudvarok működésével és a projekt eredményeivel. Ezt követően pedig lakossági fórumot tartunk, ahol az érdeklődők tájékozódhatnak az új hulladékgazdálkodási rendszerrel kapcsolatos legfontosabb tudnivalókról.</p>
         <p class="text-lg">A program életre hívásával elsődleges célunk az, hogy megvalósítsuk a szilárdhulladék szelektív hulladékgazdálkodási rendszer fenntartását és üzemeltetését, valamint a társult önkormányzatok területén a bezárt települési szilárdhulladék lerakók rekultivációját.</p>
@@ -85,7 +85,7 @@
     </div>
     {{-- team --}}
     <div class="px-2 py-3 bg-white dark:bg-zinc-200 pb-20">
-        <div class="container w-4/6 flex flex-col gap-4 items-center justify-around mx-auto py-10 bg-zinc-200">
+        <div class=" main-container flex flex-col gap-4 items-center justify-around mx-auto py-10 bg-zinc-200">
             <p class="mt-5 text-xl text-emerald-500">Csapatunk</p>
             <p class="text-4xl font-bold mb-5">Ismerd meg összetartó csapatunkat</p>
             <div class="grid grid-cols-4 gap-20">
@@ -143,7 +143,7 @@
     {{-- hirek --}}
     <div class="news px-2 py-5">
         <div
-                class="container w-4/5 flex flex-col items-center justify-center mx-auto mt-20 gap-3"
+                class=" w-4/5 flex flex-col items-center justify-center mx-auto mt-20 gap-3"
             >
                 <div class="flex flex-col gap-6">
                     <h3 class="text-xl text-center text-emerald-500">Legfrissebb</h3>
@@ -188,7 +188,7 @@
         <h1 class="text-6xl font-bold text-center mb-8">Kapcsolat</h1>
         {{-- <div class="border-2 border-emerald-500 w-80 mx-auto"></div> --}}
         <div class="px-2 py-3 bg-white border-zinc-200 border-b-2 py-6 mt-10 dark:bg-zinc-200">
-            <div class="container w-4/6 flex items-center justify-around mx-auto py-10">
+            <div class=" main-container flex items-center justify-around mx-auto py-10">
                 <a class="hover:bg-emerald-100 rounded-2xl ease-in duration-200" href="">         
                     <div class="flex flex-col items-center justify-center py-8 px-10 rounded-xl">
                         <i class="fa-solid fa-map-location-dot text-6xl"></i>

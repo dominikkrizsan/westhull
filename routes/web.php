@@ -31,4 +31,8 @@ Route::get('/KEOP-2.3.0_2008-0006', function () {
     return view('guest.keop230');
 });
 
-/* ------------------------____________----------------------- */
+/* ------------------------kozbeszerzes----------------------- */
+
+Route::get('/kozbeszerzes', function () {
+    return view('guest.kozbeszerzes');
+});

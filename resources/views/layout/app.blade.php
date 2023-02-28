@@ -33,7 +33,7 @@
             class="px-2 py-3 bg-white border-zinc-400 border-b-2 dark:bg-zinc-800 dark:border-zinc-700"
         >
             <div
-                class="container w-4/5 flex flex-wrap items-center justify-between mx-auto"
+                class=" main-container flex flex-wrap items-center justify-between mx-auto"
             >
                 <div class="flex items-center gap-5">
                     <a href="https://www.facebook.com/hulladekgazd" target="___blank" class="text-gray-300 hover:text-emerald-500">
@@ -80,7 +80,7 @@
             class="px-2 py-4 bg-white border-gray-200 dark:bg-zinc-800 dark:border-gray-700"
         >
             <div
-                class="container w-4/5 flex flex-wrap items-center justify-between mx-auto"
+                class=" main-container flex flex-wrap items-center justify-between mx-auto"
             >
                 <a
                     href="{{ url('/') }}"
@@ -207,16 +207,16 @@
                         </li>
                         <li>
                             <a
-                                href="#"
+                                href="{{ url('/kozbeszerzes') }}"
                                 class="block py-2 pl-3 pr-4 text-gray-700 text-lg rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-gray-400 md:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent ease-in duration-200"
-                                >Sajtószoba</a
+                                >Közbeszerzés</a
                             >
                         </li>
                         <li>
                             <a
                                 href="#"
                                 class="block py-2 pl-3 pr-4 text-gray-700 text-lg rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-gray-400 md:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent ease-in duration-200"
-                                >Közbeszerzés</a
+                                >Aktuális</a
                             >
                         </li>
                     </ul>
@@ -230,7 +230,7 @@
             class="px-2 py-3 bg-white border-zinc-400 border-b-2 dark:bg-zinc-800 dark:border-zinc-700"
         >
             <div
-                class="container w-4/6 flex flex-col gap-4 items-center mx-auto py-16 dark:bg-zinc-800 dark:border-zinc-700"
+                class=" main-container flex flex-col gap-4 items-center mx-auto py-16 dark:bg-zinc-800 dark:border-zinc-700"
             >
                 <div class="grid grid-cols-4 gap-20 text-zinc-400">
                     <div class="flex flex-col gap-2">
@@ -260,7 +260,7 @@
             </div>
             <div class="border-stone-700 border-t border-dotted">
                 <div
-                    class="container w-4/6 mx-auto pt-6 pb-3 dark:bg-zinc-800 dark:border-zinc-700"
+                    class=" main-container mx-auto pt-6 pb-3 dark:bg-zinc-800 dark:border-zinc-700"
                 >
                     <p class="text-gray-500 text-lg text-center">
                         2023 &copy; Copyright Készítette:

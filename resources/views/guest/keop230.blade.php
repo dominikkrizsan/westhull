@@ -15,7 +15,7 @@
 </div>
 <div class="px-2 py-5 bg-white dark:bg-zinc-200">
     <div
-        class="container w-4/5 flex flex-col items-start justify-center mx-auto min-h-8/12 mt-4 gap-3"
+        class=" main-container flex flex-col items-start justify-center mx-auto min-h-8/12 mt-4 gap-3"
     >
     <!-- rekultivacio 2015 -->
     <div class="grid grid-cols-2 justify-items-stretch items-center gap-10">
