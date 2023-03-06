@@ -272,10 +272,13 @@
             </div>
         </footer>
 
+        <button onclick="topFunction()" id="myBtn"><i class="fa-solid fa-circle-chevron-up text-6xl text-emerald-400 hover:text-emerald-300 ease-in duration-100"></i></button>
+
         {{-- flowbite --}}
         <script src="https://unpkg.com/flowbite@1.5.1/dist/flowbite.js"></script>
         {{-- jquery --}}
         <script src="https://code.jquery.com/jquery-3.6.3.js" integrity="sha256-nQLuAZGRRcILA+6dMBOvcRh5Pe310sBpanc6+QBmyVM=" crossorigin="anonymous"></script>
-        <script src="{{asset('./js/myscript.js')}}"></script>
+        <script src="{{asset('./js/dropdown.js')}}"></script>
+        <script src="{{asset('./js/top.js')}}"></script>
     </body>
 </html>

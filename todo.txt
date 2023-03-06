@@ -36,6 +36,8 @@ menuk
     aktualis --- itt lesz minden sajtoszoba hirek kepek stb
     //fo kepek csere
     logo
+    //tothetop arrow
+    tothetop arrow - appear smooth
 
 kepeknel altok kitoltese
 flex flex-col items-start justify-center ahol ez van van h elrontja a containert ami benne van
