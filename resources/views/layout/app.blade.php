@@ -4,8 +4,12 @@
     class="scroll-smooth"
 >
     <head>
+        {{-- meta tagek --}}
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="keywords" content="hulladékgazdálkodás, önkormányzati, társulás, Nyugat-Dunántúli Regionális Hulladékgazdálkodási Önkormányzati Társulás">
+        <meta name="Description" content="hulladékgazdálkodás, önkormányzati, társulás, Nyugat-Dunántúli Regionális Hulladékgazdálkodási Önkormányzati Társulás">
+        {{-- title --}}
         <title>
             Nyugat-Dunántúli Regionális Hulladékgazdálkodási Önkormányzati
             Társulás
@@ -211,7 +215,7 @@
                         </li>
                         <li>
                             <a
-                                href="#"
+                                href="{{ url('/aktualis') }}"
                                 class="block py-2 pl-3 pr-4 text-gray-700 text-lg rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-gray-400 md:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent ease-in duration-200"
                                 >Aktuális</a
                             >

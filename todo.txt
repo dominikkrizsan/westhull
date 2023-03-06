@@ -23,7 +23,7 @@ menuk
             2014
             2013
             2012
-            2011
+            //2011
             //2010
             //2009
      //kozbeszerzes
@@ -34,6 +34,8 @@ menuk
         //keop111dokletoltes
     //
     aktualis --- itt lesz minden sajtoszoba hirek kepek stb
+    //fo kepek csere
+    logo
 
 kepeknel altok kitoltese
 flex flex-col items-start justify-center ahol ez van van h elrontja a containert ami benne van

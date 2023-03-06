@@ -37,8 +37,8 @@
             </div>
         </div>
         <div class="flex items-center gap-10">
-            <p class="text-lg mb-5">A Társulás 2009-ben alakult meg azzal a céllal, hogy hatékonyabb együttműködést, érdekérvényesítést és megfelelő pénzeszközöket biztosítson a környezetvédelmi célok megvalósításához. A Társulás sikeres pályázatot nyújtott be az Új Magyarország Fejlesztési Terv KEOP-7.1.1.1/09/2009-0009 majd a KEOP-1.1.1/2F/09-11-2012-0001 keretében.</p>
-            <img class="w-44" src="{{ asset('./img/eu.png')}}" alt="">
+            <p class="text-lg mb-5">A Társulás 2009-ben alakult meg azzal a céllal, hogy hatékonyabb együttműködést, érdekérvényesítést és megfelelő pénzeszközöket biztosítson a környezetvédelmi célok megvalósításához. </p>
+            <img class="w-44" src="{{ asset('./img/main/eu.png')}}" alt="">
         </div> 
     </div>
     {{-- szamlalok --}}
@@ -68,6 +68,7 @@
     </div>
     {{-- paragraph --}}
     <div id="paragraph" class=" main-container flex flex-col gap-4 items-center justify-around mx-auto py-10">
+        <p class="text-lg ">A Társulás sikeres pályázatot nyújtott be az Új Magyarország Fejlesztési Terv KEOP-7.1.1.1/09/2009-0009 majd a KEOP-1.1.1/2F/09-11-2012-0001 keretében.</p>
         <p class="text-lg">Az 1. fordulós pályázat során megkezdődött a program teljes körű műszaki, pénzügyi, jogi előkészítése. Az előkészítő munka eredményeként a Társulás rendelkezésére állt minden olyan szükséges engedély, tanulmány, amelyek a kivitelezés elindításához szükségesek. A sikeres 2. fordulós pályázatot követően a több milliárdos beruházás eredményeként felépült a szombathelyi hulladékválogató mű, 7db hulladékudvar (Bük, Körmend, Pankasz, Rábahídvég, Répcelak, Szentgotthárd, Szombathely településeken), elkészült 80 db hulladékgyűjtő sziget, leszállítottak 497 db 1100 literes lapos fedelű szelektív hulladékgyűjtő konténert is, valamint a begyűjtéshez szükséges géppark is beszerzésre került. Mindezek mellett pedig 27 500 db házi komposztáló edényzet kiosztása is folyamatban van.</p>
         <p class="text-lg">A projekt során kiemelt figyelmet fordítunk arra, hogy a lakosság és a sajtó képviselői minden szükséges információt megkapjanak. A folyamatos tájékoztatás következő lépéseként 2015 nyarán nyílt napot szervezünk a lakosság, valamint a sajtó képviselői számára, melynek során az érdeklődők testközelből is megismerkedhetnek a hulladékudvarok működésével és a projekt eredményeivel. Ezt követően pedig lakossági fórumot tartunk, ahol az érdeklődők tájékozódhatnak az új hulladékgazdálkodási rendszerrel kapcsolatos legfontosabb tudnivalókról.</p>
         <p class="text-lg">A program életre hívásával elsődleges célunk az, hogy megvalósítsuk a szilárdhulladék szelektív hulladékgazdálkodási rendszer fenntartását és üzemeltetését, valamint a társult önkormányzatok területén a bezárt települési szilárdhulladék lerakók rekultivációját.</p>
@@ -151,7 +152,7 @@
                 </div>
                 <div class="grid grid-cols-3 gap-28 justify-items-center items-start text-lg text-zinc-100">
                     <div class="flex flex-col justify-center gap-4">
-                        <img class="w-max rounded-xl" src="{{asset('./img/news-1.jpg')}}" alt="">
+                        <img class="w-max rounded-xl" src="{{asset('./img/news/news-1.jpg')}}" alt="">
                         <div class="flex items-center gap-6">
                             <p class="text-zinc-400 text-lg">2015.12.09.</p>
                             <p class="text-zinc-400 text-lg">/</p>
@@ -160,7 +161,7 @@
                         <p class="text-2xl font-bold">Ünnepélyes keretek között zárult a Nyugat-dunántúli Regionális Hulladékgazdálkodási Program</p>
                     </div>
                     <div class="flex flex-col justify-center gap-4">
-                        <img class="w-max rounded-xl" src="{{asset('./img/news-2.jpg')}}" alt="">
+                        <img class="w-max rounded-xl" src="{{asset('./img/news/news-2.jpg')}}" alt="">
                         <div class="flex items-center gap-6">
                             <p class="text-zinc-400 text-lg">2015.08.24.</p>
                             <p class="text-zinc-400 text-lg">/</p>
@@ -169,7 +170,7 @@
                         <p class="text-2xl font-bold">Egyedülálló projektbemutató nyílt napot tartottak Vas megyében</p>
                     </div>
                     <div class="flex flex-col justify-center gap-4">
-                        <img class="w-max rounded-xl" src="{{asset('./img/news-3.jpg')}}" alt="">
+                        <img class="w-max rounded-xl" src="{{asset('./img/news/news-3.jpg')}}" alt="">
                         <div class="flex items-center gap-6">
                             <p class="text-zinc-400 text-lg">2015.08.07.</p>
                             <p class="text-zinc-400 text-lg">/</p>
@@ -178,7 +179,7 @@
                         <p class="text-2xl font-bold">Egyre népszerűbb a szelektív hulladékgyűjtés az Európai Unióban és Magyarországon</p>
                     </div>
                 </div>
-                <a class="border-2 border-emerald-500 hover:bg-emerald-500 text-white font-bold py-4 px-5 rounded-full text-lg ease-in duration-200 my-16" href="#">További Hírek</a>
+                <a class="border-2 border-emerald-500 hover:bg-emerald-500 text-white font-bold py-4 px-5 rounded-full text-lg ease-in duration-200 my-16" href="{{ url('/aktualis') }}">További Hírek</a>
         </div>
     </div>
     {{-- kapcsolat / szekhely --}}

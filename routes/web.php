@@ -46,3 +46,9 @@ Route::get('/tarsulas', function () {
 Route::get('/tarsulas-koltsegvetes', function () {
     return view('guest.tarsulasrol.koltsegvetes');
 });
+
+/* ------------------------aktualis-(hirek,fotok,media)----------------------- */
+
+Route::get('/aktualis', function () {
+    return view('guest.aktualis');
+});
