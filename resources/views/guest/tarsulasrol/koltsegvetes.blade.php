@@ -1245,6 +1245,840 @@
                 </div>
             </div>
 
+            {{-- element 2017 --}}
+            <div class="container w-full">
+                <div
+                    class="header bg-emerald-600 hover:bg-emerald-500 cursor-pointer py-5 px-7 text-white text-center rounded-2xl ease-in duration-200"
+                >
+                    <span>2017. évi költségvetés</span>
+                </div>
+                <div class="content">
+                    <ul
+                        class="text-base flex flex-col bg-zinc-700 rounded-xl py-3 pl-5"
+                    >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2017/határozat.pdf'
+                                )
+                            }}"
+                            ><li>határozat</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2017/mellekletek1.zip'
+                                )
+                            }}"
+                            ><li class="text-white hover:text-zinc-400 font-bold text-lg ease-in duration-200 ml-3">Mellékletek</li></a
+                        >
+                        <li class="text-emerald-500 font-bold text-lg">Módosítások</li>
+                        <li class="text-emerald-500 font-bold text-lg">1. számú módosítás</li>
+                        <a
+                        class="text-white hover:text-zinc-400 ease-in duration-200"
+                        target="__blank"
+                        href="{{
+                            asset(
+                                './pdf/tarsulasrol/koltsegvetes/2017/modositas1mellekletek.zip'
+                            )
+                        }}"
+                        ><li class="text-white hover:text-zinc-400 font-bold text-lg ease-in duration-200 ml-3">Mellékletek</li></a
+                        >
+                        <li class="text-emerald-500 font-bold text-lg">2. számú módosítás</li>
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2017/határozatmod2.pdf'
+                                )
+                            }}"
+                            ><li>határozat</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2017/modositas2mellekletek.zip'
+                                )
+                            }}"
+                            ><li class="text-white hover:text-zinc-400 font-bold text-lg ease-in duration-200 ml-3">Mellékletek</li></a
+                        >
+                        <li class="text-emerald-500 font-bold text-lg">3. számú módosítás</li>
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2017/határozatmod3.pdf'
+                                )
+                            }}"
+                            ><li>határozat</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2017/költségvetés.pdf'
+                                )
+                            }}"
+                            ><li>1. számú melléklet</li></a
+                        >
+                        <li class="text-emerald-500 font-bold text-lg">2017. évi zárszámadás</li>
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2017/határozatzarszamadas.pdf'
+                                )
+                            }}"
+                            ><li>határozat</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2017/zárszámadás.pdf'
+                                )
+                            }}"
+                            ><li>1. melléklet</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2017/zárszámadás_2.pdf'
+                                )
+                            }}"
+                            ><li>2. melléklet</li></a
+                        >
+                    </ul>
+                </div>
+            </div>
+
+            {{-- element 2014 --}}
+            <div class="container w-full">
+                <div
+                    class="header bg-emerald-600 hover:bg-emerald-500 cursor-pointer py-5 px-7 text-white text-center rounded-2xl ease-in duration-200"
+                >
+                    <span>2014. évi költségvetés</span>
+                </div>
+                <div class="content">
+                    <ul
+                        class="text-base flex flex-col bg-zinc-700 rounded-xl py-3 pl-5"
+                    >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2014/2014. évi költségvetés előterjesztés.pdf'
+                                )
+                            }}"
+                            ><li>előterjesztés</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2014/2014. évi költségvetés határozat.pdf'
+                                )
+                            }}"
+                            ><li>határozat</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2014/mellékletek1.zip'
+                                )
+                            }}"
+                            ><li class="text-white hover:text-zinc-400 font-bold text-lg ease-in duration-200">Mellékletek</li></a
+                        >
+                        <li class="text-emerald-500 font-bold text-lg">1. számú módosítás</li>
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2014/2014 évi költségvetés 1. módosítása előterjesztés.pdf'
+                                )
+                            }}"
+                            ><li>előterjesztés</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2014/2014. évi költésgvetés 1. módosítás határozat.pdf'
+                                )
+                            }}"
+                            ><li>határozat</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2014/mod1mellekletek.zip'
+                                )
+                            }}"
+                            ><li class="text-white hover:text-zinc-400 font-bold text-base ease-in duration-200 ml-3">mellékletek</li></a
+                        >
+                        <li class="text-emerald-500 font-bold text-lg">2. számú módosítás</li>
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2014/2014. évi költségvetés 2. módosítása előterjesztés.pdf'
+                                )
+                            }}"
+                            ><li>előterjesztés</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2014/2014 évi 2. módosítás határozat.pdf'
+                                )
+                            }}"
+                            ><li>határozat</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2014/mod2mellekletek.zip'
+                                )
+                            }}"
+                            ><li class="text-white hover:text-zinc-400 font-bold text-base ease-in duration-200 ml-3">mellékletek</li></a
+                        >
+                        <li class="text-emerald-500 font-bold text-lg">3. számú módosítás</li>
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2014/2014  évi költségvetés 3. módosítás előterjesztés.pdf'
+                                )
+                            }}"
+                            ><li>előterjesztés</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2014/2014 évi 3. módosítás határozat.pdf'
+                                )
+                            }}"
+                            ><li>határozat</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2014/mod3mellekletek.zip'
+                                )
+                            }}"
+                            ><li class="text-white hover:text-zinc-400 font-bold text-base ease-in duration-200 ml-3">mellékletek</li></a
+                        >
+                        <li class="text-emerald-500 font-bold text-lg">2014. évi zárszámadás</li>
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2014/2014  év zárszámadás előterjesztés.pdf'
+                                )
+                            }}"
+                            ><li>asdasdasd</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2014/2014.év zárszámadás határozat.pdf'
+                                )
+                            }}"
+                            ><li>asdasdasd</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2014/zarszamadasmellekletek.zip'
+                                )
+                            }}"
+                            ><li class="text-white hover:text-zinc-400 font-bold text-base ease-in duration-200 ml-3">mellékletek</li></a
+                        >
+                    </ul>
+                </div>
+            </div>
+
+            {{-- element 2013 --}}
+            <div class="container w-full">
+                <div
+                    class="header bg-emerald-600 hover:bg-emerald-500 cursor-pointer py-5 px-7 text-white text-center rounded-2xl ease-in duration-200"
+                >
+                    <span>2013. évi költségvetés</span>
+                </div>
+                <div class="content">
+                    <ul
+                        class="text-base flex flex-col bg-zinc-700 rounded-xl py-3 pl-5"
+                    >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2013/2013. évi költségvetés előterjesztés.pdf'
+                                )
+                            }}"
+                            ><li>előterjesztés</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2013/2013. évi költségvetés határozat.pdf'
+                                )
+                            }}"
+                            ><li>határozat</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2013/2013. évi költségvetés 1. melléklet.pdf'
+                                )
+                            }}"
+                            ><li>1. számú melléklet</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2013/2013. évi költségvetés 2. melléklet.pdf'
+                                )
+                            }}"
+                            ><li>2. számú melléklet</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2013/2013. évi költségvetés 3. melléklet.pdf'
+                                )
+                            }}"
+                            ><li>3. számú melléklet</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2013/2013. évi költségvetés 4. melléklet.pdf'
+                                )
+                            }}"
+                            ><li>4. számú melléklet</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2013/2013. évi költségvetés 5. melléklet.pdf'
+                                )
+                            }}"
+                            ><li>5. számú melléklet</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2013/2013. évi költségvetés 6. melléklet.pdf'
+                                )
+                            }}"
+                            ><li>6. számú melléklet</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2013/2013. évi költségvetés 7. melléklet.pdf'
+                                )
+                            }}"
+                            ><li>7. számú melléklet</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2013/2013. évi költségvetés 8. melléklet.pdf'
+                                )
+                            }}"
+                            ><li>8. számú melléklet</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2013/2013. évi költségvetés 9. melléklet.pdf'
+                                )
+                            }}"
+                            ><li>9. számú melléklet</li></a
+                        >
+                        {{-- --------------------------------------------------- --}}
+                        <li class="text-emerald-500 font-bold text-lg">Módosítások</li>
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2013/1. 2013. évi költségvetés módosítása előterjesztés.pdf'
+                                )
+                            }}"
+                            ><li>előterjesztés</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2013/2013. évi költségvetés 1. módosítás határozat.pdf'
+                                )
+                            }}"
+                            ><li>határozat</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2013/2013. évi költségvetés módosítás 1. melléklete.pdf'
+                                )
+                            }}"
+                            ><li>1. számú melléklet</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2013/2013. évi költségvetés módosítás 3. melléklete.pdf'
+                                )
+                            }}"
+                            ><li>3. számú melléklet</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2013/2013. évi költségvetés módosítás 5. melléklete.pdf'
+                                )
+                            }}"
+                            ><li>5. számú melléklet</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2013/2013. évi költségvetés módosítás 6. melléklete.pdf'
+                                )
+                            }}"
+                            ><li>6. számú melléklet</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2013/2013. évi költségvetés módosítás 7. melléklete.pdf'
+                                )
+                            }}"
+                            ><li>7. számú melléklet</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2013/2013. évi költségvetés módosítás 8. melléklete.pdf'
+                                )
+                            }}"
+                            ><li>8. számú melléklet</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2013/2013. évi költségvetés módosítás 9. melléklete.pdf'
+                                )
+                            }}"
+                            ><li>9. számú melléklet</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2013/2013. évi költségvetés módosítás 10. melléklete.pdf'
+                                )
+                            }}"
+                            ><li>10. számú melléklet</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2013/2013. évi költségvetés módosítás 11. melléklete.pdf'
+                                )
+                            }}"
+                            ><li>11. számú melléklet</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2013/2013. évi költségvetés módosítás 13. melléklete.pdf'
+                                )
+                            }}"
+                            ><li>13. számú melléklet</li></a
+                        >
+                        <li class="text-emerald-500 font-bold text-lg">2013. évi zárszámadás</li>
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2013/2013. évi zárszámadás előterjesztés.pdf'
+                                )
+                            }}"
+                            ><li>előterjesztés</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2013/2013. évi zárszámadás határozat.pdf'
+                                )
+                            }}"
+                            ><li>határozat</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2013/2013. évi zárszámadás 1. melléklet.pdf'
+                                )
+                            }}"
+                            ><li>1. melléklet</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2013/2013. évi zárszámadás 2. melléklet.pdf'
+                                )
+                            }}"
+                            ><li>2. melléklet</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2013/2013. évi zárszámadás 3. melléklet.pdf'
+                                )
+                            }}"
+                            ><li>3. melléklet</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2013/2013. évi zárszámadás 4. melléklet.pdf'
+                                )
+                            }}"
+                            ><li>4. melléklet</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2013/2013. évi zárszámadás 5. melléklet.pdf'
+                                )
+                            }}"
+                            ><li>5. melléklet</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2013/2013. évi zárszámadás 6. melléklet.pdf'
+                                )
+                            }}"
+                            ><li>6. melléklet</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2013/2013. évi zárszámadás 7. melléklet.pdf'
+                                )
+                            }}"
+                            ><li>7. melléklet</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2013/2013. évi zárszámadás 8. melléklet.pdf'
+                                )
+                            }}"
+                            ><li>8. melléklet</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2013/2013. évi zárszámadás 9. melléklet.pdf'
+                                )
+                            }}"
+                            ><li>9. melléklet</li></a
+                        >
+                    </ul>
+                </div>
+            </div>
+
+            {{-- element 2012 --}}
+            <div class="container w-full">
+                <div
+                    class="header bg-emerald-600 hover:bg-emerald-500 cursor-pointer py-5 px-7 text-white text-center rounded-2xl ease-in duration-200"
+                >
+                    <span>2012. évi költségvetés</span>
+                </div>
+                <div class="content">
+                    <ul
+                        class="text-base flex flex-col bg-zinc-700 rounded-xl py-3 pl-5"
+                    >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2012/2012_evi_koltsegvetes.pdf'
+                                )
+                            }}"
+                            ><li>határozat</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2012/2012_evi_koltsegvetes_mellekletek.pdf'
+                                )
+                            }}"
+                            ><li>1. számú melléklet</li></a
+                        >
+                        <li class="text-emerald-500 font-bold text-lg">Módosítások</li>
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2012/2012. évi költségvetés 1. módosítás.jpg'
+                                )
+                            }}"
+                            ><li>1. módosítás</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2012/2012. FÉLÉVI KV MÓDOSÍTÁS HULLADÉK 1  számú melléklet ( bevételek)_20120913_v.pdf'
+                                )
+                            }}"
+                            ><li>1. számú melléklet</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2012/2012. FÉLÉVI KV MÓDOSÍTÁS HULLADÉK 2. számú melléklet ( kiadások )_20120913_v.pdf'
+                                )
+                            }}"
+                            ><li>2. számú melléklet</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2012/2012.FÉLÉV KV MÓDOSÍTÁS HULLADÉK 3. számú melléklet ( mérleg )_20120913_v.pdf'
+                                )
+                            }}"
+                            ><li>3. számú melléklet</li></a
+                        >
+                        <li class="text-emerald-500 font-bold text-lg">2012. évi zárszámadás</li>
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2012/1. 2012.évi zárszámadás előterjesztés.pdf'
+                                )
+                            }}"
+                            ><li>előterjesztés</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2012/11. 2012. évi zárszámadás határozat.pdf'
+                                )
+                            }}"
+                            ><li>határozat</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2012/2. 2012. évi zárszámadás _1. számú melléklet ( Kintlévőségek ).pdf'
+                                )
+                            }}"
+                            ><li>1. melléklet</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2012/3. 2012. zárszámadás 2melléklet kiadások alakulása.pdf'
+                                )
+                            }}"
+                            ><li>2. melléklet</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2012/4. 2012. évi zárszámadás 3  számú melléklet  bevételek.pdf'
+                                )
+                            }}"
+                            ><li>3. melléklet</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2012/5. 2012. évi zárszámadás 4. számú melléklet ( mérleg bemutatása ).pdf'
+                                )
+                            }}"
+                            ><li>4. melléklet</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2012/6. 2012. évi zárszámadás 5 számú melléklet (pénzmaradvány).pdf'
+                                )
+                            }}"
+                            ><li>5. melléklet</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2012/7. 2012. évi zárszámadás 6. számú mellékle( foly. levőberuházások beszámolóhoz).pdf'
+                                )
+                            }}"
+                            ><li>6. melléklet</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2012/8. 2012.évi zárszámadás 7. számú melléklet ( tárgyi eszközök ).pdf'
+                                )
+                            }}"
+                            ><li>7. melléklet</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2012/9. 2012. évi zárszámadás 8 számu melléklet (mérleg).pdf'
+                                )
+                            }}"
+                            ><li>8. melléklet</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2012/10. 2012. évi zárszámadás 9. számú melléklet ( pénzeszköz változás ).pdf'
+                                )
+                            }}"
+                            ><li>9. melléklet</li></a
+                        >
+                    </ul>
+                </div>
+            </div>
+
             {{-- element 2011 --}}
             <div class="container w-full">
                 <div
@@ -1411,7 +2245,6 @@
                     </ul>
                 </div>
             </div>
-
 
             {{-- element 2010 --}}
             <div class="container w-full">

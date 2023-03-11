@@ -1,9 +1,5 @@
 menuk
     //projektrol
-        //keop7111
-        //keop111/2f
-        //keop23
-    //
     tarsulasrol -------------> marad a vegere
                                 Szervezeti felépítés --- 1fooldalra
                                 Tagönkormányzatok -- 1fooldalra
@@ -17,23 +13,20 @@ menuk
             //2020
             //2019
             //2018
-            2017
+            //2017
             2016
             2015
-            2014
-            2013
-            2012
+            //2014
+            //2013
+            //2012
             //2011
             //2010
             //2009
      //kozbeszerzes
-        //tarsualas
-        //keop7111
-        //keop230/b
-        //keop111
-        //keop111dokletoltes
-    //
-    aktualis --- itt lesz minden sajtoszoba hirek kepek stb
+    aktualis
+        //hirek
+        //media
+        kepek
     //fo kepek csere
     logo
     //tothetop arrow
