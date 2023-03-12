@@ -4,9 +4,9 @@
     <div
         class="flex flex-col items-center justify-center h-full gap-6"
     >
-        <h2 class="text-zinc-300 text-xl">Projektről</h2>
-        <h1 class="text-zinc-300 text-6xl font-bold">KEOP-2.3.0/2008-0006</h1>
-        <div class="flex gap-4 text-xl">
+        <h2 class="text-zinc-300 text-xl max-[500px]:text-lg max-[500px]:text-center">Projektről</h2>
+        <h1 class="text-zinc-300 text-6xl font-bold max-[900px]:text-4xl max-[500px]:text-2xl max-[500px]:text-center">KEOP-2.3.0/2008-0006</h1>
+        <div class="flex gap-4 text-xl max-[500px]:text-lg max-[500px]:text-center">
             <a class="text-zinc-300 hover:text-zinc-100 ease-all duration-200" href="{{ url('/')}}">Kezdőlap</a>
             <p class="text-zinc-300">/</p>
             <p class="text-zinc-400">KEOP-2.3.0/2008-0006</p>
@@ -15,10 +15,10 @@
 </div>
 <div class="px-2 py-5 bg-white dark:bg-zinc-200">
     <div
-        class=" main-container flex flex-col items-start justify-center mx-auto min-h-8/12 mt-4 gap-3"
+        class="max-[1280px]:mx-3 xl:mx-auto xl:w-128 flex flex-col items-start justify-center mx-auto min-h-8/12 mt-4 gap-3"
     >
     <!-- rekultivacio 2015 -->
-    <div class="grid grid-cols-2 justify-items-stretch items-center gap-10">
+    <div class="grid grid-cols-2 max-[1000px]:grid-cols-1 justify-items-stretch items-center gap-10">
         <div>
             <h1 class="text-2xl font-bold text-emerald-600 mb-5">Rekultiváció 2015.</h1>
             <h2 class="text-xl font-bold my-3">A projekt neve:</h2>
@@ -58,7 +58,7 @@
             <h1 class="text-center text-emerald-600 text-4xl my-5 font-bold">Galéria</h1>
             <div class="border-b border-emerald-300 w-64 mt-4 mb-10 mx-auto"></div>
             <h2 class="text-lg font-bold my-3 ml-3">2015.10.20 - Projektnyitas</h2>
-            <div class="grid grid-cols-4 justify-content-stretch items-center gap-6">
+            <div class="grid grid-cols-4 max-[1000px]:grid-cols-3 max-[800px]:grid-cols-2 max-[550px]:grid-cols-1 justify-content-stretch items-center gap-6">
                 <img class="rounded-2xl" src="{{asset('./img/keop230/projektnyitas/1.jpg')}}" alt="">
                 <img class="rounded-2xl" src="{{asset('./img/keop230/projektnyitas/2.jpg')}}" alt="">
                 <img class="rounded-2xl" src="{{asset('./img/keop230/projektnyitas/3.jpg')}}" alt="">
@@ -72,7 +72,7 @@
             </div>
             <div class="border-b border-zinc-300 mb-10 w-9/12 mt-4"></div>
             <h2 class="text-lg font-bold my-3 ml-3">2015.11.18 - Sajtótájékozató</h2>
-            <div class="grid grid-cols-4 justify-content-stretch items-center gap-6">
+            <div class="grid grid-cols-4 max-[1000px]:grid-cols-3 max-[800px]:grid-cols-2 max-[550px]:grid-cols-1 justify-content-stretch items-center gap-6">
                 <img class="rounded-2xl" src="{{asset('./img/keop230/sajtotajek/sajto1.jpg')}}" alt="">
                 <img class="rounded-2xl" src="{{asset('./img/keop230/sajtotajek/sajto2.jpg')}}" alt="">
                 <img class="rounded-2xl" src="{{asset('./img/keop230/sajtotajek/sajto3.jpg')}}" alt="">
@@ -86,7 +86,7 @@
             </div>
             <div class="border-b border-zinc-300 mb-10 w-9/12 mt-4"></div>
             <h2 class="text-lg font-bold my-3 ml-3">2015.11.26 - Telepbejárás</h2>
-            <div class="grid grid-cols-4 justify-content-stretch items-center gap-6">
+            <div class="grid grid-cols-4 max-[1000px]:grid-cols-3 max-[800px]:grid-cols-2 max-[550px]:grid-cols-1 justify-content-stretch items-center gap-6">
                 <img class="rounded-2xl" src="{{asset('./img/keop230/telepbejaras/telep1.jpg')}}" alt="">
                 <img class="rounded-2xl" src="{{asset('./img/keop230/telepbejaras/telep2.jpg')}}" alt="">
                 <img class="rounded-2xl" src="{{asset('./img/keop230/telepbejaras/telep3.jpg')}}" alt="">
@@ -100,7 +100,7 @@
             </div>
             <div class="border-b border-zinc-300 mb-10 w-9/12 mt-4"></div>
             <h2 class="text-lg font-bold my-3 ml-3">2015.12.02 - Projektzárás</h2>
-            <div class="grid grid-cols-4 justify-content-stretch items-center gap-6 mb-5">
+            <div class="grid grid-cols-4 max-[1000px]:grid-cols-3 max-[800px]:grid-cols-2 max-[550px]:grid-cols-1 justify-content-stretch items-center gap-6 mb-5">
                 <img class="rounded-2xl" src="{{asset('./img/keop230/projektzaras/zar1.jpg')}}" alt="">
                 <img class="rounded-2xl" src="{{asset('./img/keop230/projektzaras/zar2.jpg')}}" alt="">
                 <img class="rounded-2xl" src="{{asset('./img/keop230/projektzaras/zar3.jpg')}}" alt="">

@@ -52,3 +52,7 @@ Route::get('/tarsulas-koltsegvetes', function () {
 Route::get('/aktualis', function () {
     return view('guest.aktualis');
 });
+
+Route::get('/test', function () {
+    return view('layout.app');
+});

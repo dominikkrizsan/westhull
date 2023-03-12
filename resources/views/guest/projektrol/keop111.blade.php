@@ -1,12 +1,12 @@
 @extends('layout.app') @section('content')
 {{-- inner --}}
-<div class="inner">
+<div class="inner max-[1280px]:px-3 xl:mx-auto xl:w-128">
     <div
         class="flex flex-col items-center justify-center h-full gap-6"
     >
-        <h2 class="text-zinc-300 text-xl">Projektről</h2>
-        <h1 class="text-zinc-300 text-6xl font-bold">KEOP 1.1.1/2F/09-11-2012-0001</h1>
-        <div class="flex gap-4 text-xl">
+        <h2 class="text-zinc-300 text-xl max-[500px]:text-lg max-[500px]:text-center">Projektről</h2>
+        <h1 class="text-zinc-300 text-6xl font-bold max-[900px]:text-4xl max-[500px]:text-2xl max-[500px]:text-center">KEOP 1.1.1/2F/09-11-2012-0001</h1>
+        <div class="flex gap-4 text-xl max-[500px]:text-lg max-[500px]:text-center">
             <a class="text-zinc-300 hover:text-zinc-100 ease-all duration-200" href="{{ url('/')}}">Kezdőlap</a>
             <p class="text-zinc-300">/</p>
             <p class="text-zinc-400">KEOP 1.1.1/2F/09-11-2012-0001</p>
@@ -15,7 +15,7 @@
 </div>
 <div class="px-2 py-5 bg-white dark:bg-zinc-200">
     <div
-        class="main-container flex flex-col items-start justify-center mx-auto min-h-8/12 mt-4 gap-3"
+        class="max-[1280px]:mx-3 xl:mx-auto xl:w-128 flex flex-col items-start justify-center mx-auto min-h-8/12 mt-4 gap-3"
     >
         <!-- rovid bemutatas -->
         <div>
@@ -57,24 +57,24 @@
                 tervezett fejlesztések:
             </p>
             <ul class="text-lg">
-                <li class="list-disc ml-8">
+                <li class="list-disc ml-3">
                     szelektív hulladékkezelő központ („Válogató mű”)
                     Szombathelyen
                 </li>
-                <li class="list-disc ml-8">
+                <li class="list-disc ml-3">
                     7 új hulladékgyűjtő udvar Bükön, Körmenden, Őriszentpéteren,
                     Rábahídvégen, Répcelakon, Szentgotthárdon, Szombathelyen,
                     valamint Kőszegen, a meglévő hulladékudvar fejlesztése
                 </li>
-                <li class="list-disc ml-8">80 db új hulladékgyűjtő sziget</li>
-                <li class="list-disc ml-8">150 db új üveggyűjtő-pont</li>
-                <li class="list-disc ml-8">
+                <li class="list-disc ml-3">80 db új hulladékgyűjtő sziget</li>
+                <li class="list-disc ml-3">150 db új üveggyűjtő-pont</li>
+                <li class="list-disc ml-3">
                     házhoz menő zsákos szelektív hulladékgyűjtés kialakítása
                 </li>
-                <li class="list-disc ml-8">
+                <li class="list-disc ml-3">
                     a lakosság részére 27 500 db házi komposztáló edényzet
                 </li>
-                <li class="list-disc ml-8">
+                <li class="list-disc ml-3">
                     a szelektíven gyűjtött hulladékok szállításához szükséges
                     gépjárműpark beszerzése
                 </li>
@@ -88,7 +88,7 @@
             <h2 class="text-xl font-bold mb-3">
                 Röviden a hasznosítás módjairól:
             </h2>
-            <li class="list-disc ml-8 text-xl mb-3">Komposztálás</li>
+            <li class="list-disc ml-3 text-xl mb-3">Komposztálás</li>
             <p class="text-lg">
                 Háztartási hulladékunk egyharmada hasznosítható szerves anyag,
                 amelyből összegyűjtve értékes komposzt nyerhető. A legtöbb
@@ -100,7 +100,7 @@
                 kis darabjáért, amellyel nap mint nap találkozunk: saját
                 kertünkkel.
             </p>
-            <li class="list-disc ml-8 text-xl my-3">
+            <li class="list-disc ml-3 text-xl my-3">
                 Szelektív gyűjtőszigetek, házhoz menő gyűjtés
             </li>
             <p class="text-lg">
@@ -116,7 +116,7 @@
                 a kihelyezett zsákokat. Az üveget a gyűjtőpontokon felállított
                 edényekben lehet elhelyezni.
             </p>
-            <li class="list-disc ml-8 text-xl my-3">Hulladékudvar</li>
+            <li class="list-disc ml-3 text-xl my-3">Hulladékudvar</li>
             <p class="text-lg mb-3">
                 A szelektív gyűjtőszigeteken, vagy a zsákokban nem elhelyezhető
                 háztartási hulladék, a nem komposztált zöldhulladék és egyéb
@@ -154,7 +154,7 @@
                     elektronikai berendezések
                 </li>
             </ul>
-            <li class="list-disc ml-8 text-xl my-3">Hulladékválogató mű</li>
+            <li class="list-disc ml-3 text-xl my-3">Hulladékválogató mű</li>
             <p class="text-lg">
                 A hulladékudvarokból, a szelektív gyűjtőszigetekről, a lakossági
                 zsákos gyűjtésből származó szelektíven összegyűjtött hulladék a
@@ -171,7 +171,7 @@
             <h1 class="text-2xl font-bold text-emerald-600 pt-5 mb-5">
                 Projektben résztvevők
             </h1>
-            <ul>
+            <ul class="mb-3">
                 <li class="font-bold text-lg">
                     NEMZETI FEJLESZTÉSI MINISZTÉRIUM
                 </li>
@@ -186,26 +186,23 @@
                 </li>
                 <li class="font-bold text-lg">Hulladékgazdálkodási Osztály</li>
             </ul>
-            <div class="grid grid-cols-2 justify-items-stretch items-center">
-                <div class="text-lg font-bold">
-                    <p>Közbeszerzési tanácsadó:</p>
-                    <p>Projekt menedzser:</p>
-                    <p>PR szakértő:</p>
-                    <p>Mérnök:</p>
-                    <p>Eszközbeszerzés:</p>
-                    <p>Kivitelezés:</p>
-                </div>
-                <div class="text-lg">
+            <div class="grid grid-cols-2 max-[800px]:grid-cols-1 justify-items-stretch items-center text-lg">
+                    <p class="font-bold">Közbeszerzési tanácsadó:</p>
                     <p>TriCSÓK Zrt, Biczi és Tuzson Ügyvédi Iroda</p>
+                    <p class="font-bold">Projekt menedzser:</p>
                     <p>Forrás Unió Kft</p>
+                    <p class="font-bold">PR szakértő:</p>
                     <p>Young and Partners Kommunikációs és Tanácsadó Kft</p>
+                    <p class="font-bold">Mérnök:</p>
                     <p>
                         FŐBER Nemzetközi Ingatlanfejlesztő és Mérnöki Zrt, Főber
                         Mérnöki Zrt, Westber Mérnöki Iroda Kft
                     </p>
+                    <p class="font-bold">Eszközbeszerzés:</p>
                     <p>SIEX Kft., Pappas Auto Magyarország Kft.</p>
+                    <p class="font-bold">Kivitelezés:</p>
                     <p>ŐRSÉG-2013 Konzorcium</p>
-                </div>
+    
             </div>
             <p class="text-xl font-bold my-5">
                 Projektben résztvevők szerződései:

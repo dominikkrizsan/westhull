@@ -7,15 +7,15 @@ menuk
                                 Munkaszervezet -- 1fooldalra
                                 Társulás dokumentumai -- 1 fooldalra
         Társulási tanács ülések
-        Költségvetés
+        //Költségvetés
             //2022
             //2021
             //2020
             //2019
             //2018
             //2017
-            2016
-            2015
+            //2016
+            //2015
             //2014
             //2013
             //2012
@@ -28,9 +28,17 @@ menuk
         //media
         kepek
     //fo kepek csere
-    logo
     //tothetop arrow
     tothetop arrow - appear smooth
+    footer
+    logo
+    responsiv
+        navbar
+        footer
+        welcome
+        projektrol
+    keop111
+        a kis resz jo betumeretbe onnan kell mindet lemasolni -> inner
 
 kepeknel altok kitoltese
 flex flex-col items-start justify-center ahol ez van van h elrontja a containert ami benne van

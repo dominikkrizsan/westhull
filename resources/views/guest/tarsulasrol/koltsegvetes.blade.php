@@ -22,7 +22,7 @@
         <h1 class="font-bold text-4xl text-center">Költségvetések</h1>
         <div class="border-b border-zinc-300 w-96 mx-auto mt-4"></div>
         <div
-            class="grid grid-cols-4 text-xl mt-10 justify-items-stretch align-center gap-12"
+            class="grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 text-xl mt-10 justify-items-stretch align-center gap-12"
         >
             {{-- element 2022--}}
             <div class="container w-full">

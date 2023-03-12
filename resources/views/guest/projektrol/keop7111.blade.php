@@ -1,12 +1,12 @@
 @extends('layout.app') @section('content')
 {{-- inner --}}
-<div class="inner">
+<div class="inner max-[1280px]:px-3 xl:mx-auto xl:w-128">
     <div
         class="flex flex-col items-center justify-center h-full gap-6"
     >
-        <h2 class="text-zinc-300 text-xl">Projektről</h2>
-        <h1 class="text-zinc-300 text-6xl font-bold">KEOP 7.1.1.1</h1>
-        <div class="flex gap-4 text-xl">
+        <h2 class="text-zinc-300 text-xl max-[500px]:text-lg max-[500px]:text-center">Projektről</h2>
+        <h1 class="text-zinc-300 text-6xl font-bold max-[900px]:text-4xl max-[500px]:text-2xl max-[500px]:text-center">KEOP 7.1.1.1</h1>
+        <div class="flex gap-4 text-xl max-[500px]:text-lg max-[500px]:text-center">
             <a class="text-zinc-300 hover:text-zinc-100 ease-all duration-200" href="{{ url('/')}}">Kezdőlap</a>
             <p class="text-zinc-300">/</p>
             <p class="text-zinc-400">KEOP 7.1.1.1</p>
@@ -15,7 +15,7 @@
 </div>
 <div class="px-2 py-5 bg-white dark:bg-zinc-200">
     <div
-        class="main-container flex flex-col items-start justify-center mx-auto min-h-8/12 mt-4 gap-3"
+        class="max-[1280px]:px-3 xl:mx-auto xl:w-128 flex flex-col items-start justify-center mx-auto min-h-8/12 mt-4 gap-3"
     >
         <!-- rovid bemutatas -->
         <p class="text-emerald-600 font-bold text-2xl pt-5">
@@ -31,42 +31,42 @@
             konstrukciója támogatja ezen komplex célrendszert, a lakosságnál és
             a közintézményekben keletkező hulladékra koncentrálva.
         </p>
-        <div class="grid grid-cols-2 items-center justify-items-center mb-10">
+        <div class="grid grid-cols-2 max-[1000px]:grid-cols-1 items-center justify-items-center mb-10">
             <div class="pr-8">
                 <p class="text-xl font-bold mb-5">
                     A hulladékgazdálkodási program főbb elemei
                 </p>
                 <ul class="text-lg flex flex-col gap-2">
-                    <li class="list-disc ml-8">
+                    <li class="list-disc ml-3">
                         80 új szelektív hulladékgyűjtő sziget telepítése
                     </li>
-                    <li class="list-disc ml-8">
+                    <li class="list-disc ml-3">
                         150 üveggyűjtő konténer telepítése
                     </li>
-                    <li class="list-disc ml-8">
+                    <li class="list-disc ml-3">
                         házhoz menő szelektív hulladékgyűjtés megszervezése
                     </li>
-                    <li class="list-disc ml-8">
+                    <li class="list-disc ml-3">
                         a kőszegi hulladékudvar felújítása, bővítése
                     </li>
-                    <li class="list-disc ml-8">
+                    <li class="list-disc ml-3">
                         7 új hulladékudvar építése – Bük, Körmend,Pankasz,
                         Rábahidvég, Répcelak, Őriszentpéter, Szentgotthárd
                     </li>
-                    <li class="list-disc ml-8">
+                    <li class="list-disc ml-3">
                         a begyűjtéshez szükséges gépjárműpark beszerzése
                     </li>
-                    <li class="list-disc ml-8">
+                    <li class="list-disc ml-3">
                         1 db 14.000 t/év kapacitású válogatómű építése
                         Szombathelyen, a hulladék hasznosítását, ipari
                         előkészítését szolgálja
                     </li>
-                    <li class="list-disc ml-8">
+                    <li class="list-disc ml-3">
                         27500 db házi komposztáló láda beszerzése és kiosztása a
                         társult települések lakosságának
                     </li>
-                    <li class="list-disc ml-8">lakossági szemléletformálás</li>
-                    <li class="list-disc ml-8">
+                    <li class="list-disc ml-3">lakossági szemléletformálás</li>
+                    <li class="list-disc ml-3">
                         új munkahelyek teremtése a megvalósuló szolgáltató és
                         <br />
                         feldolgozó egységekben
@@ -79,7 +79,7 @@
                 alt=""
             />
         </div>
-        <div class="grid grid-cols-2 items-center justify-items-center mb-10">
+        <div class="grid grid-cols-2 max-[1000px]:grid-cols-1 items-center justify-items-center mb-10">
             <img
                 class="rounded-xl"
                 src="{{ asset('./img/keop7111/keop7111-2.png') }}"
@@ -88,55 +88,55 @@
             <div class="pl-8">
                 <p class="text-xl font-bold mb-5">Előkészítési feladatok</p>
                 <ul class="text-lg flex flex-col gap-2">
-                    <li class="list-disc ml-8">
+                    <li class="list-disc ml-3">
                         egyeztetések, adatok egybegyűjtése, felülvizsgálata,
                         feldolgozása és összesítése az optimális műszaki
                         tartalom és üzemeltetési keretek megtervezése érdekében
                     </li>
-                    <li class="list-disc ml-8">
+                    <li class="list-disc ml-3">
                         örökségvédelmi hatástanulmány
                     </li>
-                    <li class="list-disc ml-8">
+                    <li class="list-disc ml-3">
                         engedélyezési és kiviteli tervek elkészítése (2011
                         tavasz)
                     </li>
-                    <li class="list-disc ml-8">
+                    <li class="list-disc ml-3">
                         közbeszerzési tenderek előkészítése - az ajánlatkérő
                         műszaki követelményeinek összeállítása
                     </li>
-                    <li class="list-disc ml-8">
+                    <li class="list-disc ml-3">
                         tender dokumentációk műszaki leírásának elkészítése
                     </li>
-                    <li class="list-disc ml-8">
+                    <li class="list-disc ml-3">
                         2. fordulós pályázati dokumentáció elkészítése
                         (megvalósíthatósági tanulmány, költség-haszon elemzés)
                     </li>
-                    <li class="list-disc ml-8">
+                    <li class="list-disc ml-3">
                         teljeskörű engedélyeztetési folyamatok (2011 ősz – 2012
                         tavasz)
                     </li>
-                    <li class="list-disc ml-8">
+                    <li class="list-disc ml-3">
                         lőszermentesítés előkészítése a jogszabályi előírásoknak
                         megfelelően 9 helyszínen
                     </li>
-                    <li class="list-disc ml-8">
+                    <li class="list-disc ml-3">
                         az üzemeltetés kereteinek kidolgozása
                     </li>
-                    <li class="list-disc ml-8">
+                    <li class="list-disc ml-3">
                         a fejlesztés széles körű megismertetése és elfogadtatása
                     </li>
-                    <li class="list-disc ml-8">
+                    <li class="list-disc ml-3">
                         lakossági tájékoztató kiadványok készítése, lakossági
                         fórumok tartása
                     </li>
-                    <li class="list-disc ml-8">
+                    <li class="list-disc ml-3">
                         sajtóesemények szervezése a lakossági szemléletformálás
                         elősegítésére
                     </li>
                 </ul>
             </div>
         </div>
-        <div class="grid grid-cols-2 gap-4 items-center justify-items-center">
+        <div class="grid grid-cols-2 max-[1000px]:grid-cols-1 gap-4 items-center justify-items-center">
             <div>
                 <p class="text-lg">
                     A pályázat két fordulós. Az 1. forduló a regionális
@@ -187,32 +187,28 @@
         <p class="text-emerald-600 font-bold text-2xl pt-5">
             Projekben résztvevők
         </p>
-        <div class="grid grid-cols-2 justify-items-stretch items-center">
-            <div class="text-lg">
-                <p>Közreműködő szervezet:</p>
-                <p>Műszaki szakértő:</p>
-                <p>Jogi szakértő:</p>
-                <p>Könyvvizsgáló:</p>
-                <p>Közbeszerzédi tanácsadó:</p>
-                <p>Projekt menedzsment:</p>
-                <p>PR szakértő:</p>
-                <p>tervező:</p>
-            </div>
-            <div class="text-lg">
-                <a
-                    class="text-emerald-600 hover:text-emerald-500 ease-in duration-200"
-                    href="http://www.energiakozpont.hu/"
-                    target="__blank"
-                    >Energia Központ Nonprofit Kft.</a
-                >
-                <p>Ala és Társa Bt.</p>
-                <p>Popgyákunik & Bozzai Ügyvédi Iroda</p>
-                <p>Konzekvens Kft.</p>
-                <p>TriCSÓK Zrt.</p>
-                <p>Borostyánkő Tanácsadó és Marketing Kft.</p>
-                <p>Regionális Humán Innováció Képzési Nonprofit Kft.</p>
-                <p>SOLVEX- MKM Konzorcium</p>
-            </div>
+        <div class="grid grid-cols-2 max-[650px]:grid-cols-1 justify-items-stretch items-center text-lg">
+            <p class="font-semibold">Közreműködő szervezet:</p>
+            <a
+                class="text-emerald-600 hover:text-emerald-500 ease-in duration-200"
+                href="http://www.energiakozpont.hu/"
+                target="__blank"
+                >Energia Központ Nonprofit Kft.</a
+            >
+            <p class="font-semibold">Műszaki szakértő:</p>
+            <p>Ala és Társa Bt.</p>
+            <p class="font-semibold">Jogi szakértő:</p>
+            <p>Popgyákunik & Bozzai Ügyvédi Iroda</p>
+            <p class="font-semibold">Könyvvizsgáló:</p>
+            <p>Konzekvens Kft.</p>
+            <p class="font-semibold">Közbeszerzédi tanácsadó:</p>
+            <p>TriCSÓK Zrt.</p>
+            <p class="font-semibold">Projekt menedzsment:</p>
+            <p>Borostyánkő Tanácsadó és Marketing Kft.</p>
+            <p class="font-semibold">PR szakértő:</p>
+            <p>Regionális Humán Innováció Képzési Nonprofit Kft.</p>
+            <p class="font-semibold">tervező:</p>
+            <p>SOLVEX- MKM Konzorcium</p>
         </div>
         <div class="border-b border-zinc-300 w-9/12 mt-4"></div>
         <!-- dokumentumok -->
@@ -227,7 +223,7 @@
             szilárdhulladék-gazdálkodási rendszerek fejlesztése <br />
             pályázat 1.fordulós pályázat dokumentumai
         </p>
-        <div class="grid grid-cols-2 justify-items-stretch text-lg gap-16 mb-5">
+        <div class="grid grid-cols-2 max-[800px]:grid-cols-1 justify-items-stretch text-lg gap-16 mb-5">
             <div>
                 <p class="text-xl font-bold mb-5">1.1. Pályázat dokumentumai</p>
                 <p class="my-3 font-semibold">
