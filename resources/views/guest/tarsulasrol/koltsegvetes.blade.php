@@ -1365,6 +1365,336 @@
                 </div>
             </div>
 
+            {{-- element 2016 --}}
+            <div class="container w-full">
+                <div
+                    class="header bg-emerald-600 hover:bg-emerald-500 cursor-pointer py-5 px-7 text-white text-center rounded-2xl ease-in duration-200"
+                >
+                    <span>2016. évi költségvetés</span>
+                </div>
+                <div class="content">
+                    <ul
+                        class="text-base flex flex-col bg-zinc-700 rounded-xl py-3 pl-5"
+                    >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2016/2016. évi költségvetés előterjesztés.pdf'
+                                )
+                            }}"
+                            ><li>előterjesztés</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2016/2016. évi költségvetés határozat.pdf'
+                                )
+                            }}"
+                            ><li>határozat</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2016/mellekletek1.zip'
+                                )
+                            }}"
+                            ><li class="text-white hover:text-zinc-400 font-bold text-lg ease-in duration-200">Mellékletek</li></a
+                        >
+                        <li class="text-emerald-500 font-bold text-lg">Módosítások</li>
+                        <li class="text-emerald-500 font-bold text-lg">1. számú módosítás</li>
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2016/8. számú előterjesztés.pdf'
+                                )
+                            }}"
+                            ><li>előterjesztés</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2016/határozat.pdf'
+                                )
+                            }}"
+                            ><li>határozat</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2016/mod1mellekletek1.zip'
+                                )
+                            }}"
+                            ><li class="text-white hover:text-zinc-400 font-bold text-lg ease-in duration-200">Mellékletek</li></a
+                        >
+                        <li class="text-emerald-500 font-bold text-lg">2. számú módosítás</li>
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2016/3. napirend.pdf'
+                                )
+                            }}"
+                            ><li>napirend</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2016/17_határozat.pdf'
+                                )
+                            }}"
+                            ><li>határozat</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2016/mod2mellekletek.zip'
+                                )
+                            }}"
+                            ><li class="text-white hover:text-zinc-400 font-bold text-lg ease-in duration-200">Mellékletek</li></a
+                        >
+                        <li class="text-emerald-500 font-bold text-lg">3. számú módosítás</li>
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2016/előterjesztés III. sz módosítás.pdf'
+                                )
+                            }}"
+                            ><li>előterjesztés</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2016/mod3mellekletek.zip'
+                                )
+                            }}"
+                            ><li class="text-white hover:text-zinc-400 font-bold text-lg ease-in duration-200">Mellékletek</li></a
+                        >
+                    </ul>
+                </div>
+            </div>
+
+            {{-- element 2015 --}}
+            <div class="container w-full">
+                <div
+                    class="header bg-emerald-600 hover:bg-emerald-500 cursor-pointer py-5 px-7 text-white text-center rounded-2xl ease-in duration-200"
+                >
+                    <span>2015. évi költségvetés</span>
+                </div>
+                <div class="content">
+                    <ul
+                        class="text-base flex flex-col bg-zinc-700 rounded-xl py-3 pl-5"
+                    >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2015/2015. évi költségvetés előterjesztés.pdf'
+                                )
+                            }}"
+                            ><li>előterjesztés</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2015/2015 évi költségvetés határozat.pdf'
+                                )
+                            }}"
+                            ><li>határozat</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2015/mellekletek1.zip'
+                                )
+                            }}"
+                            ><li class="text-white hover:text-zinc-400 font-bold text-lg ease-in duration-200">Mellékletek</li></a
+                        >
+                        <li class="text-emerald-500 font-bold text-lg">Módosítások</li>
+                        <li class="text-emerald-500 font-bold text-lg">1. számú módosítás</li>
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2015/2015.év költségvetés 1. módosítás előterjesztés.pdf'
+                                )
+                            }}"
+                            ><li>előterjesztés</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2015/2015.év költségvetés I. módosítása határozat.pdf'
+                                )
+                            }}"
+                            ><li>határozat</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2015/mod1mellekletek.zip'
+                                )
+                            }}"
+                            ><li class="text-white hover:text-zinc-400 font-bold text-lg ease-in duration-200">Mellékletek</li></a
+                        >
+                        <li class="text-emerald-500 font-bold text-lg">2. számú módosítás</li>
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2015/2015. évi költségvetés 2. módosítás előterjesztés.pdf'
+                                )
+                            }}"
+                            ><li>előterjesztés</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2015/2015. évi költségvetés 2. módosítás határozat.pdf'
+                                )
+                            }}"
+                            ><li>határozat</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2015/mod2mellekletek.zip'
+                                )
+                            }}"
+                            ><li class="text-white hover:text-zinc-400 font-bold text-lg ease-in duration-200">Mellékletek</li></a
+                        >
+                        <li class="text-emerald-500 font-bold text-lg">3. számú módosítás</li>
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2015/2015. évi költségvetés 3. módosítás előterjesztés.pdf'
+                                )
+                            }}"
+                            ><li>előterjesztés</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2015/2015. évi költségvetés 3. módosítás határozat.pdf'
+                                )
+                            }}"
+                            ><li>határozat</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2015/mod3mellekletek.zip'
+                                )
+                            }}"
+                            ><li class="text-white hover:text-zinc-400 font-bold text-lg ease-in duration-200">Mellékletek</li></a
+                        >
+                        <li class="text-emerald-500 font-bold text-lg">4. számú módosítás</li>
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2015/2015. évi költségvetés 4. módosítás előterjesztés.pdf'
+                                )
+                            }}"
+                            ><li>előterjesztés</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2015/2015. évi költségvetés 4. módosítás határozat.pdf'
+                                )
+                            }}"
+                            ><li>határozat</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2015/mod4mellekletek.zip'
+                                )
+                            }}"
+                            ><li class="text-white hover:text-zinc-400 font-bold text-lg ease-in duration-200">Mellékletek</li></a
+                        >
+                        <li class="text-emerald-500 font-bold text-lg">2015. évi zárszámadás</li>
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2015/3. számú előterjesztés.pdf'
+                                )
+                            }}"
+                            ><li>előterjesztés</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2015/határozat.pdf'
+                                )
+                            }}"
+                            ><li>határozat</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2015/zarszamadasmellekletek.zip'
+                                )
+                            }}"
+                            ><li class="text-white hover:text-zinc-400 font-bold text-lg ease-in duration-200">Mellékletek</li></a
+                        >
+                    </ul>
+                </div>
+            </div>
+
             {{-- element 2014 --}}
             <div class="container w-full">
                 <div
