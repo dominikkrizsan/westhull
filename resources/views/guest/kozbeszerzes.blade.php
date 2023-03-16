@@ -1,10 +1,16 @@
 @extends('layout.app') @section('content')
-
 {{-- inner --}}
-<div class="inner">
+<div class="max-[1280px]:px-3 xl:mx-auto xl:w-full" style="
+background: url({{asset('./img/main/inner-bg.png')}});
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 40vh;
+">
     <div
         class="flex flex-col items-center justify-center h-full gap-6"
     >
+        <h2 class="text-zinc-300 text-xl">Társulásról</h2>
         <h1 class="text-zinc-300 text-6xl font-bold">Közbeszerzés</h1>
         <div class="flex gap-4 text-xl">
             <a class="text-zinc-300 hover:text-zinc-100 ease-all duration-200" href="{{ url('/')}}">Kezdőlap</a>
@@ -16,7 +22,7 @@
 
 <div class="px-2 py-5 bg-white dark:bg-zinc-200">
     <div
-        class="main-container flex flex-col items-start justify-center mx-auto min-h-8/12 mt-4 gap-3"
+        class="max-[1280px]:mx-3 xl:mx-auto xl:w-128 flex flex-col items-start justify-center mx-auto min-h-8/12 mt-4 gap-3"
     >
     <!-- tarsulas -->
     <h1 class="text-emerald-600 font-bold text-3xl">Társulás</h1>
@@ -158,7 +164,7 @@
     <!-- keop111 -->
     <h1 class="text-emerald-600 font-bold text-3xl my-5">KEOP-1.1.1</h1>
     <h1 class="text-emerald-600 font-bold text-2xl my-3">Közbeszerzési tanácsadó</h1>
-    <ul class="text-lg grid grid-cols-2">
+    <ul class="text-lg grid grid-cols-2 max-[650px]:grid-cols-1">
         <div>
             <li>Szerződés <a class="text-emerald-600 hover:text-emerald-500 ease-in duration-200" href="{{
                 asset(
@@ -264,7 +270,7 @@
         target="__blank">3.oldal</a></li>
     </ul>
     <h1 class="text-emerald-600 font-bold text-2xl my-3">Projekt menedzser</h1>
-    <ul class="text-lg grid grid-cols-2">
+    <ul class="text-lg grid grid-cols-2 max-[650px]:grid-cols-1">
         <div>
             <li>Szerződés <a class="text-emerald-600 hover:text-emerald-500 ease-in duration-200" href="{{
                 asset(
@@ -346,7 +352,7 @@
         target="__blank">2. számú módosítás</a></li>
     </ul>
     <h1 class="text-emerald-600 font-bold text-2xl my-3">Nyilvánosság</h1>
-    <ul class="text-lg grid grid-cols-2">
+    <ul class="text-lg grid grid-cols-2 max-[650px]:grid-cols-1">
         <div>
             <li>Szerződés <a class="text-emerald-600 hover:text-emerald-500 ease-in duration-200" href="{{
                 asset(
@@ -460,7 +466,7 @@
         }}"
         target="__blank">2.oldal</a></li>
     </ul>
-    <ul class="text-lg grid grid-cols-2 mb-3">
+    <ul class="text-lg grid grid-cols-2 max-[650px]:grid-cols-1 mb-3">
         <div>
             <li>Szerződés <a class="text-emerald-600 hover:text-emerald-500 ease-in duration-200" href="{{
                 asset(

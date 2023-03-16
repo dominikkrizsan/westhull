@@ -2,32 +2,36 @@
 
 @section('content')
 {{-- inner --}}
-<div class="inner">
-    <div class="flex flex-col items-center justify-center h-full gap-6">
+<div class="max-[1280px]:px-3 xl:mx-auto xl:w-full" style="
+background: url({{asset('./img/main/inner-bg.png')}});
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 40vh;
+">
+    <div
+        class="flex flex-col items-center justify-center h-full gap-6"
+    >
         <h2 class="text-zinc-300 text-xl">Aktuális</h2>
-        <h1 class="text-zinc-300 text-6xl font-bold">Hírek <span class="font-normal">/</span> Fotók <span class="font-normal">/</span> Média</h1>
+        <h1 class="text-zinc-300 text-6xl font-bold">Hírek <span class="font-normal">/</span> Fotók <span class="font-normal">/</span> Média</h1></h1>
         <div class="flex gap-4 text-xl">
-            <a
-                class="text-zinc-300 hover:text-zinc-100 ease-all duration-200"
-                href="{{ url('/') }}"
-                >Kezdőlap</a
-            >
+            <a class="text-zinc-300 hover:text-zinc-100 ease-all duration-200" href="{{ url('/')}}">Kezdőlap</a>
             <p class="text-zinc-300">/</p>
             <p class="text-zinc-400">Aktuális</p>
         </div>
     </div>
 </div>
-<div class="px-2 py-5 bg-white dark:bg-zinc-200">
+<div class="px-2 py-5 bg-zinc-200">
     <div
-        class="main-container mx-auto min-h-8/12 mt-4 gap-3"
+        class="max-[1280px]:mx-3 xl:mx-auto xl:w-128 min-h-8/12 mt-4 gap-3"
     >
     {{-- hirek --}}
     <h1 id="hir-header" class="text-4xl font-bold text-center text-emerald-600 mb-5 mt-10">Hírek</h1>
     <div class="border-b border-zinc-300 w-48 mx-auto mb-10"></div>
     
-    <div class="grid grid-cols-2 justify-items-center items-start gap-10">
+    <div class="grid grid-cols-2 max-[900px]:grid-cols-1 justify-items-center items-start gap-10">
         {{-- hir-item --}}
-        <div class="flex flex-col align-center justify-center gap-4 border p-6 hover:bg-emerald-100 rounded-xl cursor-default ease-in duration-200">
+        <div class="flex flex-col bg-zinc-100 shadow-xl align-center justify-center gap-4 border p-6 hover:bg-emerald-100 rounded-xl cursor-default ease-in duration-200">
             <img class="w-max rounded-xl" src="{{asset('./img/news/news-1.jpg')}}" alt="">
             <h3 class="text-lg text-zinc-500">Sajtóközlemény / <span class="text-emerald-500">2015.12.09.</span></h3>
             <h2 class="text-xl font-bold">Ünnepélyes keretek között zárult a Nyugat-dunántúli Regionális Hulladékgazdálkodási Program</h2>
@@ -35,7 +39,7 @@
             <p class="text-lg">A Társulás a beruházás lezárulásával komoly eredményeket tud felmutatni, felépült a szombathelyi hulladékválogató mű és hulladékudvar, mely éves szinten 7.500 tonna hulladék válogatására alkalmas, valamint további 6 db hulladékudvar is megépült Bük, Körmend, Pankasz, Rábahídvég, Répcelak és Szentgotthárd, településeken. Lakézi Gábor, PIU vezető felhívta a figyelmet arra, hogy a beruházás során a városok lakótelepi övezeteiben és a falvak forgalmasabb pontjain hulladékgyűjtő szigetek létesültek, összesen 80 db, melyek segítségével a papír, a műanyag, illetve az üveg hulladék szelektálása válik megoldottá a lakosság számára.</p>
         </div>
         {{-- hir-item --}}
-        <div class="flex flex-col align-center justify-center gap-4 border p-6 hover:bg-emerald-100 rounded-xl cursor-default ease-in duration-200">
+        <div class="flex flex-col bg-zinc-100 shadow-xl align-center justify-center gap-4 border p-6 hover:bg-emerald-100 rounded-xl cursor-default ease-in duration-200">
             <img class="w-max rounded-xl" src="{{asset('./img/news/news-2.jpg')}}" alt="">
             <h3 class="text-lg text-zinc-500">Sajtóközlemény / <span class="text-emerald-500">2015.08.24.</span></h3>
             <h2 class="text-xl font-bold">Egyedülálló projektbemutató nyílt napot tartottak Vas megyében</h2>
@@ -44,7 +48,7 @@
             <p class="text-lg">A szombathelyi Nyílt nap során a lakosság megtekinthette a szombathelyi hulladékválogatót, mely éves szinten 7.500 tonna hulladék válogatására alkalmas. A válogatóműben a lakossági szelektív gyűjtésből származó hulladékok fajtán belüli válogatása végezhető el.</p>
         </div>
         {{-- hir-item --}}
-        <div class="flex flex-col align-center justify-center gap-4 border p-6 hover:bg-emerald-100 rounded-xl cursor-default ease-in duration-200">
+        <div class="flex flex-col bg-zinc-100 shadow-xl align-center justify-center gap-4 border p-6 hover:bg-emerald-100 rounded-xl cursor-default ease-in duration-200">
             <img class="w-max rounded-xl" src="{{asset('./img/news/news-3.jpg')}}" alt="">
             <h3 class="text-lg text-zinc-500">Sajtóközlemény / <span class="text-emerald-500">2015.08.07.</span></h3>
             <h2 class="text-xl font-bold">Egyre népszerűbb a szelektív hulladékgyűjtés az Európai Unióban és Magyarországon</h2>
@@ -52,7 +56,7 @@
             <p class="text-lg">Az Európai Környezetvédelmi Ügynökség minden évben megjelenő Jelzések című kiadványának 2014-es kiadásából kiderül, hogy az európai lakosság átlagosan egy évben egy főre vetítve 481 kg települési hulladékot termel. A magasnak tűnő szám mellett azonban jó hír, hogy ennek a mennyiségnek egyre nagyobb arányát hasznosítják újra vagy komposztálják, tehát egyre kisebb mennyiségű hulladék kerül a hulladéklerakókba. A magyarországi települési hulladék képződésének tekintetében is csökkenés figyelhető meg, hiszen az Országos Hulladékgazdálkodási Terv beszámolása alapján, míg 2007-ben majdnem 4,6 millió tonna települési hulladék keletkezett, addig ez a szám 2012-re 3,9 millió tonnára csökkent.</p>
         </div>
         {{-- hir-item --}}
-        <div class="flex flex-col align-center justify-center gap-4 border p-6 hover:bg-emerald-100 rounded-xl cursor-default ease-in duration-200">
+        <div class="flex flex-col bg-zinc-100 shadow-xl align-center justify-center gap-4 border p-6 hover:bg-emerald-100 rounded-xl cursor-default ease-in duration-200">
             <img class="w-max rounded-xl" src="{{asset('./img/news/news-4.jpg')}}" alt="">
             <h3 class="text-lg text-zinc-500">Sajtóközlemény / <span class="text-emerald-500">2015.03.04.</span></h3>
             <h2 class="text-xl font-bold">Jelentős mérföldköveken túl - az eddigi projekt-sikereket összegezte a Nyugat-dunántúli Regionális Hulladékgazdálkodási Önkormányzati Társulás</h2>
@@ -64,9 +68,9 @@
     {{-- media --}}
     <h1 id="media-header" class="text-4xl font-bold text-center text-emerald-600 mb-5 mt-20">Média</h1>
     <div class="border-b border-zinc-300 w-48 mx-auto mb-10"></div>
-    <div class="grid grid-cols-2 justify-items-center items-start gap-10">
+    <div class="grid grid-cols-2 max-[900px]:grid-cols-1 justify-items-center items-start gap-10">
         {{-- media-item --}}
-        <div class="flex flex-col align-center justify-center gap-4 border p-6 hover:bg-emerald-100 rounded-xl ease-in duration-200">
+        <div class="flex flex-col bg-zinc-100 shadow-xl align-center justify-center gap-4 border p-6 hover:bg-emerald-100 rounded-xl ease-in duration-200">
             <img class="w-full rounded-xl" src="{{asset('./img/media/media-1.jpg')}}" alt="">
             <h3 class="text-lg text-zinc-500">nemzeti.net / <span class="text-emerald-500">2014.04.03. </span></h3>
             <h2 class="text-xl font-bold">Hende: A szemétszállításnak is nonprofitnak kell lennie</h2>
@@ -74,7 +78,7 @@
             <p class="text-lg">Nonprofit közszolgáltatásként kell működnie a jövőben a szemétszállításnak – mondta Hende Csaba honvédelmi miniszter a szombathelyi hulladékválogató üzem alapkövének lerakása után. A térség országgyűlési képviselője szerint a rezsicsökkentés érinti a hulladékszállítás rendszerét is. Vas megyében 127 település ellátására nyolc új hulladékudvart, nyolcvan hulladékszigetet létesítenek, az igénylőknek pedig ingyenes komposztáló ládákat biztosítanak. A 2,6 milliárd forintból jövő júniusra elkészülő szombathelyi válogatómű évente 8500 tonna hulladékot dolgozhat fel. „A hulladék nagyon nagy üzlet volt, melyet országszerte sok helyütt olyan magánvállalkozókhoz sikerült »kiszervezni«, akik gyakorta csúnyán visszaéltek a monopolhelyzetükkel. Úgy gondoljuk, hogy a jövőben a szemétszállításnak is nonprofit közszolgáltatásként kell működnie, és igaz ez természetesen az energiaszektorra is” – fogalmazott Hende Csaba.</p>
         </div>
         {{-- media-item --}}
-        <div class="flex flex-col align-center justify-center gap-4 border p-6 hover:bg-emerald-100 rounded-xl ease-in duration-200">
+        <div class="flex flex-col bg-zinc-100 shadow-xl align-center justify-center gap-4 border p-6 hover:bg-emerald-100 rounded-xl ease-in duration-200">
             <img class="w-full rounded-xl" src="{{asset('./img/media/media-2.jpg')}}" alt="">
             <h3 class="text-lg text-zinc-500">hvg.hu / <span class="text-emerald-500">2014.04.03.</span></h3>
             <h2 class="text-xl font-bold">Hende: A szemétszállítást is bevonjuk a rezsimozgalomba</h2>
@@ -82,7 +86,7 @@
             <p class="text-lg">A honvédelmi miniszter egy hulladékgazdálkodási projekt alapkövét tette le Szombathelyen. Azt mondta, a szemétszállításnak is nonprofittá kell válnia a jövőben. A jövőben a szemétszállításnak is nonprofit közszolgáltatásként kell működnie - mondta Hende Csaba honvédelmi miniszter, szombathelyi országgyűlési képviselő. Hende Szombathelyen lerakta egy 2,5 milliárd forint értékű, 127 települést érintő környezetvédelmi beruházás alapkövét. A nyugat-dunántúli regionális hulladékgazdálkodási projekt megvalósítása évente 8500 tonna hulladék szelektív összegyűjtését, szétválogatását, nyersanyagkénti hasznosítását teszi lehetővé - mondta.</p>
         </div>
         {{-- media-item --}}
-        <div class="flex flex-col align-center justify-center gap-4 border p-6 hover:bg-emerald-100 rounded-xl ease-in duration-200">
+        <div class="flex flex-col bg-zinc-100 shadow-xl align-center justify-center gap-4 border p-6 hover:bg-emerald-100 rounded-xl ease-in duration-200">
             <img class="w-full rounded-xl" src="{{asset('./img/media/media-3.jpg')}}" alt="">
             <h3 class="text-lg text-zinc-500">kormany.hu / <span class="text-emerald-500">2014.04.03.</span></h3>
             <h2 class="text-xl font-bold">A szemétszállításnak is nonprofit közszolgáltatásként kell működnie</h2>
@@ -90,7 +94,7 @@
             <p class="text-lg">A jövőben a szemétszállításnak is nonprofit közszolgáltatásként kell működnie - hangoztatta Hende Csaba, a térség országgyűlési képviselője, honvédelmi miniszter, aki csütörtökön Szombathelyen lerakta egy 2,5 milliárd forint értékű, 127 települést érintő környezetvédelmi beruházás alapkövét. A nyugat-dunántúli regionális hulladékgazdálkodási projekt megvalósítása Vas megye egész hulladékgazdálkodási rendszerének megújítását jelenti, ami több mint 186 ezer embert érint közvetlenül, és évente 8500 tonna hulladék szelektív összegyűjtését, szétválogatását, nyersanyagkénti hasznosítását teszi lehetővé - mondta. Hozzáfűzte: a program keretében 27 ezer komposztálóládát osztanak majd ki az érintett települések lakói között.</p>
         </div>
         {{-- media-item --}}
-        <div class="flex flex-col align-center justify-center gap-4 border p-6 hover:bg-emerald-100 rounded-xl ease-in duration-200">
+        <div class="flex flex-col bg-zinc-100 shadow-xl align-center justify-center gap-4 border p-6 hover:bg-emerald-100 rounded-xl ease-in duration-200">
             <img class="w-full rounded-xl" src="{{asset('./img/media/media-1.jpg')}}" alt="">
             <h3 class="text-lg text-zinc-500">nyugat.hu / <span class="text-emerald-500">2013.12.08.</span></h3>
             <h2 class="text-xl font-bold">Szelektív hulladékgyűjtési rendszer épül</h2>

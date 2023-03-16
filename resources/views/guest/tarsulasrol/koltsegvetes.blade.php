@@ -1,28 +1,32 @@
 @extends('layout.app') @section('content')
 
 {{-- inner --}}
-<div class="inner">
-    <div class="flex flex-col items-center justify-center h-full gap-6">
-        <h2 class="text-zinc-300 text-xl">Rólunk</h2>
-        <h1 class="text-zinc-300 text-6xl font-bold">A Társulás</h1>
+<div class="max-[1280px]:px-3 xl:mx-auto xl:w-full" style="
+background: url({{asset('./img/main/inner-bg.png')}});
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 40vh;
+">
+    <div
+        class="flex flex-col items-center justify-center h-full gap-6"
+    >
+        <h2 class="text-zinc-300 text-xl">Társulásról</h2>
+        <h1 class="text-zinc-300 text-6xl font-bold">Költségvetés</h1>
         <div class="flex gap-4 text-xl">
-            <a
-                class="text-zinc-300 hover:text-zinc-100 ease-all duration-200"
-                href="{{ url('/') }}"
-                >Kezdőlap</a
-            >
+            <a class="text-zinc-300 hover:text-zinc-100 ease-all duration-200" href="{{ url('/')}}">Kezdőlap</a>
             <p class="text-zinc-300">/</p>
             <p class="text-zinc-400">Költségvetés</p>
         </div>
     </div>
 </div>
 
-<div class="px-2 py-5 bg-white dark:bg-zinc-200">
-    <div class="main-container mx-auto min-h-8/12 mt-4 gap-3">
+<div class="px-2 py-5 bg-zinc-200 ">
+    <div class="min-h-8/12 mt-4 gap-3 max-[1280px]:mx-3 xl:mx-auto xl:w-128">
         <h1 class="font-bold text-4xl text-center">Költségvetések</h1>
         <div class="border-b border-zinc-300 w-96 mx-auto mt-4"></div>
         <div
-            class="grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 text-xl mt-10 justify-items-stretch align-center gap-12"
+            class="grid grid-cols-4 max-[1200px]:grid-cols-3 max-[980px]:grid-cols-2 max-[600px]:grid-cols-1 text-xl mt-10 justify-items-stretch align-center gap-12"
         >
             {{-- element 2022--}}
             <div class="container w-full">

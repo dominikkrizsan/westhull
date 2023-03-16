@@ -16,6 +16,22 @@ li {
     padding: 5px;
 }
 
+#table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+    width: 100%;
+}
+
+@media only screen and (max-width: 1140px) {
+    table {
+        display: block;
+        overflow-x: auto;
+        white-space: nowrap;
+        width: 100%;
+    }
+  }
+
 /* tothetop-arrow */
 
 #myBtn {
