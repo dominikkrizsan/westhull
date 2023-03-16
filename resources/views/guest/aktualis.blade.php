@@ -12,9 +12,9 @@ background: url({{asset('./img/main/inner-bg.png')}});
     <div
         class="flex flex-col items-center justify-center h-full gap-6"
     >
-        <h2 class="text-zinc-300 text-xl">Aktuális</h2>
-        <h1 class="text-zinc-300 text-6xl font-bold">Hírek <span class="font-normal">/</span> Fotók <span class="font-normal">/</span> Média</h1></h1>
-        <div class="flex gap-4 text-xl">
+        <h2 class="text-zinc-300 text-xl max-[500px]:text-lg max-[500px]:text-center">Aktuális</h2>
+        <h1 class="text-zinc-300 text-6xl font-bold max-[900px]:text-4xl max-[500px]:text-2xl max-[500px]:text-center">Fotók <span class="font-normal">/</span> Hírek <span class="font-normal">/</span> Média</h1></h1>
+        <div class="flex gap-4 text-xl max-[500px]:text-lg max-[500px]:text-center">
             <a class="text-zinc-300 hover:text-zinc-100 ease-all duration-200" href="{{ url('/')}}">Kezdőlap</a>
             <p class="text-zinc-300">/</p>
             <p class="text-zinc-400">Aktuális</p>
@@ -25,6 +25,54 @@ background: url({{asset('./img/main/inner-bg.png')}});
     <div
         class="max-[1280px]:mx-3 xl:mx-auto xl:w-128 min-h-8/12 mt-4 gap-3"
     >
+    {{-- fotok --}}
+    <h1 id="media-header" class="text-4xl font-bold text-center text-emerald-600 mb-5 mt-20">Fotók</h1>
+    <div class="border-b border-zinc-300 w-48 mx-auto mb-10"></div>
+    <div class="grid grid-cols-2 max-[800px]:grid-cols-1 justify-items-center items-start gap-10">
+        <img class="rounded-xl shadow-xl" src="{{asset('./img/fototar/fototar-7.jpg')}}" alt="">
+        <img class="rounded-xl shadow-xl" src="{{asset('./img/fototar/fototar-6.jpg')}}" alt="">
+        <img class="rounded-xl shadow-xl" src="{{asset('./img/fototar/fototar-5.jpg')}}" alt="">
+        <img class="rounded-xl shadow-xl" src="{{asset('./img/fototar/fototar-3.jpg')}}" alt="">
+        <img class="rounded-xl shadow-xl" src="{{asset('./img/fototar/fototar-2.jpg')}}" alt="">
+        <img class="rounded-xl shadow-xl" src="{{asset('./img/fototar/fototar-1.jpg')}}" alt="">
+    </div>
+    <div class="border-b border-zinc-300 w-full my-5"></div>
+    <h2 class="text-xl text-emerald-500 font-semibold ml-3 mb-3 mt-10">Nyílt Nap</h2>
+    <div class="border-b border-zinc-300 w-32 mb-5"></div>
+    <div class="grid grid-cols-4 max-[1200px]:grid-cols-3 max-[950px]:grid-cols-2 max-[700px]:grid-cols-1 justify-items-center items-start gap-10">
+        <img class="rounded-xl shadow-xl" src="{{asset('./img/fototar/nyiltnap1.jpg')}}" alt="">
+        <img class="rounded-xl shadow-xl" src="{{asset('./img/fototar/nyiltnap2.jpg')}}" alt="">
+        <img class="rounded-xl shadow-xl" src="{{asset('./img/fototar/nyiltnap3.jpg')}}" alt="">
+        <img class="rounded-xl shadow-xl" src="{{asset('./img/fototar/nyiltnap4.jpg')}}" alt="">
+        <img class="rounded-xl shadow-xl" src="{{asset('./img/fototar/nyiltnap5.jpg')}}" alt="">
+        <img class="rounded-xl shadow-xl" src="{{asset('./img/fototar/nyiltnap6.jpg')}}" alt="">
+        <img class="rounded-xl shadow-xl" src="{{asset('./img/fototar/nyiltnap7.jfif')}}" alt="">
+    </div>
+    <div class="border-b border-zinc-300 w-full my-5"></div>
+    <h2 class="text-xl text-emerald-500 font-semibold ml-3 mb-3 mt-10">Lakossági fórum</h2>
+    <div class="border-b border-zinc-300 w-32 mb-3"></div>
+    <div class="grid grid-cols-4 max-[1200px]:grid-cols-3 max-[950px]:grid-cols-2 max-[700px]:grid-cols-1 justify-items-center items-start gap-10">
+        <img class="rounded-xl shadow-xl" src="{{asset('./img/fototar/lakossági_fórum1.jfif')}}" alt="">
+        <img class="rounded-xl shadow-xl" src="{{asset('./img/fototar/lakossági_fórum2.jfif')}}" alt="">
+        <img class="rounded-xl shadow-xl" src="{{asset('./img/fototar/lakossági_fórum5.jfif')}}" alt="">
+        <img class="rounded-xl shadow-xl" src="{{asset('./img/fototar/lakossági_fórum6.jfif')}}" alt="">
+        <img class="rounded-xl shadow-xl" src="{{asset('./img/fototar/lakossági_fórum3.jfif')}}" alt="">
+        <img class="rounded-xl shadow-xl" src="{{asset('./img/fototar/lakossági_fórum4.jfif')}}" alt="">
+    </div>
+    <div class="border-b border-zinc-300 w-full my-5"></div>
+    <h2 class="text-xl text-emerald-500 font-semibold ml-3 mb-3 mt-10">Zárórendezvény</h2>
+    <div class="border-b border-zinc-300 w-32 mb-3"></div>
+    <div class="grid grid-cols-4 max-[1200px]:grid-cols-3 max-[950px]:grid-cols-2 max-[700px]:grid-cols-1 justify-items-center items-start gap-10">
+        <img class="rounded-xl shadow-xl" src="{{asset('./img/fototar/zárórendezvény1.jfif')}}" alt="">
+        <img class="rounded-xl shadow-xl" src="{{asset('./img/fototar/zárórendezvény2.jfif')}}" alt="">
+        <img class="rounded-xl shadow-xl" src="{{asset('./img/fototar/zárórendezvény3.jfif')}}" alt="">
+        <img class="rounded-xl shadow-xl" src="{{asset('./img/fototar/zárórendezvény4.jfif')}}" alt="">
+        <img class="rounded-xl shadow-xl" src="{{asset('./img/fototar/zárórendezvény5.jfif')}}" alt="">
+        <img class="rounded-xl shadow-xl" src="{{asset('./img/fototar/zárórendezvény6.jfif')}}" alt="">
+        <img class="rounded-xl shadow-xl" src="{{asset('./img/fototar/zárórendezvény7.jfif')}}" alt="">
+        <img class="rounded-xl shadow-xl" src="{{asset('./img/fototar/zárórendezvény8.jfif')}}" alt="">
+        <img class="rounded-xl shadow-xl" src="{{asset('./img/fototar/zárórendezvény9.jfif')}}" alt="">
+    </div>
     {{-- hirek --}}
     <h1 id="hir-header" class="text-4xl font-bold text-center text-emerald-600 mb-5 mt-10">Hírek</h1>
     <div class="border-b border-zinc-300 w-48 mx-auto mb-10"></div>
@@ -102,7 +150,7 @@ background: url({{asset('./img/main/inner-bg.png')}});
             <p class="text-lg">80 hulladékgyűjtő szigetet, 7 hulladékudvart és 1 válogatóművet épít Vas megyében a Nyugat-dunántúli Regionális Hulladékgazdálkodási Önkormányzati Társulás az Európai Unió támogatásával. A Társulás ugyanis az érintett települések szelektív hulladékgyűjtési rendszerének kiépítését tűzte ki célul. Az építkezési feltételek a kivitelező szerződés aláírásával hivatalosan is megerősödtek. A munkaterület átadás-átvételét december közepére tűzték ki, így a munkálatok várhatóan már idén vagy jövő év elején elkezdődnek. A Nyugat-dunántúli Regionális Hulladékgazdálkodási Önkormányzati Társulás az Európai Unió támogatásával közel 3 milliárd forintot fordít a házhoz menő szelektív hulladékgyűjtési rendszer kiépítésére Vas megye 127 településén. A teljes rendszer építése 2015 májusában zárul le.</p>
         </div>
     </div>
-    {{-- fotok --}}
+    
     </div>
 </div>
 @endsection

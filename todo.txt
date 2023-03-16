@@ -32,10 +32,12 @@ menuk
     tothetop arrow - appear smooth
     footer
     logo
-    responsiv
-        navbar
-        footer
-        welcome
-        projektrol
+    //responsiv
+        //navbar
+        //footer
+        //welcome
+        //projektrol
+        //kozbeszerzes
+        //aktualis
 
 kepeknel altok kitoltese

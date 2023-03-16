@@ -194,31 +194,36 @@
             class="px-2 py-3 bg-white border-zinc-400 border-b-2 bg-zinc-800 border-zinc-700"
         >
             <div
-                class="xl:w-128 mx-auto py-16 bg-zinc-800 pl-5 xl:pl-0 border-zinc-700 grid grid-cols-4 justify-center text-zinc-400 gap-0 max-[1000px]:gap-10 max-[1000px]:grid-cols-2 max-[550px]:grid-cols-1 max-[550px]:text-center"
+                class="xl:w-128 mx-auto py-16 bg-zinc-800 xl:pl-0 border-zinc-700 grid grid-cols-4 text-zinc-400 gap-0 max-[1000px]:gap-10 max-[1000px]:grid-cols-2 max-[550px]:grid-cols-1 max-[550px]:text-center"
             >
                     <div class="flex flex-col gap-2">
                         <p class="font-bold text-2xl mb-5">Westhull</p>
                         <p>9700 Szombathely, <br> Kossuth Lajos utca 1-3.</p>
                     </div>
                     <div class="flex flex-col gap-2">
-                        <p class="font-bold text-2xl mb-5">Cég</p>
-                        <a href="" class="hover:text-zinc-300">Általános szerződési feltételek</a>
-                        <a href="" class="hover:text-zinc-300">Adatvédelmi irányelvek</a>
-                        <a href="" class="hover:text-zinc-300">Támogatás</a>
-                        <a href="" class="hover:text-zinc-300">Információ</a>
-                    </div>
-                    <div class="flex flex-col gap-2">
-                        <p class="font-bold text-2xl mb-5">Gyorslinkek</p>
-                        <a href="{{ url('/') }}" class="hover:text-zinc-300">Kezdőlap</a>
-                        <a href="{{ url('/tarsulas') }}" class="hover:text-zinc-300">A Társulás</a>
-                        <a href="{{ url('/kozbeszerzes') }}" class="hover:text-zinc-300">Közbeszerzés</a>
-                        <a href="{{ url('/aktualis') }}" class="hover:text-zinc-300">Média</a>
-                    </div>
-                    <div class="flex flex-col gap-2">
                         <p class="font-bold text-2xl mb-5">Kapcsolat</p>
                         <a href="mailto: info@westhull.hu" class="hover:text-zinc-300">info@westhull.hu</a>
                         <a href="tel:94-316-850" class="hover:text-zinc-300">+36/94 316 850</a>
                     </div>
+                    
+                        <div class="flex flex-col gap-2">
+                            <p class="font-bold text-2xl mb-5">Gyorslinkek</p>
+                            <a href="{{ url('/') }}" class="hover:text-zinc-300">Kezdőlap</a>
+                            <a href="{{ url('/tarsulas') }}" class="hover:text-zinc-300">A Társulás</a>
+                            <a href="{{ url('/kozbeszerzes') }}" class="hover:text-zinc-300">Közbeszerzés</a>
+                            <a href="{{ url('/aktualis') }}" class="hover:text-zinc-300">Média</a>
+                        </div>
+                    
+                    <div class="flex flex-col gap-2 pr-10 max-[550px]:px-2">
+                    <a class="font-bold text-2xl mb-5" href="{{ url('/aktualis') }}">Fotók</a>
+                        <div class="grid grid-cols-2 gap-5">
+                            <a href="{{ url('/aktualis') }}"><img class="rounded-xl shadow-xl" src="{{asset('./img/fototar/fototar-6.jpg')}}" alt=""></a>
+                            <a href="{{ url('/aktualis') }}"><img class="rounded-xl shadow-xl" src="{{asset('./img/fototar/fototar-5.jpg')}}" alt=""></a>
+                            <a href="{{ url('/aktualis') }}"><img class="rounded-xl shadow-xl" src="{{asset('./img/fototar/fototar-2.jpg')}}" alt=""></a>
+                            <a href="{{ url('/aktualis') }}"><img class="rounded-xl shadow-xl" src="{{asset('./img/fototar/fototar-3.jpg')}}" alt=""></a>
+                        </div>
+                    </div>
+                    
             </div>
             <div class="border-stone-700 border-t border-dotted">
                 <div

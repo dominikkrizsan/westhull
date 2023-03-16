@@ -11,9 +11,9 @@ background: url({{asset('./img/main/inner-bg.png')}});
     <div
         class="flex flex-col items-center justify-center h-full gap-6"
     >
-        <h2 class="text-zinc-300 text-xl">Társulásról</h2>
-        <h1 class="text-zinc-300 text-6xl font-bold">Költségvetés</h1>
-        <div class="flex gap-4 text-xl">
+        <h2 class="text-zinc-300 text-xl max-[500px]:text-lg max-[500px]:text-center">Társulásról</h2>
+        <h1 class="text-zinc-300 text-6xl font-bold max-[900px]:text-4xl max-[500px]:text-2xl max-[500px]:text-center">Költségvetés</h1>
+        <div class="flex gap-4 text-xl max-[500px]:text-lg max-[500px]:text-center">
             <a class="text-zinc-300 hover:text-zinc-100 ease-all duration-200" href="{{ url('/')}}">Kezdőlap</a>
             <p class="text-zinc-300">/</p>
             <p class="text-zinc-400">Költségvetés</p>
