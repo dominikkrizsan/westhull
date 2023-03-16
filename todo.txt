@@ -37,8 +37,5 @@ menuk
         footer
         welcome
         projektrol
-    keop111
-        a kis resz jo betumeretbe onnan kell mindet lemasolni -> inner
 
 kepeknel altok kitoltese
-flex flex-col items-start justify-center ahol ez van van h elrontja a containert ami benne van

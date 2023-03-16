@@ -2,14 +2,6 @@
     font-family: "Poppins", sans-serif;
 }
 
-#main {
-    background: url("https://i.ibb.co/fMSmQGq/main.png");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 88vh;
-}
-
 .main-container {
     width: 1280px;
     margin: auto;
@@ -17,22 +9,6 @@
 
 li {
     list-style: none;
-}
-
-.inner {
-    background: url("https://i.ibb.co/5npzCQ4/inner-bg.png");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 40vh;
-}
-
-.news {
-    background: url("https://iili.io/HMpokqN.png");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
 }
 
 .container .content {

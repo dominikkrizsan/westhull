@@ -2,7 +2,14 @@
 
 @section('content')
     {{-- main --}}
-    <div id="main" class="px-2 py-3 bg-white border-zinc-400 border-b-2 dark:bg-zinc-800 dark:border-zinc-700 mb-6">
+    <div id="main" style="
+        background: url({{asset('./img/main/main.png')}});
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 88vh;
+    " 
+        class="px-2 py-3 bg-white border-zinc-400 border-b-2 dark:bg-zinc-800 dark:border-zinc-700 mb-6">
         <div class="max-[1280px]:mx-3 xl:mx-auto xl:w-128 flex flex-col items-start justify-center mx-auto min-h-full gap-3">
             <p class="text-white text-2xl max-[600px]:text-xl">Összefogás a tiszta környezetért</p>
             <h1 class="text-white text-5xl leading-snug font-bold max-[600px]:text-2xl">Nyugat-Dunántúli Regionális <br> Hulladékgazdálkodási <br> Önkormányzati Társulás</h1>
@@ -85,7 +92,7 @@
             a Társulási Tanács Elnöke
     </div>
     {{-- team --}}
-    <div class="px-2 py-3 bg-white dark:bg-zinc-200 pb-20">
+    <div class="px-2 py-3 bg-white bg-zinc-200 pb-20">
         <div class=" flex flex-col gap-4 items-center justify-around py-10 bg-zinc-200 max-[1280px]:mx-3 xl:mx-auto xl:w-128">
             <p class="mt-5 text-xl text-emerald-500 max-[740px]:text-lg">Csapatunk</p>
             <p class="text-4xl font-bold mb-5 max-[740px]:text-xl max-[740px]:text-center">Ismerd meg összetartó csapatunkat</p>
@@ -142,7 +149,13 @@
         </div>
     </div>
     {{-- hirek --}}
-    <div class="news px-2 py-5">
+    <div class="px-2 py-5" style="
+    background: url({{asset('./img/news/news-bg.png')}});
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    ">
         <div
                 class="w-4/5 flex flex-col items-center justify-center mx-auto mt-20 gap-3"
             >

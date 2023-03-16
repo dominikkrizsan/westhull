@@ -1,6 +1,12 @@
 @extends('layout.app') @section('content')
 {{-- inner --}}
-<div class="inner max-[1280px]:px-3 xl:mx-auto xl:w-128">
+<div class="max-[1280px]:px-3 xl:mx-auto xl:w-full" style="
+background: url({{asset('./img/main/inner-bg.png')}});
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 40vh;
+">
     <div
         class="flex flex-col items-center justify-center h-full gap-6"
     >
@@ -13,7 +19,7 @@
         </div>
     </div>
 </div>
-<div class="px-2 py-5 bg-white dark:bg-zinc-200">
+<div class="px-2 py-5 bg-zinc-200">
     <div
         class="max-[1280px]:px-3 xl:mx-auto xl:w-128 flex flex-col items-start justify-center mx-auto min-h-8/12 mt-4 gap-3"
     >
@@ -315,12 +321,6 @@
                         target="__blank"
                         ><li>Aláírási címpéldány</li></a
                     >
-                    <!-- !!!!!!!!! -->
-                    <a
-                        class="text-red-600 hover:text-emerald-500 ease-in duration-200"
-                        href=""
-                        ><li>Alapító okirat</li></a
-                    >
                     <a
                         class="text-emerald-600 hover:text-emerald-500 ease-in duration-200"
                         href="{{
@@ -370,12 +370,6 @@
                         }}"
                         target="__blank"
                         ><li>IV.számú melléklet előlap</li></a
-                    >
-                    <!-- !!!!!!!!! -->
-                    <a
-                        class="text-red-600 hover:text-emerald-500 ease-in duration-200"
-                        href=""
-                        ><li>Javaslat 2010. évi koncepcióra</li></a
                     >
                     <a
                         class="text-emerald-600 hover:text-emerald-500 ease-in duration-200"
