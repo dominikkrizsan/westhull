@@ -43,6 +43,10 @@ Route::get('/tarsulas', function () {
     return view('guest.tarsulasrol.tarsulas');
 });
 
+Route::get('/tanacs-ulesek', function () {
+    return view('guest.tarsulasrol.ulesek');
+});
+
 Route::get('/tarsulas-koltsegvetes', function () {
     return view('guest.tarsulasrol.koltsegvetes');
 });

@@ -160,7 +160,7 @@
                                 <a href="{{ url('/tarsulas') }}" class="block px-4 py-2 hover:bg-emerald-500 hover:bg-gray-600 hover:text-emerald-500 ease-in duration-200">A Társulás</a>
                             </li>
                             <li>
-                                <a href="#" class="block px-4 py-2 hover:bg-emerald-500 hover:bg-gray-600 hover:text-emerald-500 ease-in duration-200">Társulási tanács ülések</a>
+                                <a href="{{ url('/tanacs-ulesek') }}" class="block px-4 py-2 hover:bg-emerald-500 hover:bg-gray-600 hover:text-emerald-500 ease-in duration-200">Társulási tanács ülések</a>
                             </li>
                             <li>
                                 <a href="{{ url('/tarsulas-koltsegvetes') }}" class="block px-4 py-2 hover:bg-emerald-500 hover:bg-gray-600 hover:text-emerald-500 ease-in duration-200">Költségvetés</a>
