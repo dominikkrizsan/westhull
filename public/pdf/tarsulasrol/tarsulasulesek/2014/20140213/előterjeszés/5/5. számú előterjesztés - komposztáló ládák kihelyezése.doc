@@ -1,0 +1,345 @@
+{\rtf1\adeflang1025\ansi\ansicpg1250\uc1\adeff0\deff0\stshfdbch174\stshfloch174\stshfhich174\stshfbi0\deflang1038\deflangfe1038{\fonttbl{\f0\froman\fcharset238\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fswiss\fcharset238\fprq2{\*\panose 020b0604020202020204}Arial;}
+{\f2\fmodern\fcharset238\fprq1{\*\panose 02070309020205020404}Courier New;}{\f3\froman\fcharset2\fprq2{\*\panose 05050102010706020507}Symbol;}{\f10\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Wingdings;}
+{\f36\fswiss\fcharset238\fprq2{\*\panose 020b0604030504040204}Tahoma;}{\f77\fswiss\fcharset238\fprq2{\*\panose 020b0502020202020204}Century Gothic;}{\f172\froman\fcharset238\fprq2{\*\panose 02040503050406030204}Cambria;}
+{\f174\fswiss\fcharset238\fprq2{\*\panose 020f0502020204030204}Calibri;}{\f206\froman\fcharset0\fprq2 Times New Roman;}{\f205\froman\fcharset204\fprq2 Times New Roman Cyr;}{\f207\froman\fcharset161\fprq2 Times New Roman Greek;}
+{\f208\froman\fcharset162\fprq2 Times New Roman Tur;}{\f209\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\f210\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f211\froman\fcharset186\fprq2 Times New Roman Baltic;}
+{\f212\froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\f216\fswiss\fcharset0\fprq2 Arial;}{\f215\fswiss\fcharset204\fprq2 Arial Cyr;}{\f217\fswiss\fcharset161\fprq2 Arial Greek;}{\f218\fswiss\fcharset162\fprq2 Arial Tur;}
+{\f219\fbidi \fswiss\fcharset177\fprq2 Arial (Hebrew);}{\f220\fbidi \fswiss\fcharset178\fprq2 Arial (Arabic);}{\f221\fswiss\fcharset186\fprq2 Arial Baltic;}{\f222\fswiss\fcharset163\fprq2 Arial (Vietnamese);}{\f226\fmodern\fcharset0\fprq1 Courier New;}
+{\f225\fmodern\fcharset204\fprq1 Courier New Cyr;}{\f227\fmodern\fcharset161\fprq1 Courier New Greek;}{\f228\fmodern\fcharset162\fprq1 Courier New Tur;}{\f229\fbidi \fmodern\fcharset177\fprq1 Courier New (Hebrew);}
+{\f230\fbidi \fmodern\fcharset178\fprq1 Courier New (Arabic);}{\f231\fmodern\fcharset186\fprq1 Courier New Baltic;}{\f232\fmodern\fcharset163\fprq1 Courier New (Vietnamese);}{\f566\fswiss\fcharset0\fprq2 Tahoma;}
+{\f565\fswiss\fcharset204\fprq2 Tahoma Cyr;}{\f567\fswiss\fcharset161\fprq2 Tahoma Greek;}{\f568\fswiss\fcharset162\fprq2 Tahoma Tur;}{\f569\fbidi \fswiss\fcharset177\fprq2 Tahoma (Hebrew);}{\f570\fbidi \fswiss\fcharset178\fprq2 Tahoma (Arabic);}
+{\f571\fswiss\fcharset186\fprq2 Tahoma Baltic;}{\f572\fswiss\fcharset163\fprq2 Tahoma (Vietnamese);}{\f573\fswiss\fcharset222\fprq2 Tahoma (Thai);}{\f976\fswiss\fcharset0\fprq2 Century Gothic;}{\f975\fswiss\fcharset204\fprq2 Century Gothic Cyr;}
+{\f977\fswiss\fcharset161\fprq2 Century Gothic Greek;}{\f978\fswiss\fcharset162\fprq2 Century Gothic Tur;}{\f981\fswiss\fcharset186\fprq2 Century Gothic Baltic;}{\f1926\froman\fcharset0\fprq2 Cambria;}{\f1925\froman\fcharset204\fprq2 Cambria Cyr;}
+{\f1927\froman\fcharset161\fprq2 Cambria Greek;}{\f1928\froman\fcharset162\fprq2 Cambria Tur;}{\f1931\froman\fcharset186\fprq2 Cambria Baltic;}{\f1946\fswiss\fcharset0\fprq2 Calibri;}{\f1945\fswiss\fcharset204\fprq2 Calibri Cyr;}
+{\f1947\fswiss\fcharset161\fprq2 Calibri Greek;}{\f1948\fswiss\fcharset162\fprq2 Calibri Tur;}{\f1951\fswiss\fcharset186\fprq2 Calibri Baltic;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;
+\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;
+\red192\green192\blue192;\red54\green95\blue145;\red79\green129\blue189;\red50\green50\blue50;}{\stylesheet{\ql \li0\ri0\sa200\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs22\alang1025 
+\ltrch\fcs0 \f174\fs22\lang1038\langfe1033\cgrid\langnp1038\langfenp1033 \snext0 \styrsid5250889 Normal;}{\s1\ql \li0\ri0\sb480\sl276\slmult1\keep\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel0\adjustright\rin0\lin0\itap0 \rtlch\fcs1 
+\ab\af0\afs28\alang1025 \ltrch\fcs0 \b\fs28\cf17\lang1038\langfe1033\loch\f172\hich\af172\dbch\af174\cgrid\langnp1038\langfenp1033 \sbasedon0 \snext0 \slink18 \styrsid13506314 heading 1;}{\s2\ql \li0\ri0\sb200\sl276\slmult1
+\keep\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \ab\af0\afs26\alang1025 \ltrch\fcs0 \b\fs26\cf18\lang1038\langfe1033\loch\f172\hich\af172\dbch\af174\cgrid\langnp1038\langfenp1033 
+\sbasedon0 \snext0 \slink19 \styrsid13506314 heading 2;}{\s3\ql \li0\ri0\sb200\sl276\slmult1\keep\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel2\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \ab\af0\afs22\alang1025 \ltrch\fcs0 
+\b\fs22\cf18\lang1038\langfe1033\loch\f172\hich\af172\dbch\af174\cgrid\langnp1038\langfenp1033 \sbasedon0 \snext0 \slink25 \styrsid10575461 heading 3;}{\*\cs10 \additive \ssemihidden Default Paragraph Font;}{\*
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tblind0\tblindtype3\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\lang1024\langfe1024\loch\f174\hich\af174\dbch\af174\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden Normal Table;}{\*\cs15 
+\additive \rtlch\fcs1 \af0 \ltrch\fcs0 \ul\cf2 \sbasedon10 \styrsid9450973 Hyperlink;}{\s16\ql \li0\ri0\sb100\sa100\sbauto1\saauto1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1038\langfe1038\loch\f0\hich\af0\dbch\af174\cgrid\langnp1038\langfenp1038 \sbasedon0 \snext16 \styrsid9450973 Normal (Web);}{\s17\ql \li720\ri0\sa200\sl276\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\contextualspace \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f174\fs22\lang1038\langfe1033\cgrid\langnp1038\langfenp1033 \sbasedon0 \snext17 \styrsid9450973 List Paragraph;}{\*
+\cs18 \additive \rtlch\fcs1 \ab\af0\afs28 \ltrch\fcs0 \b\f172\fs28\cf17 \sbasedon10 \slink1 \slocked \styrsid13506314 Heading 1 Char;}{\*\cs19 \additive \rtlch\fcs1 \ab\af0\afs26 \ltrch\fcs0 \b\f172\fs26\cf18 \sbasedon10 \slink2 \slocked \styrsid13506314 
+Heading 2 Char;}{\s20\ql \li0\ri0\sb480\sl276\slmult1\keep\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \ab\af0\afs28\alang1025 \ltrch\fcs0 
+\b\fs28\cf17\lang1038\langfe1038\loch\f172\hich\af172\dbch\af174\cgrid\langnp1038\langfenp1038 \sbasedon1 \snext0 \ssemihidden \styrsid4916027 TOC Heading;}{\s21\ql \li0\ri0\sa100\sl276\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f174\fs22\lang1038\langfe1033\cgrid\langnp1038\langfenp1033 \sbasedon0 \snext0 \sautoupd \styrsid4916027 toc 1;}{
+\s22\ql \li220\ri0\sa100\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin220\itap0 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f174\fs22\lang1038\langfe1033\cgrid\langnp1038\langfenp1033 
+\sbasedon0 \snext0 \sautoupd \styrsid4916027 toc 2;}{\s23\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af36\afs16\alang1025 \ltrch\fcs0 \f36\fs16\lang1038\langfe1033\cgrid\langnp1038\langfenp1033 
+\sbasedon0 \snext23 \slink24 \ssemihidden \styrsid4916027 Balloon Text;}{\*\cs24 \additive \rtlch\fcs1 \af36\afs16 \ltrch\fcs0 \f36\fs16 \sbasedon10 \slink23 \slocked \ssemihidden \styrsid4916027 Balloon Text Char;}{\*\cs25 \additive \rtlch\fcs1 \ab\af0 
+\ltrch\fcs0 \b\f172\cf18 \sbasedon10 \slink3 \slocked \styrsid10575461 Heading 3 Char;}{\s26\ql \li440\ri0\sa100\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin440\itap0 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 
+\f174\fs22\lang1038\langfe1033\cgrid\langnp1038\langfenp1033 \sbasedon0 \snext0 \sautoupd \styrsid1188537 toc 3;}{\s27\qc \li0\ri0\sa200\sl276\slmult1\widctlpar\wrapdefault\hyphpar0\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 
+\af0\afs22\alang1025 \ltrch\fcs0 \fs28\lang1038\langfe1025\cgrid\langnp1038\langfenp1025 \sbasedon0 \snext28 \slocked \styrsid15629050 Title;}{\s28\qc \li0\ri0\sa60\sl276\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af1\afs24\alang1025 \ltrch\fcs0 \f1\fs24\lang1038\langfe1033\cgrid\langnp1038\langfenp1033 \sbasedon0 \snext28 \slocked \styrsid15629050 Subtitle;}}
+{\*\latentstyles\lsdstimax156\lsdlockeddef0{\lsdlockedexcept Normal;heading 1;heading 2;heading 3;heading 4;heading 5;heading 6;heading 7;heading 8;heading 9;toc 1;toc 2;toc 3;toc 4;toc 5;toc 6;toc 7;toc 8;toc 9;caption;Title;Default Paragraph Font;Subtitle;Strong;Emphasis;Table Grid;}}
+{\*\listtable{\list\listtemplateid-2008654114\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid-1060455658\'01\u-3913 ?;}{\levelnumbers;}
+\f3\cf0\fbias0\hres0\chhres0 \fi-360\li1287\lin1287 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid68026371\'01o;}{\levelnumbers;}\f2\fbias0\hres0\chhres0 
+\fi-360\li2007\lin2007 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid68026373\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0\hres0\chhres0 \fi-360\li2727\lin2727 }
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid68026369\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0\hres0\chhres0 \fi-360\li3447\lin3447 }{\listlevel\levelnfc23\levelnfcn23
+\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid68026371\'01o;}{\levelnumbers;}\f2\fbias0\hres0\chhres0 \fi-360\li4167\lin4167 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid68026373\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0\hres0\chhres0 \fi-360\li4887\lin4887 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\leveltemplateid68026369\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0\hres0\chhres0 \fi-360\li5607\lin5607 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid68026371\'01o;}{\levelnumbers;}\f2\fbias0\hres0\chhres0 \fi-360\li6327\lin6327 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid68026373
+\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0\hres0\chhres0 \fi-360\li7047\lin7047 }{\listname ;}\listid547688843}{\list\listtemplateid-1157350084\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat2014\levelspace0
+\levelindent0{\leveltext\leveltemplateid1671999450\'01-;}{\levelnumbers;}\loch\af77\hich\af77\dbch\af0\fbias0\hres0\chhres0 \fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0
+\levelindent0{\leveltext\leveltemplateid68026371\'01o;}{\levelnumbers;}\f2\fbias0\hres0\chhres0 \fi-360\li1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid68026373\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0\hres0\chhres0 \fi-360\li2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid68026369\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0\hres0\chhres0 \fi-360\li2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid68026371\'01o;}{\levelnumbers;}\f2\fbias0\hres0\chhres0 \fi-360\li3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid68026373
+\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0\hres0\chhres0 \fi-360\li4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid68026369
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0\hres0\chhres0 \fi-360\li5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid68026371\'01o;}{\levelnumbers
+;}\f2\fbias0\hres0\chhres0 \fi-360\li5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid68026373\'01\u-3929 ?;}{\levelnumbers;}
+\f10\fbias0\hres0\chhres0 \fi-360\li6480\lin6480 }{\listname ;}\listid569387490}{\list\listtemplateid731909166{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}
+\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 \fi-360\li720\lin720 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levellegal\levelspace0\levelindent0{\leveltext\'04\'00.\'01.;}{\levelnumbers\'01\'03;}\rtlch\fcs1 \af0 
+\ltrch\fcs0 \fbias0\hres0\chhres0 \fi-720\li1080\lin1080 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levellegal\levelspace0\levelindent0{\leveltext\'06\'00.\'01.\'02.;}{\levelnumbers\'01\'03\'05;}\rtlch\fcs1 \af0 
+\ltrch\fcs0 \fbias0\hres0\chhres0 \fi-720\li1080\lin1080 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levellegal\levelspace0\levelindent0{\leveltext\'08\'00.\'01.\'02.\'03.;}{\levelnumbers\'01\'03\'05\'07;}\rtlch\fcs1 
+\af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-1080\li1440\lin1440 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levellegal\levelspace0\levelindent0{\leveltext\'0a\'00.\'01.\'02.\'03.\'04.;}{\levelnumbers
+\'01\'03\'05\'07\'09;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-1080\li1440\lin1440 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levellegal\levelspace0\levelindent0{\leveltext
+\'0c\'00.\'01.\'02.\'03.\'04.\'05.;}{\levelnumbers\'01\'03\'05\'07\'09\'0b;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-1440\li1800\lin1800 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levellegal\levelspace0
+\levelindent0{\leveltext\'0e\'00.\'01.\'02.\'03.\'04.\'05.\'06.;}{\levelnumbers\'01\'03\'05\'07\'09\'0b\'0d;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-1800\li2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levellegal\levelspace0\levelindent0{\leveltext\'10\'00.\'01.\'02.\'03.\'04.\'05.\'06.\'07.;}{\levelnumbers\'01\'03\'05\'07\'09\'0b\'0d\'0f;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-1800\li2160\lin2160 }{\listlevel\levelnfc0
+\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levellegal\levelspace0\levelindent0{\leveltext\'12\'00.\'01.\'02.\'03.\'04.\'05.\'06.\'07.\'08.;}{\levelnumbers\'01\'03\'05\'07\'09\'0b\'0d\'0f\'11;}\rtlch\fcs1 \af0 \ltrch\fcs0 
+\fbias0\hres0\chhres0 \fi-2160\li2520\lin2520 }{\listname ;}\listid778717361}{\list\listtemplateid-1385538380\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid68026369\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0\hres0\chhres0 \fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid68026371
+\'01o;}{\levelnumbers;}\f2\fbias0\hres0\chhres0 \fi-360\li1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid68026373\'01\u-3929 ?;}{\levelnumbers
+;}\f10\fbias0\hres0\chhres0 \fi-360\li2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid68026369\'01\u-3913 ?;}{\levelnumbers;}
+\f3\fbias0\hres0\chhres0 \fi-360\li2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid68026371\'01o;}{\levelnumbers;}\f2\fbias0\hres0\chhres0 
+\fi-360\li3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid68026373\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0\hres0\chhres0 
+\fi-360\li4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid68026369\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0\hres0\chhres0 
+\fi-360\li5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid68026371\'01o;}{\levelnumbers;}\f2\fbias0\hres0\chhres0 \fi-360\li5760\lin5760 }
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid68026373\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0\hres0\chhres0 \fi-360\li6480\lin6480 }{\listname 
+;}\listid873734698}{\list\listtemplateid930399672\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid68026369\'01\u-3913 ?;}{\levelnumbers;}
+\f3\fbias0\hres0\chhres0 \fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid68026371\'01o;}{\levelnumbers;}\f2\fbias0\hres0\chhres0 
+\fi-360\li1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid68026373\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0\hres0\chhres0 
+\fi-360\li2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid68026369\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0\hres0\chhres0 
+\fi-360\li2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid68026371\'01o;}{\levelnumbers;}\f2\fbias0\hres0\chhres0 \fi-360\li3600\lin3600 }
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid68026373\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0\hres0\chhres0 \fi-360\li4320\lin4320 }{\listlevel
+\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid68026369\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0\hres0\chhres0 \fi-360\li5040\lin5040 }{\listlevel\levelnfc23
+\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid68026371\'01o;}{\levelnumbers;}\f2\fbias0\hres0\chhres0 \fi-360\li5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid68026373\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0\hres0\chhres0 \fi-360\li6480\lin6480 }{\listname ;}\listid1011449275}{\list\listtemplateid-617347956
+\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat8\levelspace0\levelindent0{\leveltext\leveltemplateid-776075204\'01-;}{\levelnumbers;}\b0\fs22\loch\af77\hich\af77\dbch\af0\fbias0\hres0\chhres0 
+\fi-360\li927\lin927 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid68026371\'01o;}{\levelnumbers;}\f2\fbias0\hres0\chhres0 \fi-360\li1647\lin1647 }
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid68026373\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0\hres0\chhres0 \fi-360\li2367\lin2367 }{\listlevel
+\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid68026369\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0\hres0\chhres0 \fi-360\li3087\lin3087 }{\listlevel\levelnfc23
+\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid68026371\'01o;}{\levelnumbers;}\f2\fbias0\hres0\chhres0 \fi-360\li3807\lin3807 }{\listlevel\levelnfc23\levelnfcn23\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid68026373\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0\hres0\chhres0 \fi-360\li4527\lin4527 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid68026369\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0\hres0\chhres0 \fi-360\li5247\lin5247 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid68026371\'01o;}{\levelnumbers;}\f2\fbias0\hres0\chhres0 \fi-360\li5967\lin5967 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative
+\levelspace0\levelindent0{\leveltext\leveltemplateid68026373\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0\hres0\chhres0 \fi-360\li6687\lin6687 }{\listname ;}\listid1657340652}{\list\listtemplateid-2045503854\listhybrid{\listlevel\levelnfc23\levelnfcn23
+\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid775841422\'01\u-3913 ?;}{\levelnumbers;}\f3\cf0\fbias0\hres0\chhres0 \fi-360\li2007\lin2007 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid68026371\'01o;}{\levelnumbers;}\f2\fbias0\hres0\chhres0 \fi-360\li2727\lin2727 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative
+\levelspace0\levelindent0{\leveltext\leveltemplateid68026373\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0\hres0\chhres0 \fi-360\li3447\lin3447 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0
+\levelindent0{\leveltext\leveltemplateid68026369\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0\hres0\chhres0 \fi-360\li4167\lin4167 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0
+{\leveltext\leveltemplateid68026371\'01o;}{\levelnumbers;}\f2\fbias0\hres0\chhres0 \fi-360\li4887\lin4887 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid68026373\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0\hres0\chhres0 \fi-360\li5607\lin5607 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid68026369\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0\hres0\chhres0 \fi-360\li6327\lin6327 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid68026371\'01o;}{\levelnumbers;}\f2\fbias0\hres0\chhres0 \fi-360\li7047\lin7047 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid68026373
+\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0\hres0\chhres0 \fi-360\li7767\lin7767 }{\listname ;}\listid1770857566}{\list\listtemplateid-14757224\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\leveltemplateid68026369\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0\hres0\chhres0 \fi-360\li1571\lin1571 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0
+{\leveltext\leveltemplateid68026371\'01o;}{\levelnumbers;}\f2\fbias0\hres0\chhres0 \fi-360\li2291\lin2291 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid68026373
+\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0\hres0\chhres0 \fi-360\li3011\lin3011 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid68026369
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0\hres0\chhres0 \fi-360\li3731\lin3731 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid68026371\'01o;}{\levelnumbers
+;}\f2\fbias0\hres0\chhres0 \fi-360\li4451\lin4451 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid68026373\'01\u-3929 ?;}{\levelnumbers;}
+\f10\fbias0\hres0\chhres0 \fi-360\li5171\lin5171 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid68026369\'01\u-3913 ?;}{\levelnumbers;}
+\f3\fbias0\hres0\chhres0 \fi-360\li5891\lin5891 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid68026371\'01o;}{\levelnumbers;}\f2\fbias0\hres0\chhres0 
+\fi-360\li6611\lin6611 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid68026373\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0\hres0\chhres0 
+\fi-360\li7331\lin7331 }{\listname ;}\listid1848791024}{\list\listtemplateid1659278824\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid-1884925794
+\'01\u-3913 ?;}{\levelnumbers;}\f3\cf0\fbias0\hres0\chhres0 \fi-360\li1004\lin1004 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid68026371
+\'01o;}{\levelnumbers;}\f2\fbias0\hres0\chhres0 \fi-360\li1724\lin1724 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid68026373\'01\u-3929 ?;}{\levelnumbers
+;}\f10\fbias0\hres0\chhres0 \fi-360\li2444\lin2444 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid68026369\'01\u-3913 ?;}{\levelnumbers;}
+\f3\fbias0\hres0\chhres0 \fi-360\li3164\lin3164 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid68026371\'01o;}{\levelnumbers;}\f2\fbias0\hres0\chhres0 
+\fi-360\li3884\lin3884 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid68026373\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0\hres0\chhres0 
+\fi-360\li4604\lin4604 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid68026369\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0\hres0\chhres0 
+\fi-360\li5324\lin5324 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid68026371\'01o;}{\levelnumbers;}\f2\fbias0\hres0\chhres0 \fi-360\li6044\lin6044 }
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid68026373\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0\hres0\chhres0 \fi-360\li6764\lin6764 }{\listname 
+;}\listid2057503801}}{\*\listoverridetable{\listoverride\listid569387490\listoverridecount0\ls1}{\listoverride\listid873734698\listoverridecount0\ls2}{\listoverride\listid1011449275\listoverridecount0\ls3}{\listoverride\listid547688843
+\listoverridecount0\ls4}{\listoverride\listid1770857566\listoverridecount0\ls5}{\listoverride\listid1848791024\listoverridecount0\ls6}{\listoverride\listid2057503801\listoverridecount0\ls7}{\listoverride\listid1657340652\listoverridecount0\ls8}
+{\listoverride\listid778717361\listoverridecount0\ls9}}{\*\pgptbl {\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}}{\*\rsidtbl \rsid15526\rsid162185\rsid265077\rsid347216\rsid404436\rsid408501\rsid664939\rsid726084\rsid920645\rsid923934\rsid1142036\rsid1188537
+\rsid1253783\rsid1311835\rsid1316104\rsid1377023\rsid1531946\rsid1721623\rsid2038727\rsid2504110\rsid2708563\rsid2708837\rsid3087769\rsid3098014\rsid3747354\rsid3884519\rsid4071652\rsid4457746\rsid4600893\rsid4815005\rsid4916027\rsid4924954\rsid4995360
+\rsid4997346\rsid5250085\rsid5250889\rsid5319374\rsid5454702\rsid5778578\rsid5839737\rsid6174831\rsid6312896\rsid6365564\rsid6560140\rsid6568342\rsid7106081\rsid7157134\rsid7296464\rsid7605231\rsid7822054\rsid8084260\rsid8215976\rsid8463785\rsid8741414
+\rsid8872268\rsid9450973\rsid9770641\rsid10031520\rsid10055736\rsid10363792\rsid10380328\rsid10575461\rsid10841077\rsid10905082\rsid11032541\rsid11087139\rsid11168416\rsid11233360\rsid11297683\rsid11480936\rsid11692121\rsid11808405\rsid11826078
+\rsid11935719\rsid11944674\rsid12010602\rsid12129358\rsid12204490\rsid12463532\rsid12535356\rsid12785052\rsid12916765\rsid13134295\rsid13183728\rsid13303903\rsid13399812\rsid13434891\rsid13506314\rsid13512480\rsid13518736\rsid13776448\rsid14038596
+\rsid14173316\rsid14447504\rsid14484396\rsid14550569\rsid14554185\rsid15276390\rsid15404918\rsid15467390\rsid15625694\rsid15629050\rsid15695720\rsid15736992\rsid15752219\rsid15813530\rsid16135750\rsid16140141\rsid16392596\rsid16663142\rsid16713057
+\rsid16728245}{\*\generator Microsoft Word 11.0.0000;}{\info{\title El\'f5terjeszt\'e9s TT \'fcl\'e9sre}{\author katinka.veres}{\operator KRISZTI}{\creatim\yr2014\mo2\dy10\hr14\min8}{\revtim\yr2014\mo2\dy10\hr14\min14}{\printim\yr2014\mo2\dy10\hr14\min6}
+{\version5}{\edmins8}{\nofpages5}{\nofwords1022}{\nofchars7057}{\nofcharsws8063}{\vern24617}{\*\password 00000000}}{\*\xmlnstbl {\xmlns1 http://schemas.microsoft.com/office/word/2003/wordml}{\xmlns2 urn:schemas-microsoft-com:office:smarttags}}
+\paperw11906\paperh16838\margl1417\margr1417\margt1417\margb1417\gutter0\ltrsect 
+\deftab708\widowctrl\ftnbj\aenddoc\hyphhotz425\donotembedsysfont1\donotembedlingdata0\grfdocevents0\validatexml1\showplaceholdtext0\ignoremixedcontent0\saveinvalidxml0\showxmlerrors1\noxlattoyen\expshrtn
+\noultrlspc\dntblnsbdb\nospaceforul\formshade\horzdoc\dgmargin\dghspace180\dgvspace180\dghorigin1417\dgvorigin1417\dghshow1\dgvshow1
+\jexpand\viewkind4\viewscale150\pgbrdrhead\pgbrdrfoot\splytwnine\ftnlytwnine\htmautsp\nolnhtadjtbl\useltbaln\alntblind\lytcalctblwd\lyttblrtgr\lnbrkrule\nobrkwrptbl\snaptogridincell\allowfieldendsel\wrppunct
+\asianbrkrule\rsidroot162185\newtblstyruls\nogrowautofit \fet0{\*\wgrffmtfilter 2450}\ilfomacatclnup0\ltrpar \sectd \ltrsect\linex0\headery708\footery708\colsx708\endnhere\sectlinegrid360\sectdefaultcl\sectrsid5250889\sftnbj {\*\pnseclvl1
+\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}{\*\pnseclvl5
+\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang 
+{\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar\qc \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid15629050 \rtlch\fcs1 \af0\afs22\alang1025 
+\ltrch\fcs0 \f174\fs22\lang1038\langfe1033\cgrid\langnp1038\langfenp1033 {\rtlch\fcs1 \ab\af0\afs24 \ltrch\fcs0 \b\f0\fs24\insrsid15629050\charrsid16663142 EL\'d5TERJESZT\'c9S
+\par 
+\par a Nyugat-dun\'e1nt\'fali Region\'e1lis Hullad\'e9kgazd\'e1lkod\'e1si \'d6nkorm\'e1nyzati T\'e1rsul\'e1s T\'e1rsul\'e1si Tan\'e1cs\'e1nak 2014. febru\'e1r 13-i \'fcl\'e9s\'e9re
+\par }\pard\plain \ltrpar\s27\qc \li0\ri0\sa200\sl276\slmult1\widctlpar\wrapdefault\hyphpar0\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid15629050 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 
+\fs28\lang1038\langfe1025\cgrid\langnp1038\langfenp1025 {\rtlch\fcs1 \ab\af0\afs24 \ltrch\fcs0 \b\fs24\lang1038\langfe1033\langfenp1033\insrsid15629050\charrsid16663142 a KEOP 1.1.1/2F/09-11-2012-0001 sz\'e1m\'fa p\'e1ly\'e1zat keret\'e9ben beszerzend\'f5
+ komposzt\'e1l\'f3 l\'e1d\'e1k kihelyez\'e9s\'e9re
+\par }\pard\plain \ltrpar\qc \li0\ri0\sa200\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid15629050 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f174\fs22\lang1038\langfe1033\cgrid\langnp1038\langfenp1033 {
+\rtlch\fcs1 \ab\af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid15629050\charrsid16663142 
+\par Tisztelt T\'e1rsul\'e1si Tan\'e1cs!
+\par }\pard \ltrpar\qc \li0\ri0\sl360\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5778578 {\rtlch\fcs1 \ab\af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid15629050\charrsid16663142 
+\par {\*\bkmkstart _Toc379277030}{\listtext\pard\plain\ltrpar \s1 \rtlch\fcs1 \ab\af0 \ltrch\fcs0 \lang1038\langfe1033\dbch\af0\langfenp1033\insrsid347216\charrsid16663142 \hich\af0\dbch\af0\loch\f0 1.\tab}}\pard\plain \ltrpar
+\s1\ql \fi-360\li720\ri0\sl360\slmult1\keep\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls9\outlinelevel0\adjustright\rin0\lin720\itap0\pararsid5778578 \rtlch\fcs1 \ab\af0\afs28\alang1025 \ltrch\fcs0 
+\b\fs28\cf17\lang1038\langfe1033\loch\af172\hich\af172\dbch\af174\cgrid\langnp1038\langfenp1033 {\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \b0\fs24\cf0\loch\af0\hich\af0\dbch\af0\insrsid347216\charrsid16663142 A projekt \'f6sszefoglal\'f3ja
+{\*\bkmkend _Toc379277030}
+\par }\pard\plain \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5778578 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f174\fs22\lang1038\langfe1033\cgrid\langnp1038\langfenp1033 {
+\rtlch\fcs1 \ab\af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid347216\charrsid16663142 
+\par }\pard \ltrpar\qj \li0\ri0\sl360\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5778578 {\rtlch\fcs1 \ab\af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid347216\charrsid16663142 A Nyugat-dun\'e1nt\'fali Region\'e1lis Hullad
+\'e9kgazd\'e1lkod\'e1si \'d6nkorm\'e1nyzati T\'e1rsul\'e1s az Eur\'f3pai Uni\'f3 t\'e1mogat\'e1s\'e1val k\'f6zel 3 milli\'e1rd forintot ford\'edt a h\'e1zhoz men\'f5 szelekt\'edv hullad\'e9kgy\'fbjt\'e9si rendszer ki\'e9p\'edt\'e9s\'e9
+re Vas megye 127 telep\'fcl\'e9s\'e9n. 
+\par 
+\par {\*\bkmkstart _Toc379277032}{\listtext\pard\plain\ltrpar \s1 \rtlch\fcs1 \ab\af0 \ltrch\fcs0 \lang1038\langfe1033\dbch\af0\langfenp1033\insrsid347216\charrsid16663142 \hich\af0\dbch\af0\loch\f0 2.\tab}}\pard\plain \ltrpar
+\s1\ql \fi-360\li720\ri0\sl360\slmult1\keep\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls9\outlinelevel0\adjustright\rin0\lin720\itap0\pararsid5778578 \rtlch\fcs1 \ab\af0\afs28\alang1025 \ltrch\fcs0 
+\b\fs28\cf17\lang1038\langfe1033\loch\af172\hich\af172\dbch\af174\cgrid\langnp1038\langfenp1033 {\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \b0\fs24\cf0\loch\af0\hich\af0\dbch\af0\insrsid347216\charrsid16663142 A komposzt\'e1l\'f3 l\'e1d\'e1k ig\'e9nyl\'e9se \'e9
+s kioszt\'e1sa{\*\bkmkend _Toc379277032}
+\par }\pard\plain \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5778578 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f174\fs22\lang1038\langfe1033\cgrid\langnp1038\langfenp1033 {
+\rtlch\fcs1 \ab\af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid347216\charrsid16663142 
+\par }\pard\plain \ltrpar\s16\qj \li0\ri0\sl360\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5778578 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1038\langfe1038\loch\af0\hich\af0\dbch\af174\cgrid\langnp1038\langfenp1038 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \lang1038\langfe1033\dbch\af0\langfenp1033\insrsid347216\charrsid16663142 A projekt \'e1ltal \'e9rintett telep\'fcl\'e9seken 27.500 h\'e1
+zi komposzt\'e1l\'f3 l\'e1da ingyenes kioszt\'e1s\'e1ra ker\'fcl sor. A l\'e1d\'e1k\'e9rt val\'f3 regisztr\'e1ci\'f3 2013 okt\'f3ber\'e9ben indult, az\'f3ta \'f6sszesen 6.768 l\'e1d\'e1\'e9rt regisztr\'e1ltak.
+\par 
+\par }\pard\plain \ltrpar\s2\ql \li0\ri0\sl360\slmult1\keep\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0\pararsid5778578 \rtlch\fcs1 \ab\af0\afs26\alang1025 \ltrch\fcs0 
+\b\fs26\cf18\lang1038\langfe1033\loch\af172\hich\af172\dbch\af174\cgrid\langnp1038\langfenp1033 {\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \b0\fs24\cf0\loch\af0\hich\af0\dbch\af0\insrsid347216\charrsid16663142 {\*\bkmkstart _Toc379277033}Regisztr\'e1ci\'f3
+{\*\bkmkend _Toc379277033}
+\par }\pard\plain \ltrpar\s16\qj \li0\ri0\sl360\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5778578 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1038\langfe1038\loch\af0\hich\af0\dbch\af174\cgrid\langnp1038\langfenp1038 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \lang1038\langfe1033\dbch\af0\langfenp1033\insrsid347216\charrsid16663142 A l\'e1d\'e1k\'e9rt k\'e9t \'faton lehet regisztr\'e1
+lni: elektronikusan vagy szem\'e9lyesen. Azok az ig\'e9nyl\'f5k, akik elektronikusan jelentkeznek, a }{\field\flddirty{\*\fldinst {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \lang1038\langfe1033\dbch\af0\langfenp1033\insrsid347216\charrsid16663142 
+HYPERLINK "http://www.westhull.hu"}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \lang1038\langfe1033\dbch\af0\langfenp1033\insrsid730301\charrsid16663142 {\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b0200000003000000e0c9ea79f9bace118c8200aa004ba90b4800000068007400740070003a002f002f007700770077002e007700650073007400680075006c006c002e00680075002f000000795881f43b1d7f48af2c825dc485276300000000a5ab0000}}}{\fldrslt {
+\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \lang1038\langfe1033\langfenp1033\insrsid347216\charrsid16663142 \hich\af0\dbch\af174\loch\f0 www.westhull.hu}}}\sectd \linex0\headery708\footery708\colsx708\endnhere\sectlinegrid360\sectdefaultcl\sectrsid5250889\sftnbj {
+\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \lang1038\langfe1033\dbch\af0\langfenp1033\insrsid347216\charrsid16663142  weboldal Komposzt\'e1l\'f3 l\'e1da ig\'e9nyl\'e9s men\'fcpontj\'e1ban regisztr\'e1lhatnak, ahol egy haszn\'e1lati \'fatmutat\'f3t is tal\'e1
+lnak, mely megk\'f6nny\'edtheti h\'e1zi komposzt\'e1l\'e1sukat. Azoknak, akiknek nem \'e1ll m\'f3djukban interneten regisztr\'e1lni, szem\'e9lyesen, pap\'edr alapon is megtehetik az \'e9rintett telep\'fcl\'e9si \'f6nkorm\'e1nyzatokn\'e1l. A kioszt\'e1s }{
+\rtlch\fcs1 \ab\af207 \ltrch\fcs0 \lang1038\langfe1033\loch\af207\hich\af207\dbch\af0\langfenp1033\insrsid347216\charrsid16663142 \'af a k}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \lang1038\langfe1033\dbch\af0\langfenp1033\insrsid347216\charrsid16663142 \'f6
+zbeszerz\'e9si elj\'e1r\'e1st k\'f6vet\'f5en }{\rtlch\fcs1 \ab\af207 \ltrch\fcs0 \lang1038\langfe1033\loch\af207\hich\af207\dbch\af0\langfenp1033\insrsid347216\charrsid16663142 \'af 2014 sor}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\lang1038\langfe1033\dbch\af0\langfenp1033\insrsid347216\charrsid16663142 \'e1n v\'e1rhat\'f3, a kioszt\'e1s elb\'edr\'e1l\'e1sa pedig regisztr\'e1ci\'f3s sorrendben t\'f6rt\'e9nik. Egy szem\'e9ly t\'f6bb l\'e1d\'e1t is ig\'e9nyelhet!
+\par 
+\par }\pard\plain \ltrpar\s2\ql \li0\ri0\sl360\slmult1\keep\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0\pararsid5778578 \rtlch\fcs1 \ab\af0\afs26\alang1025 \ltrch\fcs0 
+\b\fs26\cf18\lang1038\langfe1033\loch\af172\hich\af172\dbch\af174\cgrid\langnp1038\langfenp1033 {\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \b0\fs24\cf0\loch\af0\hich\af0\dbch\af0\insrsid347216\charrsid16663142 {\*\bkmkstart _Toc379277034}A regisztr\'e1ci\'f3
+k serkent\'e9se{\*\bkmkend _Toc379277034}
+\par }\pard\plain \ltrpar\qj \li0\ri0\sl360\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5778578 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f174\fs22\lang1038\langfe1033\cgrid\langnp1038\langfenp1033 {\rtlch\fcs1 
+\ab\af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid347216\charrsid16663142 Az \'e9rintett telep\'fcl\'e9sek polg\'e1rmesterei e-mailben kaptak \'f6sszefoglal\'f3t arr\'f3l, hogy telep\'fcl\'e9seikre h\'e1ny l\'e1da jut \'e9s eddig \'f6sszesen mennyi regisztr\'e1ci
+\'f3 \'e9rkezett a rendszer\'fcnkbe. K\'e9r\'fcnk minden polg\'e1rmestert, hogy lehet\'f5s\'e9g\'fck szerint, kommunik\'e1lj\'e1k a lakoss\'e1gnak az ingyenes komposzt\'e1l\'f3 l\'e1d\'e1k\'e9rt val\'f3 regisztr\'e1ci\'f3s lehet\'f5s\'e9get. C\'e9
+lunk, hogy minden \'e9rdekl\'f5d\'f5nek jusson ingyenes komposzt\'e1l\'f3 l\'e1da!
+\par 
+\par {\*\bkmkstart _Toc379277035}{\listtext\pard\plain\ltrpar \s2 \rtlch\fcs1 \ab\af0 \ltrch\fcs0 \lang1038\langfe1033\dbch\af0\langfenp1033\insrsid347216\charrsid16663142 \hich\af0\dbch\af0\loch\f0 2.1.\tab}}\pard\plain \ltrpar
+\s2\ql \fi-720\li1080\ri0\sl360\slmult1\keep\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls9\ilvl1\outlinelevel1\adjustright\rin0\lin1080\itap0\pararsid5778578 \rtlch\fcs1 \ab\af0\afs26\alang1025 \ltrch\fcs0 
+\b\fs26\cf18\lang1038\langfe1033\loch\af172\hich\af172\dbch\af174\cgrid\langnp1038\langfenp1033 {\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \b0\fs24\cf0\loch\af0\hich\af0\dbch\af0\insrsid347216\charrsid16663142 Eddigi kommunik\'e1ci\'f3s tev\'e9kenys\'e9gek a l
+\'e1d\'e1k hirdet\'e9s\'e9re{\*\bkmkend _Toc379277035}
+\par }\pard\plain \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5778578 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f174\fs22\lang1038\langfe1033\cgrid\langnp1038\langfenp1033 {
+\rtlch\fcs1 \ab\af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid347216\charrsid16663142 
+\par }\pard \ltrpar\qj \li0\ri0\sl360\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5778578 {\rtlch\fcs1 \ab\af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid347216\charrsid16663142 A projekt sor\'e1n a k\'f6vetkez\'f5 kommunik
+\'e1ci\'f3s eszk\'f6z\'f6ket alkalmaztuk, kifejezetten a l\'e1d\'e1k hirdet\'e9s\'e9re:
+\par }\pard\plain \ltrpar\s3\ql \li0\ri0\sl360\slmult1\keep\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel2\adjustright\rin0\lin0\itap0\pararsid5778578 \rtlch\fcs1 \ab\af0\afs22\alang1025 \ltrch\fcs0 
+\b\fs22\cf18\lang1038\langfe1033\loch\af172\hich\af172\dbch\af174\cgrid\langnp1038\langfenp1033 {\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \b0\fs24\cf0\loch\af0\hich\af0\dbch\af0\insrsid347216\charrsid16663142 {\*\bkmkstart _Toc379277036}R\'e1di\'f3hirdet\'e9s
+{\*\bkmkend _Toc379277036}
+\par }\pard\plain \ltrpar\qj \li0\ri0\sl360\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5778578 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f174\fs22\lang1038\langfe1033\cgrid\langnp1038\langfenp1033 {\rtlch\fcs1 
+\ab\af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid347216\charrsid16663142 A r\'e1di\'f3spot a Friss FM r\'e1di\'f3csatorn\'e1n ker\'fclt sug\'e1rz\'e1sra. 
+\par {\listtext\pard\plain\ltrpar \s17 \rtlch\fcs1 \ab\af0 \ltrch\fcs0 \lang1038\langfe1033\loch\af2\hich\af2\dbch\af0\langfenp1033\insrsid347216\charrsid16663142 \hich\af2\dbch\af0\loch\f2 o\tab}}\pard\plain \ltrpar\s17\qj \fi-360\li2007\ri0\sl360\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls4\ilvl1\adjustright\rin0\lin2007\itap0\pararsid5778578\contextualspace \cbpat8 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f174\fs22\lang1038\langfe1033\cgrid\langnp1038\langfenp1033 {\rtlch\fcs1 
+\ab\af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid347216\charrsid16663142 Sug\'e1rz\'e1si futamid\'f5: 2013.10.12. \endash  2013.10.25.;
+\par {\listtext\pard\plain\ltrpar \s17 \rtlch\fcs1 \ab\af0 \ltrch\fcs0 \lang1038\langfe1033\loch\af2\hich\af2\dbch\af0\langfenp1033\insrsid347216\charrsid16663142 \hich\af2\dbch\af0\loch\f2 o\tab}Sug\'e1rz\'e1si gyakoris\'e1g: 14 nap, napi 6 alkalom, \'f6
+sszesen 84 alkalom;
+\par {\listtext\pard\plain\ltrpar \s17 \rtlch\fcs1 \ab\af0 \ltrch\fcs0 \lang1038\langfe1033\loch\af2\hich\af2\dbch\af0\langfenp1033\insrsid347216\charrsid16663142 \hich\af2\dbch\af0\loch\f2 o\tab}Sug\'e1rz\'e1si id\'f5s\'e1v: reggeli, d\'e9lel\'f5tti, d\'e9lut
+\'e1ni id\'f5s\'e1vokban \endash  ilyenkor a legmagasabbak a r\'e1di\'f3 hallgatotts\'e1gi mutat\'f3i.
+\par }\pard \ltrpar\s17\qj \li2007\ri0\sl360\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin2007\itap0\pararsid5778578\contextualspace \cbpat8 {\rtlch\fcs1 \ab\af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid347216\charrsid16663142 
+\par }\pard\plain \ltrpar\s3\ql \li0\ri0\sl360\slmult1\keep\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel2\adjustright\rin0\lin0\itap0\pararsid5778578 \rtlch\fcs1 \ab\af0\afs22\alang1025 \ltrch\fcs0 
+\b\fs22\cf18\lang1038\langfe1033\loch\af172\hich\af172\dbch\af174\cgrid\langnp1038\langfenp1033 {\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \b0\fs24\cf0\loch\af0\hich\af0\dbch\af0\insrsid347216\charrsid16663142 {\*\bkmkstart _Toc379277037}Sajt\'f3k\'f6zlem\'e9ny
+{\*\bkmkend _Toc379277037}
+\par }\pard\plain \ltrpar\qj \li0\ri0\sl360\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5778578 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f174\fs22\lang1038\langfe1033\cgrid\langnp1038\langfenp1033 {\rtlch\fcs1 
+\ab\af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid347216\charrsid16663142 Minden eddigi, a sajt\'f3 sz\'e1m\'e1ra kik\'fcld\'f6tt k\'f6zlem\'e9ny\'fcnkben nyomat\'e9kos\'edtottuk, hogy a projekt keret\'e9n bel\'fcl ingyenes komposzt\'e1l\'f3 l\'e1d\'e1k\'e9
+rt lehet regisztr\'e1lni. Emellett friss\'edtett\'fck az eddigi sajt\'f3list\'e1nkat kis region\'e1lis \'e9s \'f6nkorm\'e1nyzati m\'e9diumokkal \endash  ezek r\'e9sz\'e9re \'fajra kik\'fcldt\'fck a kor\'e1bbi k\'f6zlem\'e9nyeinket is. Minden kik\'fcld\'f6
+tt k\'f6zlem\'e9ny ut\'e1n sajt\'f3 monitoring k\'e9sz\'fclt, mely a megjelen\'e9seket \'f6sszes\'edti (online, offline, elektronikus- TV, r\'e1di\'f3).
+\par 
+\par }\pard\plain \ltrpar\s3\ql \li0\ri0\sl360\slmult1\keep\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel2\adjustright\rin0\lin0\itap0\pararsid5778578 \rtlch\fcs1 \ab\af0\afs22\alang1025 \ltrch\fcs0 
+\b\fs22\cf18\lang1038\langfe1033\loch\af172\hich\af172\dbch\af174\cgrid\langnp1038\langfenp1033 {\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \b0\fs24\cf0\loch\af0\hich\af0\dbch\af0\insrsid347216\charrsid16663142 {\*\bkmkstart _Toc379277038}Els\'f5 sz\'f3r\'f3lapoz
+\'e1s{\*\bkmkend _Toc379277038}
+\par }\pard\plain \ltrpar\qj \li0\ri0\sl360\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5778578 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f174\fs22\lang1038\langfe1033\cgrid\langnp1038\langfenp1033 {\rtlch\fcs1 
+\ab\af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid347216\charrsid16663142 November els\'f5 het\'e9ig \'f6sszesen 35.000 db sz\'f3r\'f3lap, 1.000 db plak\'e1t \'e9s 14.000 db matrica hirdette a 127 telep\'fcl\'e9sen a l\'e1d\'e1k\'e9rt val\'f3 regisztr\'e1ci\'f3
+s lehet\'f5s\'e9get. Emellett 10.000 db gyerekkiadv\'e1nyt (20+4 oldalas) osztottunk sz\'e9t az \'e9rintett telep\'fcl\'e9sek iskol\'e1ban. A kiadv\'e1nyok a tudatos hullad\'e9kkezel\'f5i magatart\'e1sra h\'edvja fel a figyelmet, c\'e9lja a t\'e1j\'e9
+koztat\'e1s \'e9s szeml\'e9letform\'e1l\'e1s.
+\par 
+\par }\pard\plain \ltrpar\s3\ql \li0\ri0\sl360\slmult1\keep\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel2\adjustright\rin0\lin0\itap0\pararsid5778578 \rtlch\fcs1 \ab\af0\afs22\alang1025 \ltrch\fcs0 
+\b\fs22\cf18\lang1038\langfe1033\loch\af172\hich\af172\dbch\af174\cgrid\langnp1038\langfenp1033 {\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \b0\fs24\cf0\loch\af0\hich\af0\dbch\af0\insrsid347216\charrsid16663142 {\*\bkmkstart _Toc379277039}Internetes aloldal 
+\endash  Komposzt\'e1l\'f3 l\'e1daig\'e9nyl\'e9s men\'fcpont{\*\bkmkend _Toc379277039}
+\par }\pard\plain \ltrpar\qj \li0\ri0\sl360\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5778578 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f174\fs22\lang1038\langfe1033\cgrid\langnp1038\langfenp1033 {\rtlch\fcs1 
+\ab\af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid347216\charrsid16663142 A regisztr\'e1ci\'f3s lehet\'f5s\'e9get biztos\'edtja (l\'e1sd: Regisztr\'e1ci\'f3).
+\par 
+\par }\pard\plain \ltrpar\s3\ql \li0\ri0\sl360\slmult1\keep\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel2\adjustright\rin0\lin0\itap0\pararsid5778578 \rtlch\fcs1 \ab\af0\afs22\alang1025 \ltrch\fcs0 
+\b\fs22\cf18\lang1038\langfe1033\loch\af172\hich\af172\dbch\af174\cgrid\langnp1038\langfenp1033 {\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \b0\fs24\cf0\loch\af0\hich\af0\dbch\af0\insrsid347216\charrsid16663142 {\*\bkmkstart _Toc379277040}Telefonos inf\'f3vonal
+{\*\bkmkend _Toc379277040}
+\par }\pard\plain \ltrpar\qj \li0\ri0\sl360\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5778578 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f174\fs22\lang1038\langfe1033\cgrid\langnp1038\langfenp1033 {\rtlch\fcs1 
+\ab\af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid347216\charrsid16663142 Kommunik\'e1ci\'f3s \'fcgyn\'f6ks\'e9g\'fcnk folyamatosan m\'fbk\'f6dteti, a be\'e9rkez\'f5 e-maileket folyamatos megv\'e1laszolj\'e1k. A PR szak\'e9rt\'f5 t\'e1j\'e9koztat\'e1
+sa szerint naponta t\'f6bb telefonos \'e9s e-mailes megkeres\'e9s \'e9rkezik \'fcgyn\'f6ks\'e9g\'fcnkh\'f6z, amelyekre r\'e9szletesen v\'e1laszolnak. A regisztr\'e1ci\'f3s t\'e1bl\'e1zat adatait folyamatosan b\'f5v\'edtik abban az esetben, ha az ig\'e9nyl
+\'f5k valamely szem\'e9lyes adata kimaradt volna. A kommunik\'e1ci\'f3s csapat rendszeresen bek\'e9ri az ig\'e9nyl\'f5k hi\'e1nyz\'f3 adatait telefonon, e-mailben a teljes, hi\'e1nytalan c\'edmlista kialak\'edt\'e1s\'e1nak \'e9rdek\'e9ben. Naponta t\'f6
+bb telefonh\'edv\'e1st, illetve e-mailt int\'e9znek azon regisztr\'e1ltakhoz, akik hi\'e1nyos esetleg hib\'e1s adatot t\'fcntettek fel a regisztr\'e1ci\'f3s fel\'fcleten.
+\par 
+\par {\*\bkmkstart _Toc379277041}{\listtext\pard\plain\ltrpar \s2 \rtlch\fcs1 \ab\af0 \ltrch\fcs0 \lang1038\langfe1033\dbch\af0\langfenp1033\insrsid347216\charrsid16663142 \hich\af0\dbch\af0\loch\f0 2.2.\tab}}\pard\plain \ltrpar
+\s2\ql \fi-720\li1080\ri0\sl360\slmult1\keep\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls9\ilvl1\outlinelevel1\adjustright\rin0\lin1080\itap0\pararsid5778578 \rtlch\fcs1 \ab\af0\afs26\alang1025 \ltrch\fcs0 
+\b\fs26\cf18\lang1038\langfe1033\loch\af172\hich\af172\dbch\af174\cgrid\langnp1038\langfenp1033 {\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \b0\fs24\cf0\loch\af0\hich\af0\dbch\af0\insrsid347216\charrsid16663142 Aktu\'e1lis \'e9s j\'f6v\'f5beni kommunik\'e1ci\'f3
+s tev\'e9kenys\'e9gek a l\'e1d\'e1k hirdet\'e9s\'e9re{\*\bkmkend _Toc379277041}
+\par }\pard\plain \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5778578 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f174\fs22\lang1038\langfe1033\cgrid\langnp1038\langfenp1033 {
+\rtlch\fcs1 \ab\af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid347216\charrsid16663142 
+\par }\pard\plain \ltrpar\s3\ql \li0\ri0\sl360\slmult1\keep\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel2\adjustright\rin0\lin0\itap0\pararsid5778578 \rtlch\fcs1 \ab\af0\afs22\alang1025 \ltrch\fcs0 
+\b\fs22\cf18\lang1038\langfe1033\loch\af172\hich\af172\dbch\af174\cgrid\langnp1038\langfenp1033 {\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \b0\fs24\cf0\loch\af0\hich\af0\dbch\af0\insrsid347216\charrsid16663142 {\*\bkmkstart _Toc379277042}R\'e1di\'f3hirdet\'e9s
+{\*\bkmkend _Toc379277042}
+\par }\pard\plain \ltrpar\qj \li0\ri0\sl360\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5778578 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f174\fs22\lang1038\langfe1033\cgrid\langnp1038\langfenp1033 {\rtlch\fcs1 
+\ab\af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid347216\charrsid16663142 A Friss FM r\'e1di\'f3csatorn\'e1n ker\'fclt sug\'e1rz\'e1sra.
+\par {\listtext\pard\plain\ltrpar \s17 \rtlch\fcs1 \ab\af0 \ltrch\fcs0 \lang1038\langfe1033\loch\af2\hich\af2\dbch\af0\langfenp1033\insrsid347216\charrsid16663142 \hich\af2\dbch\af0\loch\f2 o\tab}}\pard\plain \ltrpar\s17\qj \fi-360\li2007\ri0\sl360\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls4\ilvl1\adjustright\rin0\lin2007\itap0\pararsid5778578\contextualspace \cbpat8 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f174\fs22\lang1038\langfe1033\cgrid\langnp1038\langfenp1033 {\rtlch\fcs1 
+\ab\af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid347216\charrsid16663142 Sug\'e1rz\'e1si futamid\'f5: febru\'e1r
+\par {\listtext\pard\plain\ltrpar \s17 \rtlch\fcs1 \ab\af0 \ltrch\fcs0 \lang1038\langfe1033\loch\af2\hich\af2\dbch\af0\langfenp1033\insrsid347216\charrsid16663142 \hich\af2\dbch\af0\loch\f2 o\tab}Sug\'e1rz\'e1si gyakoris\'e1g: 14 nap, napi 6 alkalom, \'f6
+sszesen 84 alkalom;
+\par {\listtext\pard\plain\ltrpar \s17 \rtlch\fcs1 \ab\af0 \ltrch\fcs0 \lang1038\langfe1033\loch\af2\hich\af2\dbch\af0\langfenp1033\insrsid347216\charrsid16663142 \hich\af2\dbch\af0\loch\f2 o\tab}Sug\'e1rz\'e1si id\'f5s\'e1v: reggeli, d\'e9lel\'f5tti, d\'e9lut
+\'e1ni id\'f5s\'e1vokban \endash  ilyenkor a legmagasabbak a r\'e1di\'f3 hallgatotts\'e1gi mutat\'f3i;{\*\bkmkstart _Toc379277043}
+\par }\pard \ltrpar\s17\qj \li2007\ri0\sl360\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin2007\itap0\pararsid5778578\contextualspace \cbpat8 {\rtlch\fcs1 \ab\af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid347216\charrsid16663142 
+\par }\pard\plain \ltrpar\qj \li0\ri0\sl360\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5778578 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f174\fs22\lang1038\langfe1033\cgrid\langnp1038\langfenp1033 {\rtlch\fcs1 
+\ab\af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid347216\charrsid16663142 Internet (fizetett) megjelen\'e9s + forgatott anyag{\*\bkmkend _Toc379277043}
+\par A projekt \'e1ltal \'e9rintett telep\'fcl\'e9sek \'f6nkorm\'e1nyzati honlapjain, illetve a fontosabb online m\'e9diumok (\'fajs\'e1g, magazin, tv, r\'e1di\'f3) fel\'fcletein hirdet\'e9si bannereket helyez\'fcnk el. \'cdgy, aki ell\'e1togat az eml\'ed
+tett oldalakra, felfigyel a bannerekre \'e9s, ha r\'e1kattint, megismerkedhet a projekttel, illetve az ingyenes komposzt\'e1l\'f3 l\'e1d\'e1k regisztr\'e1ci\'f3j\'e1val. Hamarosan \'f6ssze\'e1ll\'edtjuk a list\'e1t az online fel\'fcletek, m\'e9
+diumok neveivel, ahov\'e1 kihelyezn\'e9nk a bannereket.
+\par A hirdet\'e9si bannereken k\'edv\'fcl egy filmes anim\'e1ci\'f3t tervez\'fcnk, amely a bannerekre kattintva jelenik meg, illetve jelzi a n\'e9z\'f5nek a regisztr\'e1ci\'f3s fel\'fclet el\'e9rhet\'f5s\'e9g\'e9t. A bannerrel, illetve az anim\'e1ci\'f3val c
+\'e9lunk n\'f6velni a komposzt\'e1l\'f3 l\'e1d\'e1\'e9rt val\'f3 regisztr\'e1l\'e1s sz\'e1m\'e1t.
+\par Az anim\'e1ci\'f3 koncepci\'f3ja:
+\par Az anim\'e1ci\'f3 a komposzt\'e1l\'e1s k\'f6r\'e9 \'e9p\'fcl fel. A r\'f6vid, t\'f6m\'f6r anim\'e1ci\'f3ban (max. 1 perc) bemutatjuk a komposzt\'e1l\'e1s folyamat\'e1t: mit, hogyan, hol lehet hat\'e9konyan komposzt\'e1lni. Kiemelj\'fck, hangs\'fa
+lyozzuk, hogy a projekt j\'f3volt\'e1b\'f3l ingyen komposzt\'e1l\'f3 l\'e1d\'e1k\'e9rt lehet regisztr\'e1lni. Az anim\'e1ci\'f3 v\'e9g\'e9n felt\'fcntetj\'fck a regisztr\'e1ci\'f3s aloldal el\'e9rhet\'f5s\'e9g\'e9t, esetleges \'fatmutat\'f3t k\'e9sz\'edt
+\'fcnk a regisztr\'e1l\'e1si folyamat szeml\'e9ltet\'e9s\'e9hez.
+\par 
+\par }\pard\plain \ltrpar\s3\ql \li0\ri0\sl360\slmult1\keep\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel2\adjustright\rin0\lin0\itap0\pararsid5778578 \rtlch\fcs1 \ab\af0\afs22\alang1025 \ltrch\fcs0 
+\b\fs22\cf18\lang1038\langfe1033\loch\af172\hich\af172\dbch\af174\cgrid\langnp1038\langfenp1033 {\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \b0\fs24\cf0\loch\af0\hich\af0\dbch\af0\insrsid347216\charrsid16663142 {\*\bkmkstart _Toc379277044}Sajt\'f3k\'f6zlem\'e9
+nyek{\*\bkmkend _Toc379277044}
+\par }\pard\plain \ltrpar\qj \li0\ri0\sl360\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5778578 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f174\fs22\lang1038\langfe1033\cgrid\langnp1038\langfenp1033 {\rtlch\fcs1 
+\ab\af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid347216\charrsid16663142 A j\'f6v\'f5beni, sajt\'f3 sz\'e1m\'e1ra kik\'fcld\'f6tt k\'f6zlem\'e9nyeinkben nyomat\'e9kos\'edtottuk, hogy a projekt keret\'e9n bel\'fcl ingyenes komposzt\'e1l\'f3 l\'e1d\'e1k\'e9
+rt lehet regisztr\'e1lni. Minden kik\'fcld\'f6tt k\'f6zlem\'e9ny ut\'e1n sajt\'f3 monitoring k\'e9sz\'fcl, mely a megjelen\'e9seket \'f6sszes\'edti (online, offline, elektronikus- TV, r\'e1di\'f3).
+\par 
+\par }\pard\plain \ltrpar\s3\ql \li0\ri0\sl360\slmult1\keep\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel2\adjustright\rin0\lin0\itap0\pararsid5778578 \rtlch\fcs1 \ab\af0\afs22\alang1025 \ltrch\fcs0 
+\b\fs22\cf18\lang1038\langfe1033\loch\af172\hich\af172\dbch\af174\cgrid\langnp1038\langfenp1033 {\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \b0\fs24\cf0\loch\af0\hich\af0\dbch\af0\insrsid347216\charrsid16663142 {\*\bkmkstart _Toc379277045}M\'e1sodik sz\'f3r\'f3
+lapoz\'e1s{\*\bkmkend _Toc379277045}
+\par }\pard\plain \ltrpar\qj \li0\ri0\sl360\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5778578 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f174\fs22\lang1038\langfe1033\cgrid\langnp1038\langfenp1033 {\rtlch\fcs1 
+\ab\af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid347216\charrsid16663142 Ez\'fattal \'f6sszesen 29.000 nyomdai anyag k\'e9sz\'fcl, melyeket a 127 telep\'fcl\'e9s k\'f6z\'f6tt terjesztenek, az el\'f5z\'f5 terjeszt\'e9shez hasonl\'f3an. A T\'e1rsul\'e1s j\'f3v\'e1
+hagyta a k\'f6vetkez\'f5 beoszt\'e1st: 21000 sz\'f3r\'f3lap, 1000 plak\'e1t \'e9s 7000 matrica gy\'e1rt\'e1sa \'e9s terjeszt\'e9se. A folyamat (gy\'e1rt\'e1s, terjeszt\'e9s) lez\'e1r\'e1sa 2014. m\'e1rcius elej\'e9re v\'e1rhat\'f3.
+\par 
+\par }\pard\plain \ltrpar\s3\qj \li0\ri0\sl360\slmult1\keep\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel2\adjustright\rin0\lin0\itap0\pararsid5778578 \rtlch\fcs1 \ab\af0\afs22\alang1025 \ltrch\fcs0 
+\b\fs22\cf18\lang1038\langfe1033\loch\af172\hich\af172\dbch\af174\cgrid\langnp1038\langfenp1033 {\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \b0\fs24\cf0\loch\af0\hich\af0\dbch\af0\insrsid347216\charrsid16663142 {\*\bkmkstart _Toc379277046}Internetes aloldal 
+\endash  Komposzt\'e1l\'f3 l\'e1da ig\'e9nyl\'e9s men\'fcpont \'e9s telefonos inf\'f3vonal{\*\bkmkend _Toc379277046}
+\par }\pard\plain \ltrpar\qj \li0\ri0\sl360\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5778578 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f174\fs22\lang1038\langfe1033\cgrid\langnp1038\langfenp1033 {\rtlch\fcs1 
+\ab\af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid347216\charrsid16663142 A regiszt\'e1ci\'f3s fel\'fcletet \'e9s a telefonos inf\'f3vonalat kommunik\'e1ci\'f3s \'fcgyn\'f6ks\'e9g\'fcnk folyamatosan \'fczemelteti (l\'e1sd: Eddigi kommunik\'e1ci\'f3s tev\'e9kenys
+\'e9gek a l\'e1d\'e1k hirdet\'e9s\'e9re).
+\par {\*\bkmkstart _GoBack}{\*\bkmkend _GoBack}
+\par }\pard\plain \ltrpar\s3\ql \li0\ri0\sl360\slmult1\keep\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel2\adjustright\rin0\lin0\itap0\pararsid5778578 \rtlch\fcs1 \ab\af0\afs22\alang1025 \ltrch\fcs0 
+\b\fs22\cf18\lang1038\langfe1033\loch\af172\hich\af172\dbch\af174\cgrid\langnp1038\langfenp1033 {\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \b0\fs24\cf0\loch\af0\hich\af0\dbch\af0\insrsid347216\charrsid16663142 {\*\bkmkstart _Toc379277047}Online vet\'e9lked\'f5 
+\endash  Facebook{\*\bkmkend _Toc379277047}
+\par }\pard\plain \ltrpar\qj \li0\ri0\sl360\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5778578 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f174\fs22\lang1038\langfe1033\cgrid\langnp1038\langfenp1033 {\rtlch\fcs1 
+\ab\af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid347216\charrsid16663142 J\'e1t\'e9k neve: J\'e1tssz vel\'fcnk ingyen komposzt\'e1l\'f3 l\'e1d\'e1\'e9rt \'e9s sok-sok nyerem\'e9ny\'e9rt!
+\par {\listtext\pard\plain\ltrpar \s17 \rtlch\fcs1 \ab\af0 \ltrch\fcs0 \lang1038\langfe1033\loch\af3\hich\af3\dbch\af0\langfenp1033\insrsid347216\charrsid16663142 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard\plain \ltrpar\s17\qj \fi-360\li1004\ri0\sl360\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls7\adjustright\rin0\lin1004\itap0\pararsid5778578\contextualspace \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f174\fs22\lang1038\langfe1033\cgrid\langnp1038\langfenp1033 {\rtlch\fcs1 \ab\af0\afs24 
+\ltrch\fcs0 \f0\fs24\insrsid347216\charrsid16663142 J\'e1t\'e9k hirdet\'e9se: Facebook hirdet\'e9sek form\'e1j\'e1ban.
+\par {\listtext\pard\plain\ltrpar \s17 \rtlch\fcs1 \ab\af0 \ltrch\fcs0 \lang1038\langfe1033\loch\af3\hich\af3\dbch\af0\langfenp1033\insrsid347216\charrsid16663142 \loch\af3\dbch\af0\hich\f3 \'b7\tab}A j\'e1t\'e9k teljes futamideje (hirdet\'e9s + j\'e1t\'e9
+k): 2014. febru\'e1r 3.- m\'e1jus 30. (4 h\'f3nap)
+\par {\listtext\pard\plain\ltrpar \s17 \rtlch\fcs1 \ab\af0 \ltrch\fcs0 \lang1038\langfe1033\loch\af3\hich\af3\dbch\af0\langfenp1033\insrsid347216\charrsid16663142 \loch\af3\dbch\af0\hich\f3 \'b7\tab}C\'e9lcsoport: 18-70 \'e9vesek. 
+\par {\listtext\pard\plain\ltrpar \s17 \rtlch\fcs1 \ab\af0 \ltrch\fcs0 \lang1038\langfe1033\loch\af3\hich\af3\dbch\af0\langfenp1033\insrsid347216\charrsid16663142 \loch\af3\dbch\af0\hich\f3 \'b7\tab}A j\'e1t\'e9k menete 
+\par }\pard \ltrpar\s17\qj \li567\ri0\sl360\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin567\itap0\pararsid5778578\contextualspace {\rtlch\fcs1 \ab\af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid347216\charrsid16663142 - A j\'e1t\'e9
+k a komposzt\'e1l\'f3 l\'e1d\'e1k n\'e9pszer\'fbs\'edt\'e9s\'e9re szolg\'e1l. Arra \'f6szt\'f6nzi majd a projekt profilj\'e1nak k\'f6vet\'f5it, hogy min\'e9l t\'f6bben regisztr\'e1ljanak a projekt regisztr\'e1ci\'f3s fel\'fclet\'e9n.
+\par {\listtext\pard\plain\ltrpar \s17 \rtlch\fcs1 \ab\af0 \ltrch\fcs0 \fs22\lang1038\langfe1033\loch\af77\hich\af77\dbch\af0\langfenp1033\insrsid347216\charrsid16663142 \hich\af77\dbch\af0\loch\f77 -\tab}}\pard \ltrpar\s17\qj \fi-360\li927\ri0\sl360\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls8\adjustright\rin0\lin927\itap0\pararsid5778578\contextualspace {\rtlch\fcs1 \ab\af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid347216\charrsid16663142 Facebookon hirdet\'e9sek seg\'edts\'e9g\'e9vel kommunik\'e1
+ljuk, hogy hamarosan indul a j\'e1t\'e9k.
+\par {\listtext\pard\plain\ltrpar \s17 \rtlch\fcs1 \ab\af0 \ltrch\fcs0 \fs22\lang1038\langfe1033\loch\af77\hich\af77\dbch\af0\langfenp1033\insrsid347216\charrsid16663142 \hich\af77\dbch\af0\loch\f77 -\tab}A j\'e1t\'e9kosoknak egy meghat\'e1rozott id\'f5 (1 
+\endash  1,5 h\'f3nap) \'e1ll a rendelkez\'e9s\'fckre, hogy l\'e1d\'e1k\'e9rt regisztr\'e1ljanak. A Facebook fel\'fcleten felt\'fcntetj\'fck az aloldal regisztr\'e1ci\'f3s linkj\'e9t, melyet k\'e9t mez\'f5vel b\'f5v\'edt\'fcnk ki: \'84Regisztr\'e1ci\'f3
+mmal r\'e9szt veszek a Facebook nyerem\'e9nyj\'e1t\'e9kon.\'94 vagy \'84Nem veszek r\'e9szt a Facebook nyerem\'e9nyj\'e1t\'e9kon.\'94
+\par {\listtext\pard\plain\ltrpar \s17 \rtlch\fcs1 \ab\af0 \ltrch\fcs0 \fs22\lang1038\langfe1033\loch\af77\hich\af77\dbch\af0\langfenp1033\insrsid347216\charrsid16663142 \hich\af77\dbch\af0\loch\f77 -\tab}Az id\'f5 letelt\'e9vel a regisztr\'e1l\'f3k k\'f6z\'f6
+tt nyerem\'e9nyeket sorsolunk ki. Nyerem\'e9ny \'f6tletek: lomsz\'edv\'f3, talaj leveg\'f5ztet\'f5, apr\'edt\'f3g\'e9p.
+\par {\listtext\pard\plain\ltrpar \s17 \rtlch\fcs1 \ab\af0 \ltrch\fcs0 \lang1038\langfe1033\loch\af3\hich\af3\dbch\af0\langfenp1033\insrsid347216\charrsid16663142 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ltrpar\s17\qj \fi-360\li1004\ri0\sl360\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls7\adjustright\rin0\lin1004\itap0\pararsid5778578\contextualspace {\rtlch\fcs1 \ab\af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid347216\charrsid16663142 A nyertesek kisorsol\'e1sa: A lek\'e9rt regisztr\'e1ci\'f3s t
+\'e1bl\'e1zatb\'f3l kisorsoljuk a nyerteseket.
+\par {\listtext\pard\plain\ltrpar \s17 \rtlch\fcs1 \ab\af0 \ltrch\fcs0 \lang1038\langfe1033\loch\af3\hich\af3\dbch\af0\langfenp1033\insrsid347216\charrsid16663142 \loch\af3\dbch\af0\hich\f3 \'b7\tab}A j\'e1t\'e9k futamideje: 1-1,5 h\'f3nap
+\par {\listtext\pard\plain\ltrpar \s17 \rtlch\fcs1 \ab\af0 \ltrch\fcs0 \lang1038\langfe1033\loch\af3\hich\af3\dbch\af0\langfenp1033\insrsid347216\charrsid16663142 \loch\af3\dbch\af0\hich\f3 \'b7\tab}Gy\'f5ztesek kihirdet\'e9se: 2014. m\'e1jus 30.
+\par }\pard\plain \ltrpar\qj \fi284\li357\ri0\sl360\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin357\itap0\pararsid5778578 \cbpat8 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 
+\f174\fs22\lang1038\langfe1033\cgrid\langnp1038\langfenp1033 {\rtlch\fcs1 \ab\af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid347216\charrsid16663142 A nyerem\'e9nyt postai \'faton juttatjuk el a gy\'f5zteshez.
+\par }\pard \ltrpar\qj \li0\ri0\sl360\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16663142 \cbpat8 {\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f77\fs20\cf19\insrsid347216 
+\par }\pard \ltrpar\qj \li0\ri0\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16663142 {\rtlch\fcs1 \ab\af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid16663142 K\'e9rem, hogy Forr\'e1suni\'f3 Kft. \'e1ltal k\'e9sz\'ed
+tett fenti besz\'e1mol\'f3t a Tisztelt T\'e1rsul\'e1si Tan\'e1cs t\'e1rgyalja meg \'e9s az abban foglaltakat fogadja el.
+\par 
+\par }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid16663142 
+\par Szombathely, 2014. febru\'e1r 8.
+\par 
+\par }\pard \ltrpar\qc \li4820\ri0\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin4820\itap0\pararsid16663142 {\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \b\f0\fs24\insrsid16663142 {\*\xmlopen\xmlns2{\factoidname PersonName}
+{\xmlattr\xmlattrns0{\xmlattrname ProductID}{\xmlattrvalue Marton Zsolt}}}Marton Zsolt{\*\xmlclose}
+\par T\'e1rsul\'e1si Tan\'e1cs Eln\'f6k
+\par 
+\par 
+\par 
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16663142 {\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \b\f0\fs24\ul\insrsid16663142 HAT\'c1ROZATI JAVASLAT:}{\rtlch\fcs1 \ab\af0\afs24 \ltrch\fcs0 
+\b\f0\fs24\insrsid16663142 
+\par }\pard \ltrpar\qj \li0\ri0\sa200\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16663142 {\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid16663142 
+\par A Nyugat-dun\'e1nt\'fali Region\'e1lis Hullad\'e9kgazd\'e1lkod\'e1si \'d6nkorm\'e1nyzati T\'e1rsul\'e1s T\'e1rsul\'e1si Tan\'e1csa megt\'e1rgyalta \'e9s az abban foglaltakat tudom\'e1sul vette. 
+\par }\pard \ltrpar\qj \li0\ri0\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16663142 {\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid16663142 
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16663142 {\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid16663142 Hat\'e1rid\'f5:\tab 2014.02.13.
+\par Felel\'f5s:\tab {\*\xmlopen\xmlns2{\factoidname PersonName}{\xmlattr\xmlattrns0{\xmlattrname ProductID}{\xmlattrvalue Marton Zsolt}}}Marton Zsolt{\*\xmlclose}, T\'e1rsul\'e1si Tan\'e1cs Eln\'f6ke
+\par }\pard \ltrpar\qj \fi708\li708\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin708\itap0\pararsid16663142 {\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid16663142 a v\'e9grehajt\'e1s\'e9rt: Lak\'e9zi G\'e1bor, PIU vezet\'f5 
+
+\par }}

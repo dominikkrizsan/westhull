@@ -29,6 +29,8 @@ background: url({{asset('./img/main/inner-bg.png')}});
     <h1 id="media-header" class="text-4xl font-bold text-center text-emerald-600 mb-5 mt-20">Fotók</h1>
     <div class="border-b border-zinc-300 w-48 mx-auto mb-10"></div>
     <div class="grid grid-cols-2 max-[800px]:grid-cols-1 justify-items-center items-start gap-10">
+        <img class="rounded-xl shadow-xl" src="{{asset('./img/main/main-bg.jpg')}}" alt="">
+        <img class="rounded-xl shadow-xl" src="{{asset('./img/main/inner-bg-nofilter.jpg')}}" alt="">
         <img class="rounded-xl shadow-xl" src="{{asset('./img/fototar/fototar-7.jpg')}}" alt="">
         <img class="rounded-xl shadow-xl" src="{{asset('./img/fototar/fototar-6.jpg')}}" alt="">
         <img class="rounded-xl shadow-xl" src="{{asset('./img/fototar/fototar-5.jpg')}}" alt="">

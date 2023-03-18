@@ -106,19 +106,19 @@ background: url({{asset('./img/main/inner-bg.png')}});
                     <tbody>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-700 ease-in duration-100">
                         <td class="px-6 py-4">2020.11.09</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/20201109.zip')}}">link</a></td>
                     </tr>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-600 ease-in duration-100">
                         <td class="px-6 py-4">2020.07.02</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/20200702.zip')}}">link</a></td>
                     </tr>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-600 ease-in duration-100">
                         <td class="px-6 py-4">2020.05.11</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/20200511.zip')}}">link</a></td>
                     </tr>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-600 ease-in duration-100">
                         <td class="px-6 py-4">2020.02.04</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/20200204.zip')}}">link</a></td>
                     </tr>
                     </tbody>
                 </table>
@@ -138,27 +138,27 @@ background: url({{asset('./img/main/inner-bg.png')}});
                     <tbody>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-700 ease-in duration-100">
                         <td class="px-6 py-4">2019.12.16</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2019/20191216.zip')}}">link</a></td>
                     </tr>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-600 ease-in duration-100">
                         <td class="px-6 py-4">2019.11.29</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2019/20191129.zip')}}">link</a></td>
                     </tr>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-600 ease-in duration-100">
                         <td class="px-6 py-4">2019.11.14</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2019/20191114.zip')}}">link</a></td>
                     </tr>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-600 ease-in duration-100">
                         <td class="px-6 py-4">2019.09.04</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2019/20190904.zip')}}">link</a></td>
                     </tr>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-600 ease-in duration-100">
                         <td class="px-6 py-4">2019.05.22</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2019/20190522.zip')}}">link</a></td>
                     </tr>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-600 ease-in duration-100">
                         <td class="px-6 py-4">2019.02.11</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2019/20190221.zip')}}">link</a></td>
                     </tr>
                     </tbody>
                 </table>
@@ -178,27 +178,27 @@ background: url({{asset('./img/main/inner-bg.png')}});
                     <tbody>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-700 ease-in duration-100">
                         <td class="px-6 py-4">2018.12.17</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2018/20181217.zip')}}">link</a></td>
                     </tr>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-600 ease-in duration-100">
                         <td class="px-6 py-4">2018.10.17</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2018/20181017.zip')}}">link</a></td>
                     </tr>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-600 ease-in duration-100">
                         <td class="px-6 py-4">2018.05.16</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2018/20180516.zip')}}">link</a></td>
                     </tr>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-600 ease-in duration-100">
                         <td class="px-6 py-4">2018.02.27</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2018/20180227.zip')}}">link</a></td>
                     </tr>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-600 ease-in duration-100">
                         <td class="px-6 py-4">2018.02.01</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2018/20180201.zip')}}">link</a></td>
                     </tr>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-600 ease-in duration-100">
                         <td class="px-6 py-4">2018.01.24</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2018/20180124.zip')}}">link</a></td>
                     </tr>
                     </tbody>
                 </table>
@@ -218,27 +218,27 @@ background: url({{asset('./img/main/inner-bg.png')}});
                     <tbody>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-700 ease-in duration-100">
                         <td class="px-6 py-4">2017.12.18</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2017/20171218.zip')}}">link</a></td>
                     </tr>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-600 ease-in duration-100">
                         <td class="px-6 py-4">2017.11.21</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2017/20171121.zip')}}">link</a></td>
                     </tr>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-600 ease-in duration-100">
                         <td class="px-6 py-4">2017.05.30</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2017/20170530.zip')}}">link</a></td>
                     </tr>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-600 ease-in duration-100">
                         <td class="px-6 py-4">2017.03.29</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2017/20170329.zip')}}">link</a></td>
                     </tr>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-600 ease-in duration-100">
                         <td class="px-6 py-4">2017.03.07</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2017/20170307.zip')}}">link</a></td>
                     </tr>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-600 ease-in duration-100">
                         <td class="px-6 py-4">2017.01.31</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2017/20170131.zip')}}">link</a></td>
                     </tr>
                     </tbody>
                 </table>
@@ -258,27 +258,27 @@ background: url({{asset('./img/main/inner-bg.png')}});
                     <tbody>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-700 ease-in duration-100">
                         <td class="px-6 py-4">2016.12.19</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2016/20161219.zip')}}">link</a></td>
                     </tr>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-600 ease-in duration-100">
                         <td class="px-6 py-4">2016.11.30</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2016/20161130.zip')}}">link</a></td>
                     </tr>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-600 ease-in duration-100">
                         <td class="px-6 py-4">2016.11.03</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2016/20161103.zip')}}">link</a></td>
                     </tr>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-600 ease-in duration-100">
                         <td class="px-6 py-4">2016.09.20</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2016/20160920.zip')}}">link</a></td>
                     </tr>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-600 ease-in duration-100">
                         <td class="px-6 py-4">2016.05.02</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2016/20160502.zip')}}">link</a></td>
                     </tr>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-600 ease-in duration-100">
                         <td class="px-6 py-4">2016.02.17</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2016/20160217.zip')}}">link</a></td>
                     </tr>
                     </tbody>
                 </table>
@@ -298,27 +298,27 @@ background: url({{asset('./img/main/inner-bg.png')}});
                     <tbody>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-700 ease-in duration-100">
                         <td class="px-6 py-4">2015.12.17</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2015/20151217.zip')}}">link</a></td>
                     </tr>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-600 ease-in duration-100">
                         <td class="px-6 py-4">2015.11.24</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2015/20151124.zip')}}">link</a></td>
                     </tr>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-600 ease-in duration-100">
                         <td class="px-6 py-4">2015.10.01</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2015/20151001.zip')}}">link</a></td>
                     </tr>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-600 ease-in duration-100">
                         <td class="px-6 py-4">2015.05.04</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2015/20150504.zip')}}">link</a></td>
                     </tr>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-600 ease-in duration-100">
                         <td class="px-6 py-4">2015.04.23</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2015/20150423.zip')}}">link</a></td>
                     </tr>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-600 ease-in duration-100">
                         <td class="px-6 py-4">2015.02.18</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2015/20150218.zip')}}">link</a></td>
                     </tr>
                     </tbody>
                 </table>
@@ -338,27 +338,27 @@ background: url({{asset('./img/main/inner-bg.png')}});
                     <tbody>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-700 ease-in duration-100">
                         <td class="px-6 py-4">2014.12.17</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2014/20141217.zip')}}">link</a></td>
                     </tr>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-600 ease-in duration-100">
                         <td class="px-6 py-4">2014.11.28</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2014/20141128.zip')}}">link</a></td>
                     </tr>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-600 ease-in duration-100">
                         <td class="px-6 py-4">2014.09.22</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2014/20140922.zip')}}">link</a></td>
                     </tr>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-600 ease-in duration-100">
                         <td class="px-6 py-4">2014.04.15</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2014/20140415.zip')}}">link</a></td>
                     </tr>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-600 ease-in duration-100">
                         <td class="px-6 py-4">2014.02.24</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2014/20140224.zip')}}">link</a></td>
                     </tr>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-600 ease-in duration-100">
                         <td class="px-6 py-4">2014.02.13</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2014/20140213.zip')}}">link</a></td>
                     </tr>
                     </tbody>
                 </table>
@@ -378,27 +378,27 @@ background: url({{asset('./img/main/inner-bg.png')}});
                     <tbody>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-700 ease-in duration-100">
                         <td class="px-6 py-4">2013.12.30</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2013/20131230.zip')}}">link</a></td>
                     </tr>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-600 ease-in duration-100">
                         <td class="px-6 py-4">2013.11.22</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2013/20131122.zip')}}">link</a></td>
                     </tr>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-600 ease-in duration-100">
                         <td class="px-6 py-4">2013.11.15</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2013/20131115.zip')}}">link</a></td>
                     </tr>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-600 ease-in duration-100">
                         <td class="px-6 py-4">2013.09.18</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2013/20130918.zip')}}">link</a></td>
                     </tr>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-600 ease-in duration-100">
                         <td class="px-6 py-4">2013.04.15</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2013/20130415.zip')}}">link</a></td>
                     </tr>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-600 ease-in duration-100">
                         <td class="px-6 py-4">2013.03.07</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2013/20130307.zip')}}">link</a></td>
                     </tr>
                     </tbody>
                 </table>
@@ -418,23 +418,23 @@ background: url({{asset('./img/main/inner-bg.png')}});
                     <tbody>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-700 ease-in duration-100">
                         <td class="px-6 py-4">2012.11.15</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2012/20121115.zip')}}">link</a></td>
                     </tr>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-600 ease-in duration-100">
                         <td class="px-6 py-4">2012.09.13</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2012/20120913.zip')}}">link</a></td>
                     </tr>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-600 ease-in duration-100">
                         <td class="px-6 py-4">2012.07.05</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2012/20120705.zip')}}">link</a></td>
                     </tr>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-600 ease-in duration-100">
                         <td class="px-6 py-4">2012.03.26</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2012/20120326.zip')}}">link</a></td>
                     </tr>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-600 ease-in duration-100">
                         <td class="px-6 py-4">2012.01.12</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2012/20120112.zip')}}">link</a></td>
                     </tr>
                     </tbody>
                 </table>
@@ -454,23 +454,23 @@ background: url({{asset('./img/main/inner-bg.png')}});
                     <tbody>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-700 ease-in duration-100">
                         <td class="px-6 py-4">2011.11.15</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2011/20111115.zip')}}">link</a></td>
                     </tr>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-600 ease-in duration-100">
                         <td class="px-6 py-4">2011.09.08</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2011/20110908.zip')}}">link</a></td>
                     </tr>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-600 ease-in duration-100">
                         <td class="px-6 py-4">2011.06.27</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2011/20110627.zip')}}">link</a></td>
                     </tr>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-600 ease-in duration-100">
                         <td class="px-6 py-4">2011.03.30</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2011/20110330.zip')}}">link</a></td>
                     </tr>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-600 ease-in duration-100">
                         <td class="px-6 py-4">2011.02.02</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2011/20110202.zip')}}">link</a></td>
                     </tr>
                     </tbody>
                 </table>
@@ -490,23 +490,23 @@ background: url({{asset('./img/main/inner-bg.png')}});
                     <tbody>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-700 ease-in duration-100">
                         <td class="px-6 py-4">2010.11.10</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2010/20101110.zip')}}">link</a></td>
                     </tr>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-600 ease-in duration-100">
                         <td class="px-6 py-4">2010.09.30</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2010/20100930.zip')}}">link</a></td>
                     </tr>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-600 ease-in duration-100">
                         <td class="px-6 py-4">2010.07.19</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2010/20100719.zip')}}">link</a></td>
                     </tr>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-600 ease-in duration-100">
                         <td class="px-6 py-4">2010.04.01</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2010/20100401.zip')}}">link</a></td>
                     </tr>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-600 ease-in duration-100">
                         <td class="px-6 py-4">2010.01.13</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2010/20100113.zip')}}">link</a></td>
                     </tr>
                     </tbody>
                 </table>
@@ -526,15 +526,15 @@ background: url({{asset('./img/main/inner-bg.png')}});
                     <tbody>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-700 ease-in duration-100">
                         <td class="px-6 py-4">2009.12.14</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2009/20091214.zip')}}">link</a></td>
                     </tr>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-600 ease-in duration-100">
                         <td class="px-6 py-4">2009.11.10</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2009/20091110.zip')}}">link</a></td>
                     </tr>
                     <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-600 ease-in duration-100">
                         <td class="px-6 py-4">2009.08.11</td>
-                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2020/asdasdasd.zip')}}">link</a></td>
+                        <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2009/20090811.zip')}}">link</a></td>
                     </tr>
                     </tbody>
                 </table>

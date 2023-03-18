@@ -23,14 +23,14 @@ menuk
             //2010
             //2009
      //kozbeszerzes
-    aktualis
+    //aktualis
         //hirek
         //media
-        kepek
+        //kepek
     //fo kepek csere
     //tothetop arrow
     tothetop arrow - appear smooth
-    footer
+    //footer
     logo
     //responsiv
         //navbar
