@@ -82,7 +82,7 @@
         <nav class="border-zinc-400 bg-zinc-800 border-gray-700 xl:mx-auto xl:w-128 max-[1280px]:mx-3">
             <div class="container flex flex-wrap items-center justify-between">
               <a href="{{ url('/') }}" class="flex items-center">
-                  <span class="self-center text-xl whitespace-nowrap text-white">Westhull</span>
+                  <img class="w-20" src="{{asset('./img/main/logo-main.png')}}" alt="">
               </a>
               <button data-collapse-toggle="navbar-default" type="button" class="inline-flex items-center p-2 text-sm text-zinc-500 rounded-lg md:hidden hover:bg-zinc-600 focus:outline-none focus:ring-2 focus:ring-zinc-600" aria-controls="navbar-default" aria-expanded="false">
                 <span class="sr-only">Open main menu</span>
