@@ -59,7 +59,7 @@
                         <p
                             class="text-white ml-3 hover:text-emerald-400 ease-in duration-200 max-[500px]:hidden"
                         >
-                            +36/94 316 850
+                            +3694316850
                         </p>
                     </a>
                     <a href="mailto: info@westhull.hu" class="flex items-center">
@@ -232,7 +232,7 @@
                     <p class="text-gray-500 text-lg text-center">
                         2023 &copy; Copyright Készítette:
                         <span class="text-emerald-400">
-                        <a href="" class="hover:text-emerald-300"> webbees </span></a> 
+                        <a href="https://webbees.hu" class="hover:text-emerald-300"> webbees </span></a> 
                     </p>
                 </div>
             </div>
