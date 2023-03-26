@@ -52,14 +52,14 @@
                     </a>
                 </div>
                 <div class="flex items-center gap-8 max-[440px]:gap-4">
-                    <a href="tel:94-316-850" class="flex items-center">
+                    <a href="tel:+3694316850" class="flex items-center">
                         <i
                             class="fa-solid fa-mobile fa-lg text-gray-300 hover:text-emerald-400 ease-in duration-200"
                         ></i>
                         <p
                             class="text-white ml-3 hover:text-emerald-400 ease-in duration-200 max-[500px]:hidden"
                         >
-                            +3694316850
+                            +36/94 316 850
                         </p>
                     </a>
                     <a href="mailto: info@westhull.hu" class="flex items-center">
@@ -203,7 +203,7 @@
                     <div class="flex flex-col gap-2">
                         <p class="font-bold text-2xl mb-5">Kapcsolat</p>
                         <a href="mailto: info@westhull.hu" class="hover:text-zinc-300">info@westhull.hu</a>
-                        <a href="tel:94-316-850" class="hover:text-zinc-300">+36/94 316 850</a>
+                        <a href="tel:+3694316850" class="hover:text-zinc-300">+36/94 316 850</a>
                     </div>
                     
                         <div class="flex flex-col gap-2">
