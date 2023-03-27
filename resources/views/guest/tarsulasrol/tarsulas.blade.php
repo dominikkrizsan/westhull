@@ -28,18 +28,18 @@ background: url({{asset('./img/main/inner-bg.png')}});
     <div class="grid grid-cols-2 max-[980px]:grid-cols-1 justify-items-center">
         <!-- szervezzeti_felepites -->
         <div>
-            <h1 class="text-2xl font-bold text-emerald-500 mb-5 text-center">Szervezeti felépítés</h1>
+            <h1 class="text-2xl font-bold text-zinc-700 mb-5 text-center">Szervezeti felépítés</h1>
             <img class="rounded-xl border border-zinc-400 p-5" src="{{asset('./img/tarsulasrol/szervezeti_1.png')}}" alt="">
         </div>
         <!-- Tagönkormányzatok -->
         <div>
-            <h1 class="text-2xl font-bold text-emerald-500 mb-5 text-center max-[980px]:mt-10">Tagönkormányzatok</h1>
+            <h1 class="text-2xl font-bold text-zinc-700 mb-5 text-center max-[980px]:mt-10">Tagönkormányzatok</h1>
             <p class="text-lg text-center">A Társulás 127 tagönkormányzatának <br> listája letölthető <a class="text-emerald-500 hover:text-emerald-400 ease-in duration-200 mb-3" href="{{
                 asset('./pdf/tarsulasrol/tarsulasdokumentumai/tarsulas_tagjai.pdf')
             }}" target="__blank">itt</a></p>
             <div class="border-b border-zinc-300 w-9/12 mx-auto mt-5"></div>
             <!-- Társulás dokumentumai -->
-            <h1 class="text-2xl font-bold text-emerald-500 mb-5 mt-10 text-center">Munkaszervezet</h1>
+            <h1 class="text-2xl font-bold text-zinc-700 mb-5 mt-10 text-center">Munkaszervezet</h1>
             <div class="flex flex-col items-center text-lg">
                 <a class="text-emerald-500 hover:text-emerald-400 ease-in duration-200 mb-3" href="{{
                     asset('./pdf/tarsulasrol/tarsulasdokumentumai/alapito_okirat.pdf')
@@ -89,17 +89,17 @@ background: url({{asset('./img/main/inner-bg.png')}});
             <tr class="bg-white border-b bg-zinc-800 border-zinc-700 hover:bg-zinc-700 hover:bg-zinc-700 ease-in duration-100">
                 <td class="px-6 py-4">BÁSTY BÉLA</td>
                 <td class="px-6 py-4">Társulási Tanács tag</td>
-                <td class="px-6 py-4">Bozsok, Cák, Gyöngyösfalu, Horvátzsidány, Kiszsidány, Kőszeg, Kőszegdoroszló, Kőszegpaty, Kőszegszerdahely, Lukácsháza, Nemescsó, Ólmod, Peresznye, Pusztacsó, Velem</td>
+                <td class="px-6 py-4">Bozsok, Cák, Gyöngyösfalu, Horvátzsidány, Kiszsidány, Kőszeg, Kőszegdoroszló, <br> Kőszegpaty, Kőszegszerdahely, Lukácsháza, Nemescsó, Ólmod, <br> Peresznye, Pusztacsó, Velem</td>
             </tr>
             <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-700 hover:bg-zinc-700 ease-in duration-100">
                 <td class="px-6 py-4">SZABÓ JÓZSEF</td>
                 <td class="px-6 py-4">Társulási Tanács tag</td>
-                <td class="px-6 py-4">Bejctyertyános, Duka, Kemenespálfa, Kenéz, Megyehíd, Nemeskocs, Nyőgér, Ostffyasszonyfa, Ölbő, Pápoc, Pecöl, Répcelak</td>
+                <td class="px-6 py-4">Bejctyertyános, Duka, Kemenespálfa, Kenéz, Megyehíd, Nemeskocs, Nyőgér, <br> Ostffyasszonyfa, Ölbő, Pápoc, Pecöl, Répcelak</td>
             </tr>
             <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-700 hover:bg-zinc-700 ease-in duration-100">
                 <td class="px-6 py-4">FUKSZBERGER IMRE</td>
                 <td class="px-6 py-4">Társulási Tanács tag</td>
-                <td class="px-6 py-4">Alsóújlak, Csehimindszent, Csipkerek,Egervölgy, Gersekarát, Kám, Mikosszéplak, Püspökmolnári, Rábahidvég, Szemenye, Telekes</td>
+                <td class="px-6 py-4">Alsóújlak, Csehimindszent, Csipkerek,Egervölgy, Gersekarát, Kám, Mikosszéplak, <br> Püspökmolnári, Rábahidvég, Szemenye, Telekes</td>
             </tr>
             <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-700 hover:bg-zinc-700 ease-in duration-100"> 
                 <td class="px-6 py-4">DR. NÉMETH SÁNDOR</td>
@@ -109,17 +109,17 @@ background: url({{asset('./img/main/inner-bg.png')}});
             <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-700 hover:bg-zinc-700 ease-in duration-100">
                 <td class="px-6 py-4">BEBES ISTVÁN</td>
                 <td class="px-6 py-4">Társulási Tanács tag</td>
-                <td class="px-6 py-4">Csákánydoroszló, Daraboshegy, Döbörhegy, Döröske, Egyházashollós, Egyházasrádóc, Halastó, Halogy, Harasztifalu, Hegyháthodász, Hegyhátsál, Katafa, Kemestaródfa, Körmend, Magyarnádalja, Magyarszecsőd, Molnaszecsőd, Nádasd, Nagymizdó, Nemesrempehollós, Pinkamindszent, Szarvaskend, Vasalja</td>
+                <td class="px-6 py-4">Csákánydoroszló, Daraboshegy, Döbörhegy, Döröske, Egyházashollós, Egyházasrádóc, <br> Halastó, Halogy, Harasztifalu, Hegyháthodász, Hegyhátsál, Katafa, Kemestaródfa, <br> Körmend, Magyarnádalja, Magyarszecsőd, Molnaszecsőd, Nádasd, Nagymizdó, <br> Nemesrempehollós, Pinkamindszent, Szarvaskend, Vasalja</td>
             </tr>
             <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-700 hover:bg-zinc-700 ease-in duration-100">
                 <td class="px-6 py-4">ZSOLNAI ZOLTÁN</td>
                 <td class="px-6 py-4">Társulási Tanács tag</td>
-                <td class="px-6 py-4">Acsád, Balogunyom, Bozzai, Bucsu, Csempeszkopács, Dozmat, Felsőcsatár, Gencsapáti, Gyanógeregye, Ják, Kisunyom, Meszlen, Nárai, Narda, Nemesbőd, Nemeskolta, Perenye, Rábatöttös, Rum, Salköveskút, Sé, Sorkifalud, Sorkikápolna, Sorokpolány, Söpte, Tanakajd, Táplánszentkereszt, Torony, Vasasszonyfa, Vassurány, Vasszécseny, Vasszilvágy, Vát, Vép, Zsennye</td>
+                <td class="px-6 py-4">Acsád, Balogunyom, Bozzai, Bucsu, Csempeszkopács, Dozmat, Felsőcsatár, Gencsapáti, <br> Gyanógeregye, Ják, Kisunyom, Meszlen, Nárai, Narda, Nemesbőd, Nemeskolta, Perenye, <br> Rábatöttös, Rum, Salköveskút, Sé, Sorkifalud, Sorkikápolna, Sorokpolány, Söpte, Tanakajd, <br> Táplánszentkereszt, Torony, Vasasszonyfa, Vassurány, Vasszécseny, Vasszilvágy, <br> Vát, Vép, Zsennye</td>
             </tr>
             <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-700 hover:bg-zinc-700 ease-in duration-100">
                 <td class="px-6 py-4">KAPORNAKY SÁNDOR</td>
                 <td class="px-6 py-4">Társulási Tanács tag</td>
-                <td class="px-6 py-4">Bajánsenye, Felsőjánosfa, Felsőmarác, Hegyhátszentjakab, Hegyhátszentmárton, Ispánk, Ivánc, Kercaszomor, Kerkáskápolna, Kisrákos, Kondorfa, Magyarszombatfa, Nagyrákos, Őrimagyarósd, Őriszentpéter, Pankasz, Szaknyér, Szalafő, Szőce, Velemér, Viszák</td>
+                <td class="px-6 py-4">Bajánsenye, Felsőjánosfa, Felsőmarác, Hegyhátszentjakab, Hegyhátszentmárton, Ispánk, <br> Ivánc, Kercaszomor, Kerkáskápolna, Kisrákos, Kondorfa, Magyarszombatfa, Nagyrákos, <br> Őrimagyarósd, Őriszentpéter, Pankasz, Szaknyér, Szalafő, Szőce, Velemér, Viszák</td>
             </tr>
             <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-700 hover:bg-zinc-700 ease-in duration-100">
                 <td class="px-6 py-4">LABRITZ BÉLA</td>
@@ -131,8 +131,8 @@ background: url({{asset('./img/main/inner-bg.png')}});
     </div>
     <!-- Munkaszervezet -->
     <h1 class="text-4xl font-bold text-emerald-500 mb-5 mt-10 text-center">Munkaszervezet</h1>
-    <div class="sm:rounded-lg mx-auto mb-10">
-        <table class="text-base text-left text-zinc-300 text-zinc-300 rounded-xl w-full">
+    <div class="relative overflow-x-auto shadow-md sm:rounded-lg mx-auto mb-10">
+        <table class="text-base text-left text-zinc-300 text-zinc-300 w-full">
             <thead class="text-base text-emerald-500 uppercase bg-zinc-700">
             <tr>
                 <th scope="col" class="px-6 py-3">Tisztség</th>

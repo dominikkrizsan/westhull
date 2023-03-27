@@ -232,7 +232,7 @@
                     <p class="text-gray-500 text-lg text-center">
                         2023 &copy; Copyright Készítette:
                         <span class="text-emerald-400">
-                        <a href="https://webbees.hu" class="hover:text-emerald-300"> webbees </span></a> 
+                        <a href="https://webbees.hu" target="__blank" class="hover:text-emerald-300"> webbees </span></a> 
                     </p>
                 </div>
             </div>
