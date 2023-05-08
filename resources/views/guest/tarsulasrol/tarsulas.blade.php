@@ -71,7 +71,7 @@ background: url({{asset('./img/main/inner-bg.png')}});
     <div class="border-b border-zinc-300 w-9/12 mt-4 max-[800px]:w-full"></div>
     <!-- Társulási Tanács -->
     <h1 class="text-4xl font-bold text-emerald-500 mb-5 mt-10 text-center">Társulási Tanács</h1>
-    <div class="relative overflow-x-auto shadow-md sm:rounded-lg">
+    <div class="relative overflow-x-auto shadow-md rounded-lg">
         <table id="table" class="w-full text-base text-left text-zinc-300 text-zinc-300">
             <thead class="text-base text-emerald-500 uppercase bg-zinc-700">
             <tr>
@@ -131,7 +131,7 @@ background: url({{asset('./img/main/inner-bg.png')}});
     </div>
     <!-- Munkaszervezet -->
     <h1 class="text-4xl font-bold text-emerald-500 mb-5 mt-10 text-center">Munkaszervezet</h1>
-    <div class="relative overflow-x-auto shadow-md sm:rounded-lg mx-auto mb-10">
+    <div class="relative overflow-x-auto shadow-md rounded-lg mx-auto mb-10">
         <table class="text-base text-left text-zinc-300 text-zinc-300 w-full">
             <thead class="text-base text-emerald-500 uppercase bg-zinc-700">
             <tr>

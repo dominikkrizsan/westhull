@@ -100,48 +100,66 @@
                 <div class="flex flex-col gap-4">
                     <img class="rounded-lg w-96" src="{{ asset('./img/team-1.jpg') }}" alt="">
                     <div class="flex flex-col">
-                        <p class="text-lg text-center">Beosztás</p>
-                        <p class="text-4xl font-bold text-center mt-2 max-[740px]:text-xl"> Kovács István</p>
+                        <p class="text-lg text-center">Társulási Tanács Elnöke</p>
+                        <p class="text-2xl font-bold text-center mt-2 max-[740px]:text-xl"> Dr Horváth Attila</p>
                         <div class="flex items-center justify-center gap-5 mt-4">
-                            <a href="" class="text-2xl text-zinc-700 hover:text-emerald-700 ease-in duration-200 max-[740px]:text-xl"><i class="fa-brands fa-facebook-f"></i></a>
-                            <a href="" class="text-2xl text-zinc-700 hover:text-emerald-700 ease-in duration-200 max-[740px]:text-xl"><i class="fa-brands fa-linkedin"></i></i></a>
-                            <a href="" class="text-2xl text-zinc-700 hover:text-emerald-700 ease-in duration-200 max-[740px]:text-xl"><i class="fa-solid fa-envelope"></i></a>
+                            <a href="tel:+3694316850" class="text-2xl text-zinc-700 hover:text-emerald-700 ease-in duration-200 max-[740px]:text-xl"><i class="fas fa-mobile"></i></i></a>
+                            <a href="mailto: info@westhull.hu" class="text-2xl text-zinc-700 hover:text-emerald-700 ease-in duration-200 max-[740px]:text-xl"><i class="fa-solid fa-envelope"></i></a>
                         </div>
                     </div>
                 </div>
                 <div class="flex flex-col gap-4">
                     <img class="rounded-lg w-96" src="{{ asset('./img/team-1.jpg') }}" alt="">
                     <div class="flex flex-col">
-                        <p class="text-lg text-center">Beosztás</p>
-                        <p class="text-4xl font-bold text-center mt-2 max-[740px]:text-xl"> Kovács István</p>
+                        <p class="text-lg text-center">PIU vezető</p>
+                        <p class="text-2xl font-bold text-center mt-2 max-[740px]:text-xl"> Lakézi Gábor</p>
                         <div class="flex items-center justify-center gap-5 mt-4">
-                            <a href="" class="text-2xl text-zinc-700 hover:text-emerald-700 ease-in duration-200 max-[740px]:text-xl"><i class="fa-brands fa-facebook-f"></i></a>
-                            <a href="" class="text-2xl text-zinc-700 hover:text-emerald-700 ease-in duration-200 max-[740px]:text-xl"><i class="fa-brands fa-linkedin"></i></i></a>
-                            <a href="" class="text-2xl text-zinc-700 hover:text-emerald-700 ease-in duration-200 max-[740px]:text-xl"><i class="fa-solid fa-envelope"></i></a>
+                            <a href="tel:+3694316850" class="text-2xl text-zinc-700 hover:text-emerald-700 ease-in duration-200 max-[740px]:text-xl"><i class="fas fa-mobile"></i></i></a>
+                            <a href="mailto: info@westhull.hu" class="text-2xl text-zinc-700 hover:text-emerald-700 ease-in duration-200 max-[740px]:text-xl"><i class="fa-solid fa-envelope"></i></a>
                         </div>
                     </div>
                 </div>
                 <div class="flex flex-col gap-4">
                     <img class="rounded-lg w-96" src="{{ asset('./img/team-1.jpg') }}" alt="">
                     <div class="flex flex-col">
-                        <p class="text-lg text-center">Beosztás</p>
-                        <p class="text-4xl font-bold text-center mt-2 max-[740px]:text-xl"> Kovács István</p>
+                        <p class="text-lg text-center">Jogi szakértő</p>
+                        <p class="text-2xl font-bold text-center mt-2 max-[740px]:text-xl"> Dr Bozzay Gariella</p>
                         <div class="flex items-center justify-center gap-5 mt-4">
-                            <a href="" class="text-2xl text-zinc-700 hover:text-emerald-700 ease-in duration-200 max-[740px]:text-xl"><i class="fa-brands fa-facebook-f"></i></a>
-                            <a href="" class="text-2xl text-zinc-700 hover:text-emerald-700 ease-in duration-200 max-[740px]:text-xl"><i class="fa-brands fa-linkedin"></i></i></a>
-                            <a href="" class="text-2xl text-zinc-700 hover:text-emerald-700 ease-in duration-200 max-[740px]:text-xl"><i class="fa-solid fa-envelope"></i></a>
+                            <a href="tel:+3694316850" class="text-2xl text-zinc-700 hover:text-emerald-700 ease-in duration-200 max-[740px]:text-xl"><i class="fas fa-mobile"></i></i></a>
+                            <a href="mailto: info@westhull.hu" class="text-2xl text-zinc-700 hover:text-emerald-700 ease-in duration-200 max-[740px]:text-xl"><i class="fa-solid fa-envelope"></i></a>
                         </div>
                     </div>
                 </div>
                 <div class="flex flex-col gap-4">
                     <img class="rounded-lg w-96" src="{{ asset('./img/team-1.jpg') }}" alt="">
                     <div class="flex flex-col">
-                        <p class="text-lg text-center">Beosztás</p>
-                        <p class="text-4xl font-bold text-center mt-2 max-[740px]:text-xl"> Kovács István</p>
+                        <p class="text-lg text-center">Pénzügyi szakértő</p>
+                        <p class="text-2xl font-bold text-center mt-2 max-[740px]:text-xl"> Leidliné Könczöl Enikő</p>
                         <div class="flex items-center justify-center gap-5 mt-4">
-                            <a href="" class="text-2xl text-zinc-700 hover:text-emerald-700 ease-in duration-200 max-[740px]:text-xl"><i class="fa-brands fa-facebook-f"></i></a>
-                            <a href="" class="text-2xl text-zinc-700 hover:text-emerald-700 ease-in duration-200 max-[740px]:text-xl"><i class="fa-brands fa-linkedin"></i></i></a>
-                            <a href="" class="text-2xl text-zinc-700 hover:text-emerald-700 ease-in duration-200 max-[740px]:text-xl"><i class="fa-solid fa-envelope"></i></a>
+                            <a href="tel:+3694316850" class="text-2xl text-zinc-700 hover:text-emerald-700 ease-in duration-200 max-[740px]:text-xl"><i class="fas fa-mobile"></i></i></a>
+                            <a href="mailto: info@westhull.hu" class="text-2xl text-zinc-700 hover:text-emerald-700 ease-in duration-200 max-[740px]:text-xl"><i class="fa-solid fa-envelope"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="flex flex-col gap-4">
+                    <img class="rounded-lg w-96" src="{{ asset('./img/team-1.jpg') }}" alt="">
+                    <div class="flex flex-col">
+                        <p class="text-lg text-center">Műszaki szakértő</p>
+                        <p class="text-2xl font-bold text-center mt-2 max-[740px]:text-xl"> Szabóné Marton Erzsébet</p>
+                        <div class="flex items-center justify-center gap-5 mt-4">
+                            <a href="tel:+3694316850" class="text-2xl text-zinc-700 hover:text-emerald-700 ease-in duration-200 max-[740px]:text-xl"><i class="fas fa-mobile"></i></i></a>
+                            <a href="mailto: info@westhull.hu" class="text-2xl text-zinc-700 hover:text-emerald-700 ease-in duration-200 max-[740px]:text-xl"><i class="fa-solid fa-envelope"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="flex flex-col gap-4">
+                    <img class="rounded-lg w-96" src="{{ asset('./img/team-1.jpg') }}" alt="">
+                    <div class="flex flex-col">
+                        <p class="text-lg text-center"></p>
+                        <p class="text-2xl font-bold text-center mt-2 max-[740px]:text-xl"> Nagyné Pekovits Judit</p>
+                        <div class="flex items-center justify-center gap-5 mt-4">
+                            <a href="tel:+3694316850" class="text-2xl text-zinc-700 hover:text-emerald-700 ease-in duration-200 max-[740px]:text-xl"><i class="fas fa-mobile"></i></i></a>
+                            <a href="mailto: info@westhull.hu" class="text-2xl text-zinc-700 hover:text-emerald-700 ease-in duration-200 max-[740px]:text-xl"><i class="fa-solid fa-envelope"></i></a>
                         </div>
                     </div>
                 </div>
@@ -205,7 +223,7 @@
                     <div class="flex flex-col items-center justify-center py-8 px-10 rounded-xl">
                         <i class="fa-solid fa-map-location-dot text-6xl"></i>
                         <p class="text-xl text-emerald-500 font-bold mt-5 mb-3">Székhely</p>
-                        <p class="text-2xl text-center">Kossuth Lajos utca 1-3.</p>
+                        <p class="text-2xl text-center">9700 Szombathely <br> Kossuth Lajos utca 1-3.</p>
                     </div>
                 </a>  
                 <a class="hover:bg-emerald-100 rounded-2xl ease-in duration-200" href="mailto: info@westhull.hu">
