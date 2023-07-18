@@ -48,6 +48,10 @@ background: url({{asset('./img/main/inner-bg.png')}});
                             <td class="px-6 py-4">2023.04.12</td>
                             <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2023/20230412.zip')}}">link</a></td>
                         </tr>
+                        <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-700 ease-in duration-100">
+                            <td class="px-6 py-4">2023.06.21</td>
+                            <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2023/20230621.zip')}}">link</a></td>
+                        </tr>
                     </tbody>
                 </table>
             </div>
