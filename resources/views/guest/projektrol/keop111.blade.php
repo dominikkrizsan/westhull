@@ -538,10 +538,20 @@ background: url({{asset('./img/main/inner-bg.png')}});
                     target="__blank"
                     href="{{
                         asset(
-                            './pdf/keop111-2f-09-11-2012-001/projekt-dokumentumai/üzemeltetési szerződés_170330_aláírt.pdf'
+                            './pdf/keop111-2f-09-11-2012-001/projekt-dokumentumai/STKH szerz.pdf'
                         )
                     }}"
-                    ><li>1.3. Üzemeltetési szerződés</li></a
+                    ><li>Üzemeltetési szerződés</li></a
+                >
+                <a
+                    class="text-emerald-600 hover:text-emerald-500 ease-in duration-200 text-lg"
+                    target="__blank"
+                    href="{{
+                        asset(
+                            './pdf/keop111-2f-09-11-2012-001/projekt-dokumentumai/LÜ_B_004_2023_Westhull_bérleti_szerz.pdf'
+                        )
+                    }}"
+                    ><li>Bérleti szerződés</li></a
                 >
             </ul>
         </div>
