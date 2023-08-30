@@ -538,7 +538,7 @@ background: url({{asset('./img/main/inner-bg.png')}});
                     target="__blank"
                     href="{{
                         asset(
-                            './pdf/keop111-2f-09-11-2012-001/projekt-dokumentumai/STKH szerz.pdf'
+                            './pdf/keop111-2f-09-11-2012-001/projekt-dokumentumai/LÜ_B_004_2023_Westhull_bérleti_szerz.pdf'
                         )
                     }}"
                     ><li>Üzemeltetési szerződés</li></a
@@ -548,7 +548,7 @@ background: url({{asset('./img/main/inner-bg.png')}});
                     target="__blank"
                     href="{{
                         asset(
-                            './pdf/keop111-2f-09-11-2012-001/projekt-dokumentumai/LÜ_B_004_2023_Westhull_bérleti_szerz.pdf'
+                            './pdf/keop111-2f-09-11-2012-001/projekt-dokumentumai/STKH szerz.pdf'
                         )
                     }}"
                     ><li>Bérleti szerződés</li></a
