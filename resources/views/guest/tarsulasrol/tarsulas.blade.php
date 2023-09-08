@@ -59,12 +59,18 @@ background: url({{asset('./img/main/inner-bg.png')}});
                 <a class="text-emerald-500 hover:text-emerald-400 ease-in duration-200 mb-3 ml-5" href="{{
                     asset('./pdf/tarsulasrol/tarsulasdokumentumai/3. melléklet.pdf')
                 }}" target="__blank">3. számú melléklet</a>
+                <a class="text-emerald-500 hover:text-emerald-400 ease-in duration-200 mb-3" href="{{
+                    asset('./pdf/tarsulasrol/tarsulasdokumentumai/Megallapodas.pdf')
+                }}" target="__blank">Megállapodás</a>
                 <a class="text-emerald-500 hover:text-emerald-400 ease-in duration-200 mb-3 ml-5" href="{{
                     asset('./pdf/tarsulasrol/tarsulasdokumentumai/Törzskönyvi_kivonat_200117.pdf')
                 }}" target="__blank">Törzskönyvi kivonat</a>
                 <a class="text-emerald-500 hover:text-emerald-400 ease-in duration-200 mb-3" href="{{
                     asset('./pdf/tarsulasrol/tarsulasdokumentumai/TT SZMSZ_2020_02_04.pdf')
                 }}" target="__blank">Társulási Tanács SZMSZ</a>
+                <a class="text-emerald-500 hover:text-emerald-400 ease-in duration-200 mb-3" href="{{
+                    asset('./pdf/tarsulasrol/tarsulasdokumentumai/PIU SZMSZ_2020_02_04.pdf')
+                }}" target="__blank">PIU SZMSZ</a>
             </div>
         </div>
     </div>
