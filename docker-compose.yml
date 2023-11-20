@@ -1,0 +1,57 @@
+version: "3"
+services:
+  app:
+    build:
+      args:
+        user: composite
+        uid: 1000
+      context: ./
+      dockerfile: docker/Dockerfile
+    image: westhull
+    container_name: westhull-app
+    restart: unless-stopped
+    working_dir: /var/www/
+    volumes:
+      - ./:/var/www
+      - ./php.ini:/usr/local/etc/php/conf.d/php.ini
+    networks:
+      - mynet
+
+  db:
+    image: mysql:5.7
+    container_name: westhull-db
+    restart: unless-stopped
+    environment:
+      MYSQL_DATABASE: ${DB_DATABASE}
+      MYSQL_ROOT_PASSWORD: ${DB_PASSWORD}
+      MYSQL_PASSWORD: ${DB_PASSWORD}
+      MYSQL_USER: ${DB_USERNAME}
+      SERVICE_TAGS: dev
+      SERVICE_NAME: mysql
+    volumes:
+      - dbdata:/var/lib/mysql
+    networks:
+      - mynet
+
+  nginx:
+    image: nginx:alpine
+    container_name: westhull-nginx
+    restart: unless-stopped
+    tty: true
+    ports:
+      - 8103:80
+    volumes:
+      - ./:/var/www
+      - ./docker/nginx_dev:/etc/nginx/conf.d/
+    networks:
+      - mynet
+
+#Docker networks
+networks:
+  mynet:
+    driver: bridge
+
+#Volumes
+volumes:
+  dbdata:
+    driver: local
