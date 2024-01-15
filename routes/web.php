@@ -31,6 +31,10 @@ Route::get('/KEOP-2.3.0_2008-0006', function () {
     return view('guest.projektrol.keop230');
 });
 
+Route::get('/ProjElokeszites', function () {
+    return view('guest.projektrol.keopXYXY');
+});
+
 /* ------------------------kozbeszerzes----------------------- */
 
 Route::get('/kozbeszerzes', function () {

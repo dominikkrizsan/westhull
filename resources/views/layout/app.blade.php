@@ -160,6 +160,13 @@
                                         >KEOP-2.3.0/2008-0006</a
                                     >
                                 </li>
+                                <li>
+                                    <a
+                                        href="{{ url('ProjElokeszites')}}"
+                                        class="block px-4 py-2 hover:bg-emerald-500 hover:bg-gray-600 hover:text-emerald-500 ease-in duration-200"
+                                        >Projekt előkészítés</a
+                                    >
+                                </li>
                             </ul>
                         </div>
                     </li>
