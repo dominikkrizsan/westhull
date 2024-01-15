@@ -156,6 +156,39 @@ background: url({{asset('./img/main/inner-bg.png')}});
                             }}"
                             ><li>3. napirend 2. melléklet</li></a
                         >
+                        <li class="text-emerald-500 font-bold ml-3">
+                            3. számú módosítás
+                        </li>
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2023/határozat_1.pdf'
+                                )
+                            }}"
+                            ><li>határozat</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2023/5. előterjesztés.pdf'
+                                )
+                            }}"
+                            ><li>5. előterjesztés</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2023/5. napirend 1. melléklet.xls'
+                                )
+                            }}"
+                            ><li>5. napirend 1. melléklet</li></a
+                        >
                     </ul>
                 </div>
             </div>
