@@ -28,6 +28,26 @@ background: url({{asset('./img/main/inner-bg.png')}});
     <h1 class="text-4xl font-bold text-emerald-500 mb-3 mt-10 text-center">Társulási Tanács Ülései</h1>
     <div class="border-b border-zinc-300 mb-5 w-64 mx-auto"></div>
     <div class="grid grid-cols-2 max-[1100px]:grid-cols-1 gap-10 justify-items-center align-center">
+        {{-- 2024 --}}
+        <div>
+            <h1 class="text-2xl font-bold text-zinc-700 mb-3 mt-10 text-center">2024 év</h1>
+            <div class="relative overflow-x-auto shadow-md sm:rounded-lg max-[1100px]:w-full w-max mx-auto">
+                <table id="table" class="max-[1100px]:w-full w-max text-base text-left text-zinc-300 text-zinc-300">
+                    <thead class="text-base text-emerald-500 uppercase bg-zinc-700 border-b border-zinc-800">
+                    <tr>
+                        <th scope="col" class="px-6 py-3 w-64">Év</th>
+                        <th scope="col" class="px-6 py-3 w-72">Fájl</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                        <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-700 ease-in duration-100">
+                            <td class="px-6 py-4">2024.02.21</td>
+                            <td class="px-6 py-4"><a class="text-zinc-300 hover:text-zinc-400 duration-100" href="{{asset('./pdf/tarsulasrol/tarsulasulesek/2024/20240221.zip')}}">link</a></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
         {{-- 2023 --}}
         <div>
             <h1 class="text-2xl font-bold text-zinc-700 mb-3 mt-10 text-center">2023 év</h1>

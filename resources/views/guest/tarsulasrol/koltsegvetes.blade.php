@@ -28,6 +28,50 @@ background: url({{asset('./img/main/inner-bg.png')}});
         <div
             class="grid grid-cols-4 max-[1200px]:grid-cols-3 max-[980px]:grid-cols-2 max-[600px]:grid-cols-1 text-xl mt-10 justify-items-stretch align-center gap-12"
         >
+            {{-- element 2024--}}
+            <div class="container w-full">
+                <div
+                    class="header bg-emerald-600 hover:bg-emerald-500 cursor-pointer py-5 px-7 text-white text-center rounded-2xl ease-in duration-200"
+                >
+                    <span>2024. évi költségvetés</span>
+                </div>
+                <div class="content">
+                    <ul
+                        class="text-base flex flex-col bg-zinc-700 rounded-xl py-3 pl-5"
+                    >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2024/6_2024.pdf'
+                                )
+                            }}"
+                            ><li>határozat</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2024/5. napirend.pdf'
+                                )
+                            }}"
+                            ><li>5. napirend</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2024/5. számú előterjesztés 1. melléklete.xls'
+                                )
+                            }}"
+                            ><li>1. melléklet</li></a
+                        >                        
+                    </ul>
+                </div>
+            </div>
             {{-- element 2023--}}
             <div class="container w-full">
                 <div
