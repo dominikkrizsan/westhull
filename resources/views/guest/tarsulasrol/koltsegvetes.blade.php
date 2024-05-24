@@ -68,6 +68,50 @@ background: url({{asset('./img/main/inner-bg.png')}});
                                 )
                             }}"
                             ><li>1. melléklet</li></a
+                        >
+                        <li class="text-emerald-500 font-bold">Módosítások</li>
+                        <li class="text-emerald-500 font-bold ml-3">
+                            1. számú módosítás
+                        </li>
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2024/1.modositas/határozat.pdf'
+                                )
+                            }}"
+                            ><li>határozat</li></a
+                        >                        
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2024/1.modositas/4. napirend.pdf'
+                                )
+                            }}"
+                            ><li>4. napirend</li></a
+                        >                        
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2024/1.modositas/4.számú napirend melléklete könyvvizsgálói jelentés.pdf'
+                                )
+                            }}"
+                            ><li>4. számú napirend melléklete könyvvizsgálói jelentés</li></a
+                        >                        
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2024/1.modositas/4.számú napirend melléklete 2024. év I. mód költségvetés.xls'
+                                )
+                            }}"
+                            ><li>4. számú napirend melléklete</li></a
                         >                        
                     </ul>
                 </div>
@@ -232,6 +276,57 @@ background: url({{asset('./img/main/inner-bg.png')}});
                                 )
                             }}"
                             ><li>5. napirend 1. melléklet</li></a
+                        >
+                        <li class="text-emerald-500 font-bold">2023. évi zárszámadás</li>
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2023/zarszamadas/határozat.pdf'
+                                )
+                            }}"
+                            ><li>határozat</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2023/zarszamadas/3. napirend.pdf'
+                                )
+                            }}"
+                            ><li>3. napirend</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2023/zarszamadas/3.napirend melléklete -zárszámadás.xlsx'
+                                )
+                            }}"
+                            ><li>3. napirend melléklete</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2023/zarszamadas/3.számú napirend melléklete könyvvizsgálói jelentésimage2024-04-30-080053.pdf'
+                                )
+                            }}"
+                            ><li>3. számú napirend melléklete könyvvizsgálói jelentés</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2023/zarszamadas/Vezetői levél 2024.05.07.pdf'
+                                )
+                            }}"
+                            ><li>Vezetői levél 2024.05.07</li></a
                         >
                     </ul>
                 </div>
