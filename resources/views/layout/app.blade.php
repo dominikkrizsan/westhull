@@ -248,16 +248,21 @@
                 <div
                     class="mx-auto pt-6 pb-3 bg-zinc-800 border-zinc-700"
                 >
-                    <p class="text-gray-500 text-lg text-center">
-                        2023 &copy; Copyright Készítette:
-                        <span class="text-emerald-400">
-                        <a href="https://webbees.hu" target="__blank" class="hover:text-emerald-300"> webbees </span></a> 
-                    </p>
+                <p class="text-gray-500 text-lg text-center">
+                    <span id="currentYear"></span> &copy; Copyright Készítette:
+                    <span class="text-emerald-400">
+                        <a href="https://webbees.hu" target="__blank" class="hover:text-emerald-300">webbees</a>
+                    </span>
+                </p>
                 </div>
             </div>
         </footer> 
 
         <button onclick="topFunction()" id="myBtn"><i class="fa-solid fa-circle-chevron-up text-6xl max-[700px]:text-4xl text-emerald-400 hover:text-emerald-300 ease-in duration-100"></i></button>
+        
+        <script>
+            document.getElementById("currentYear").textContent = new Date().getFullYear();
+        </script>
 
         {{-- flowbite --}}
         <script src="https://unpkg.com/flowbite@1.5.1/dist/flowbite.js"></script>
