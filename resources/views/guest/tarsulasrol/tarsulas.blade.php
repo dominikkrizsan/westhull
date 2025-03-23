@@ -103,7 +103,7 @@ background: url({{asset('./img/main/inner-bg.png')}});
                 <td class="px-6 py-4">Bejctyertyános, Duka, Kemenespálfa, Kenéz, Megyehíd, Nemeskocs, Nyőgér, <br> Ostffyasszonyfa, Ölbő, Pápoc, Pecöl, Répcelak</td>
             </tr>
             <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-700 hover:bg-zinc-700 ease-in duration-100">
-                <td class="px-6 py-4">FUKSZBERGER IMRE</td>
+                <td class="px-6 py-4">PÁSZTHORY ISTVÁNNÉ</td>
                 <td class="px-6 py-4">Társulási Tanács tag</td>
                 <td class="px-6 py-4">Alsóújlak, Csehimindszent, Csipkerek,Egervölgy, Gersekarát, Kám, Mikosszéplak, <br> Püspökmolnári, Rábahidvég, Szemenye, Telekes</td>
             </tr>
@@ -113,13 +113,13 @@ background: url({{asset('./img/main/inner-bg.png')}});
                 <td class="px-6 py-4">Bük, Sajtóskál</td>
             </tr>
             <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-700 hover:bg-zinc-700 ease-in duration-100">
-                <td class="px-6 py-4">BEBES ISTVÁN</td>
+                <td class="px-6 py-4">CZAFIT CSABA</td>
                 <td class="px-6 py-4">Társulási Tanács tag</td>
                 <td class="px-6 py-4">Csákánydoroszló, Daraboshegy, Döbörhegy, Döröske, Egyházashollós, Egyházasrádóc, <br> Halastó, Halogy, Harasztifalu, Hegyháthodász, Hegyhátsál, Katafa, Kemestaródfa, <br> Körmend, Magyarnádalja, Magyarszecsőd, Molnaszecsőd, Nádasd, Nagymizdó, <br> Nemesrempehollós, Pinkamindszent, Szarvaskend, Vasalja</td>
             </tr>
             <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-700 hover:bg-zinc-700 ease-in duration-100">
                 <td class="px-6 py-4">ZSOLNAI ZOLTÁN</td>
-                <td class="px-6 py-4">Társulási Tanács tag</td>
+                <td class="px-6 py-4">Társulási Tanács Elnökhelyettese</td>
                 <td class="px-6 py-4">Acsád, Balogunyom, Bozzai, Bucsu, Csempeszkopács, Dozmat, Felsőcsatár, Gencsapáti, <br> Gyanógeregye, Ják, Kisunyom, Meszlen, Nárai, Narda, Nemesbőd, Nemeskolta, Perenye, <br> Rábatöttös, Rum, Salköveskút, Sé, Sorkifalud, Sorkikápolna, Sorokpolány, Söpte, Tanakajd, <br> Táplánszentkereszt, Torony, Vasasszonyfa, Vassurány, Vasszécseny, Vasszilvágy, <br> Vát, Vép, Zsennye</td>
             </tr>
             <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-700 hover:bg-zinc-700 ease-in duration-100">
@@ -128,8 +128,8 @@ background: url({{asset('./img/main/inner-bg.png')}});
                 <td class="px-6 py-4">Bajánsenye, Felsőjánosfa, Felsőmarác, Hegyhátszentjakab, Hegyhátszentmárton, Ispánk, <br> Ivánc, Kercaszomor, Kerkáskápolna, Kisrákos, Kondorfa, Magyarszombatfa, Nagyrákos, <br> Őrimagyarósd, Őriszentpéter, Pankasz, Szaknyér, Szalafő, Szőce, Velemér, Viszák</td>
             </tr>
             <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-700 hover:bg-zinc-700 ease-in duration-100">
-                <td class="px-6 py-4">LABRITZ BÉLA</td>
-                <td class="px-6 py-4">Társulási Tanács Elnökhelyettese</td>
+                <td class="px-6 py-4">KORPICS FERENC</td>
+                <td class="px-6 py-4">Társulási Tanács tag</td>
                 <td class="px-6 py-4">Csörötnek, Gasztony, Magyarlak, Nemesmedves, Orfalu, Rátót, Szentgotthárd</td>
             </tr>
             </tbody>
@@ -175,7 +175,7 @@ background: url({{asset('./img/main/inner-bg.png')}});
                 <td class="px-6 py-4">dr. Bozzay Gabriella</td>
                 <td class="px-6 py-4">94/316-850</td>
                 <td class="px-6 py-4">94/316-849</td>
-                <td class="px-6 py-4"></td>
+                <td class="px-6 py-4"><a class="text-white hover:text-zinc-400 ease-in duration-100" href="mailto:dr.bozzay@westhull.hu">dr.bozzay@westhull.hu</a></td>
             </tr>
             <tr class="bg-white border-b bg-zinc-800 border-gray-700 hover:bg-zinc-700 ease-in duration-100">
                 <td class="px-6 py-4 w-fit">PIU adminisztrátor</td>
