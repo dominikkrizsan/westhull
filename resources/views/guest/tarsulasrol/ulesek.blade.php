@@ -30,7 +30,7 @@ background: url({{asset('./img/main/inner-bg.png')}});
     <div class="grid grid-cols-2 max-[1100px]:grid-cols-1 gap-10 justify-items-center align-center">
         {{-- 2025 --}}
         <div>
-            <h1 class="text-2xl font-bold text-zinc-700 mb-3 mt-10 text-center">2024 év</h1>
+            <h1 class="text-2xl font-bold text-zinc-700 mb-3 mt-10 text-center">2025 év</h1>
             <div class="relative overflow-x-auto shadow-md sm:rounded-lg max-[1100px]:w-full w-max mx-auto">
                 <table id="table" class="max-[1100px]:w-full w-max text-base text-left text-zinc-300 text-zinc-300">
                     <thead class="text-base text-emerald-500 uppercase bg-zinc-700 border-b border-zinc-800">
