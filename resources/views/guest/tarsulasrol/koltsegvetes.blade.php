@@ -78,7 +78,51 @@ background: url({{asset('./img/main/inner-bg.png')}});
                                 )
                             }}"
                             ><li>5. napirend 1. melléklet</li></a
-                        >                   
+                        >
+                        <li class="text-emerald-500 font-bold">Módosítások</li>
+                        <li class="text-emerald-500 font-bold ml-3">
+                            1. számú módosítás
+                        </li>
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2025/1.modositas/határozat.pdf'
+                                )
+                            }}"
+                            ><li>határozat</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2025/1.modositas/4. napirend.pdf'
+                                )
+                            }}"
+                            ><li>4. napirend</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2025/1.modositas/4. napirend 1. melléklet.xls'
+                                )
+                            }}"
+                            ><li>4. napirend 1. melléklet</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2025/1.modositas/4. napirend 2. melléklet.pdf'
+                                )
+                            }}"
+                            ><li>4. napirend 2. melléklet</li></a
+                        >
                     </ul>
                 </div>
             </div>
@@ -166,7 +210,48 @@ background: url({{asset('./img/main/inner-bg.png')}});
                                 )
                             }}"
                             ><li>4. számú napirend melléklete</li></a
-                        >                        
+                        >
+                        <li class="text-emerald-500 font-bold">2024. évi zárszámadás</li>
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2024/zarszamadas/zárszámadás határozat.pdf'
+                                )
+                            }}"
+                            ><li>határozat</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2024/zarszamadas/3. napirend.pdf'
+                                )
+                            }}"
+                            ><li>3. napirend</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2024/zarszamadas/3. napirend 1. melléklet.xlsx'
+                                )
+                            }}"
+                            ><li>3. napirend 1. melléklet</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2024/zarszamadas/3. napirend 2. melléklet.pdf'
+                                )
+                            }}"
+                            ><li>3. napirend 2. melléklet</li></a
+                        >
                     </ul>
                 </div>
             </div>
