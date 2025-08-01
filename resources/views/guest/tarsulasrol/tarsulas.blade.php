@@ -66,7 +66,7 @@ background: url({{asset('./img/main/inner-bg.png')}});
                     asset('./pdf/tarsulasrol/tarsulasdokumentumai/Törzskönyvi_kivonat_200117.pdf')
                 }}" target="__blank">Törzskönyvi kivonat</a>
                 <a class="text-emerald-500 hover:text-emerald-400 ease-in duration-200 mb-3" href="{{
-                    asset('./pdf/tarsulasrol/tarsulasdokumentumai/TT SZMSZ_2020_02_04.pdf')
+                    asset('./pdf/tarsulasrol/tarsulasdokumentumai/TT SZMSZ_2024.pdf')
                 }}" target="__blank">Társulási Tanács SZMSZ</a>
                 <a class="text-emerald-500 hover:text-emerald-400 ease-in duration-200 mb-3" href="{{
                     asset('./pdf/tarsulasrol/tarsulasdokumentumai/PIU SZMSZ_2020_02_04.pdf')

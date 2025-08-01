@@ -28,9 +28,9 @@ background: url({{asset('./img/main/inner-bg.png')}});
         <p class="text-lg">
         Az államháztartás pénzeszközeinek felhasználásával, az államháztartáshoz tartozó vagyonnal történő gazdálkodással összefüggő, nettó ötmillió forintot elérő, vagy azt meghaladó értékű árubeszerzésre, építési beruházásra, szolgáltatás megrendelésére vonatkozó szerződések adatai.
         </p>  
-        <a class="mt-5" href="{{ asset('./img/keopxyxy/üvegzseb.xlsx') }}">
+        <a class="mt-5" href="{{ asset('./img/keopxyxy/üvegzseb_250730.xlsx') }}">
                 <img class=""
-                src="{{ asset('./img/keopxyxy/ujproj.png') }}"
+                src="{{ asset('./img/keopxyxy/ujproj_uj.png') }}"
                 alt="">
         </a>
     </div>
