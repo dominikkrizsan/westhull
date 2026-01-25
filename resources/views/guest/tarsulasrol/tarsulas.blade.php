@@ -48,7 +48,7 @@ background: url({{asset('./img/main/inner-bg.png')}});
                     asset('./pdf/tarsulasrol/tarsulasdokumentumai/TM hatályos 2020.01.01-től.pdf')
                 }}" target="__blank">Társulási megállapodás</a>
                 <a class="text-emerald-500 hover:text-emerald-400 ease-in duration-200 mb-3 ml-5" href="{{
-                    asset('./pdf/tarsulasrol/tarsulasdokumentumai/1. melléklet.pdf')
+                    asset('./pdf/tarsulasrol/tarsulasdokumentumai/1. melléklet.xlsx')
                 }}" target="__blank">1. számú melléklet</a>
                 <a class="text-emerald-500 hover:text-emerald-400 ease-in duration-200 mb-3 ml-5" href="{{
                     asset('./pdf/tarsulasrol/tarsulasdokumentumai/1_A. melléklet.pdf')
@@ -63,10 +63,10 @@ background: url({{asset('./img/main/inner-bg.png')}});
                     asset('./pdf/tarsulasrol/tarsulasdokumentumai/Megallapodas.pdf')
                 }}" target="__blank">Megállapodás</a>
                 <a class="text-emerald-500 hover:text-emerald-400 ease-in duration-200 mb-3 ml-5" href="{{
-                    asset('./pdf/tarsulasrol/tarsulasdokumentumai/Törzskönyvi_kivonat_200117.pdf')
+                    asset('./pdf/tarsulasrol/tarsulasdokumentumai/K138_769668_1835882 TÖRZSKÖNYVI KIVONAT.pdf')
                 }}" target="__blank">Törzskönyvi kivonat</a>
                 <a class="text-emerald-500 hover:text-emerald-400 ease-in duration-200 mb-3" href="{{
-                    asset('./pdf/tarsulasrol/tarsulasdokumentumai/TT SZMSZ_2024.pdf')
+                    asset('./pdf/tarsulasrol/tarsulasdokumentumai/TT SZMSZ_251216.pdf')
                 }}" target="__blank">Társulási Tanács SZMSZ</a>
                 <a class="text-emerald-500 hover:text-emerald-400 ease-in duration-200 mb-3" href="{{
                     asset('./pdf/tarsulasrol/tarsulasdokumentumai/PIU SZMSZ_2020_02_04.pdf')

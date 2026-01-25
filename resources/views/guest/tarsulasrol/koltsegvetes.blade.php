@@ -151,10 +151,10 @@ background: url({{asset('./img/main/inner-bg.png')}});
                             target="__blank"
                             href="{{
                                 asset(
-                                    './pdf/tarsulasrol/koltsegvetes/2025/2.modositas/3. napirend 2. melléklet.pdf'
+                                    './pdf/tarsulasrol/koltsegvetes/2025/2.modositas/3. napirend 1. melléklet.pdf'
                                 )
                             }}"
-                            ><li>3. napirend 2. melléklet</li></a
+                            ><li>3. napirend 1. melléklet</li></a
                         >
                         <a
                             class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
@@ -165,6 +165,16 @@ background: url({{asset('./img/main/inner-bg.png')}});
                                 )
                             }}"
                             ><li>3. napirend 1. melléklet</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2025/2.modositas/3. napirend 2. melléklet.pdf'
+                                )
+                            }}"
+                            ><li>3. napirend 2. melléklet</li></a
                         >
                     </ul>
                 </div>

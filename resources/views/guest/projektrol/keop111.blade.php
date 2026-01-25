@@ -548,10 +548,30 @@ background: url({{asset('./img/main/inner-bg.png')}});
                     target="__blank"
                     href="{{
                         asset(
+                            './pdf/keop111-2f-09-11-2012-001/projekt-dokumentumai/MOHU 1. sz szerzősé módosítás.pdf'
+                        )
+                    }}"
+                    ><li>1. Módosítás</li></a
+                >
+                <a
+                    class="text-emerald-600 hover:text-emerald-500 ease-in duration-200 text-lg"
+                    target="__blank"
+                    href="{{
+                        asset(
                             './pdf/keop111-2f-09-11-2012-001/projekt-dokumentumai/STKH szerz.pdf'
                         )
                     }}"
                     ><li>Bérleti szerződés</li></a
+                >
+                <a
+                    class="text-emerald-600 hover:text-emerald-500 ease-in duration-200 text-lg"
+                    target="__blank"
+                    href="{{
+                        asset(
+                            './pdf/keop111-2f-09-11-2012-001/projekt-dokumentumai/STKH 1. sz szerződés módosítás.pdf'
+                        )
+                    }}"
+                    ><li>1. Módosítás</li></a
                 >
             </ul>
         </div>
