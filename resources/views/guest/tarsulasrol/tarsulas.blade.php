@@ -53,9 +53,9 @@ background: url({{asset('./img/main/inner-bg.png')}});
                 <a class="text-emerald-500 hover:text-emerald-400 ease-in duration-200 mb-3 ml-5" href="{{
                     asset('./pdf/tarsulasrol/tarsulasdokumentumai/1_A. melléklet.pdf')
                 }}" target="__blank">1/A. számú melléklet</a>
-                <a class="text-emerald-500 hover:text-emerald-400 ease-in duration-200 mb-3 ml-5" href="{{
+                <!-- <a class="text-emerald-500 hover:text-emerald-400 ease-in duration-200 mb-3 ml-5" href="{{
                     asset('./pdf/tarsulasrol/tarsulasdokumentumai/2. melléklet.pdf')
-                }}" target="__blank">2. számú melléklet</a>
+                }}" target="__blank">2. számú melléklet</a> -->
                 <a class="text-emerald-500 hover:text-emerald-400 ease-in duration-200 mb-3 ml-5" href="{{
                     asset('./pdf/tarsulasrol/tarsulasdokumentumai/3. melléklet.pdf')
                 }}" target="__blank">3. számú melléklet</a>
@@ -71,6 +71,9 @@ background: url({{asset('./img/main/inner-bg.png')}});
                 <a class="text-emerald-500 hover:text-emerald-400 ease-in duration-200 mb-3" href="{{
                     asset('./pdf/tarsulasrol/tarsulasdokumentumai/PIU SZMSZ_2020_02_04.pdf')
                 }}" target="__blank">PIU SZMSZ</a>
+                <a class="text-emerald-500 hover:text-emerald-400 ease-in duration-200 mb-3" href="{{
+                    asset('./pdf/tarsulasrol/tarsulasdokumentumai/beszerzési szabályzat_20251216.pdf')
+                }}" target="__blank">Beszerzési Szabályzat</a>
             </div>
         </div>
     </div>
