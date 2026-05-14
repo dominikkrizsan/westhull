@@ -64,3 +64,7 @@ Route::get('/aktualis', function () {
 Route::get('/test', function () {
     return view('layout.app');
 });
+
+Route::get('/palyazati-kiiras', function () {
+    return view('guest.palyazati-kiiras');
+});

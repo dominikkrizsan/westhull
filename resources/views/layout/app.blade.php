@@ -104,6 +104,13 @@
                 <ul class="flex flex-col text-lg py-4 mt-4 border border-zinc-600 rounded-lg bg-zinc-800 md:flex-row md:space-x-8 md:mt-0 md:font-medium md:border-0">
                     <li>
                         <a
+                            href="{{ url('/palyazati-kiiras') }}"
+                            class="block py-2 pl-3 pr-4 text-lg rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 text-gray-300 md:hover:text-emerald-500 hover:bg-gray-700 hover:text-emerald-500 md:hover:bg-transparent ease-in duration-200"
+                            >Pályázati kiírás</a
+                        >
+                    </li>
+                    <li>
+                        <a
                             href="{{ url('/') }}"
                             class="block py-2 pl-3 pr-4 text-lg rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 text-gray-300 md:hover:text-emerald-500 hover:bg-gray-700 hover:text-emerald-500 md:hover:bg-transparent ease-in duration-200"
                             >Kezdőlap</a
