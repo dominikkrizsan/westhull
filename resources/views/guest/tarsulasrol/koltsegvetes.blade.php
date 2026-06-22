@@ -28,6 +28,145 @@ background: url({{asset('./img/main/inner-bg.png')}});
         <div
             class="grid grid-cols-4 max-[1200px]:grid-cols-3 max-[980px]:grid-cols-2 max-[600px]:grid-cols-1 text-xl mt-10 justify-items-stretch align-center gap-12"
         >
+        {{-- element 2026--}}
+            <div class="container w-full">
+                <div
+                    class="header bg-emerald-600 hover:bg-emerald-500 cursor-pointer py-5 px-7 text-white text-center rounded-2xl ease-in duration-200"
+                >
+                    <span>2026. évi költségvetés</span>
+                </div>
+                <div class="content">
+                    <ul
+                        class="text-base flex flex-col bg-zinc-700 rounded-xl py-3 pl-5"
+                    >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2026/70_2026.pdf'
+                                )
+                            }}"
+                            ><li>határozat</li></a
+                        >                   
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2026/4, napirend.pdf'
+                                )
+                            }}"
+                            ><li>4. napirend</li></a
+                        >                   
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2026/4. napirend 1. melléklet.xls'
+                                )
+                            }}"
+                            ><li>4. napirend 1. melléklet</li></a
+                        >                   
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2026/4. napirend 2. melléklet.pdf'
+                                )
+                            }}"
+                            ><li>4. napirend 2. melléklet</li></a
+                        >
+                        <li class="text-emerald-500 font-bold">Módosítások</li>
+                        <li class="text-emerald-500 font-bold ml-3">
+                            1. számú módosítás
+                        </li>
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2026/1.modositas/72_2026.pdf'
+                                )
+                            }}"
+                            ><li>határozat</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2026/1.modositas/6. napirend.pdf'
+                                )
+                            }}"
+                            ><li>6. napirend</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2026/1.modositas/6. napirend 1. mellékelt.xls'
+                                )
+                            }}"
+                            ><li>6. napirend 1. melléklet</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2026/1.modositas/6. napirend 2. melléklet.pdf'
+                                )
+                            }}"
+                            ><li>6. napirend 2. melléklet</li></a
+                        >
+                        <li class="text-emerald-500 font-bold">2026. évi zárszámadás</li>
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2026/zarszamadas/72_2026.pdf'
+                                )
+                            }}"
+                            ><li>határozat</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2026/zarszamadas/5. napirend.pdf'
+                                )
+                            }}"
+                            ><li>5. napirend</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2026/zarszamadas/5. napirend 1. mellékelt.xlsx'
+                                )
+                            }}"
+                            ><li>5. napirend 1. melléklet</li></a
+                        >
+                        <a
+                            class="text-white hover:text-zinc-400 ease-in duration-200 ml-3"
+                            target="__blank"
+                            href="{{
+                                asset(
+                                    './pdf/tarsulasrol/koltsegvetes/2026/zarszamadas/5. napirend 2. mellékelt.pdf'
+                                )
+                            }}"
+                            ><li>5. napirend 2. melléklet</li></a
+                        >
+                    </ul>
+                </div>
+            </div>
         {{-- element 2025--}}
             <div class="container w-full">
                 <div
